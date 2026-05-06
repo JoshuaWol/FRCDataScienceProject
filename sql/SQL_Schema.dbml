@@ -12,7 +12,7 @@ Table TeamInfo {
   teamNumber integer
   nameFull varchar
   nameShort varchar
-  districtCode varchar [ref: > Districts.districtKey]
+  districtKey varchar [ref: > Districts.districtKey]
   rookieYear integer
   city varchar
   stateProv varchar
