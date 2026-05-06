@@ -2,13 +2,13 @@
 // Docs: https://dbml.dbdiagram.io/docs
 
 Table Districts{
-  districtkey varchar [not null, pk]
+  districtkey varchar [not null, pk, unique]
   districtCode varchar
   districtName varchar
 }
 
 Table TeamInfo {
-  teamKey integer  [not null, pk]
+  teamKey integer  [not null, pk , unique]
   teamNumber integer
   nameFull varchar
   nameShort varchar
@@ -21,7 +21,7 @@ Table TeamInfo {
 
 
 Table Events {
-  eventKey varchar [not null, pk]
+  eventKey varchar [not null, pk , unique]
   year integer [not null]
   event varchar
   eventType varchar 
@@ -34,7 +34,7 @@ Table Events {
 
 
 table MatchTable {
-  matchKey varchar [not null, pk, unique]
+  matchKey varchar [not null, pk, unique ]
   eventKey varchar [not null, ref: > Events.eventKey]
   year integer
   matchLevel varchar
