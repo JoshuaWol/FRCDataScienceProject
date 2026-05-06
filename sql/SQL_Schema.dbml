@@ -33,7 +33,7 @@ Table Events {
 }
 
 
-table MatchTable {
+Table MatchTable {
   matchKey varchar [not null, pk, unique ]
   eventKey varchar [not null, ref: > Events.eventKey]
   year integer
