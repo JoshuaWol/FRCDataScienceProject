@@ -2,7 +2,7 @@
 // Docs: https://dbml.dbdiagram.io/docs
 
 Table Districts{
-  districtkey varchar [not null, pk, unique]
+  districtKey varchar [not null, pk, unique]
   districtCode varchar
   districtName varchar
 }
@@ -12,7 +12,7 @@ Table TeamInfo {
   teamNumber integer
   nameFull varchar
   nameShort varchar
-  districtCode varchar [ref: > Districts.districtCode]
+  districtCode varchar [ref: > Districts.districtKey]
   rookieYear integer
   city varchar
   stateProv varchar
@@ -29,7 +29,7 @@ Table Events {
   location varchar
   Webcast varchar
   weekNumber integer
-  districtKey varchar [ref: > Districts.districtkey]
+  districtKey varchar [ref: > Districts.districtKey]
 }
 
 
