@@ -1,0 +1,686 @@
+[
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 53,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4926",
+          "frc6421",
+          "frc1792"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 66,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc930",
+          "frc3940",
+          "frc6721"
+        ]
+      }
+    },
+    "comp_level": "f",
+    "event_key": "2022inra",
+    "key": "2022inra_f1m1",
+    "match_number": 1,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 0,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4926",
+          "frc6421",
+          "frc1792"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 1,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc930",
+          "frc3940",
+          "frc6721"
+        ]
+      }
+    },
+    "comp_level": "f",
+    "event_key": "2022inra",
+    "key": "2022inra_f1m2",
+    "match_number": 2,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 43,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1018",
+          "frc3487",
+          "frc4096"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 70,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1720",
+          "frc6421",
+          "frc930"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2022inra",
+    "key": "2022inra_qm1",
+    "match_number": 1,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 68,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4926",
+          "frc1018",
+          "frc3940"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 87,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3176",
+          "frc234",
+          "frc4096"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2022inra",
+    "key": "2022inra_qm10",
+    "match_number": 10,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 25,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc6721",
+          "frc6421",
+          "frc3487"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 47,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc234",
+          "frc8116",
+          "frc1720"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2022inra",
+    "key": "2022inra_qm11",
+    "match_number": 11,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 86,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc930",
+          "frc6721",
+          "frc3940"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 68,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1720",
+          "frc3176",
+          "frc1018"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2022inra",
+    "key": "2022inra_qm12",
+    "match_number": 12,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 27,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3487",
+          "frc1792",
+          "frc8116"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 68,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4096",
+          "frc4926",
+          "frc6421"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2022inra",
+    "key": "2022inra_qm13",
+    "match_number": 13,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 52,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1792",
+          "frc4926",
+          "frc234"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 83,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3940",
+          "frc3176",
+          "frc8116"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2022inra",
+    "key": "2022inra_qm2",
+    "match_number": 2,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 70,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc930",
+          "frc1792",
+          "frc1018"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 14,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc6721",
+          "frc8116",
+          "frc4926"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2022inra",
+    "key": "2022inra_qm3",
+    "match_number": 3,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 93,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3487",
+          "frc3940",
+          "frc3176"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 35,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4096",
+          "frc1720",
+          "frc6721"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2022inra",
+    "key": "2022inra_qm4",
+    "match_number": 4,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 53,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1018",
+          "frc234",
+          "frc6721"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 71,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc6421",
+          "frc4096",
+          "frc1792"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2022inra",
+    "key": "2022inra_qm5",
+    "match_number": 5,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 117,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc6421",
+          "frc3940",
+          "frc234"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 44,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4926",
+          "frc3487",
+          "frc1720"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2022inra",
+    "key": "2022inra_qm6",
+    "match_number": 6,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 44,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc8116",
+          "frc1018",
+          "frc6421"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 84,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3176",
+          "frc930",
+          "frc4926"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2022inra",
+    "key": "2022inra_qm7",
+    "match_number": 7,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 64,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc234",
+          "frc930",
+          "frc3487"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 50,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1792",
+          "frc6721",
+          "frc3176"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2022inra",
+    "key": "2022inra_qm8",
+    "match_number": 8,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 46,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc8116",
+          "frc4096",
+          "frc930"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 81,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3940",
+          "frc1720",
+          "frc1792"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2022inra",
+    "key": "2022inra_qm9",
+    "match_number": 9,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 55,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3487",
+          "frc4096",
+          "frc1018"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 89,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc930",
+          "frc3940",
+          "frc6721"
+        ]
+      }
+    },
+    "comp_level": "sf",
+    "event_key": "2022inra",
+    "key": "2022inra_sf1m1",
+    "match_number": 1,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 0,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3487",
+          "frc4096",
+          "frc1018"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 1,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc930",
+          "frc3940",
+          "frc6721"
+        ]
+      }
+    },
+    "comp_level": "sf",
+    "event_key": "2022inra",
+    "key": "2022inra_sf1m2",
+    "match_number": 2,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 56,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4926",
+          "frc6421",
+          "frc1792"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 50,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1720",
+          "frc3176",
+          "frc8116"
+        ]
+      }
+    },
+    "comp_level": "sf",
+    "event_key": "2022inra",
+    "key": "2022inra_sf2m1",
+    "match_number": 1,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 2,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 1,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4926",
+          "frc6421",
+          "frc1792"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 0,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1720",
+          "frc3176",
+          "frc8116"
+        ]
+      }
+    },
+    "comp_level": "sf",
+    "event_key": "2022inra",
+    "key": "2022inra_sf2m2",
+    "match_number": 2,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 2,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  }
+]

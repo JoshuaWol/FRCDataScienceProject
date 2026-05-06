@@ -1,0 +1,3386 @@
+[
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 51,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2425",
+          "frc1065",
+          "frc79"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 67,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1592",
+          "frc180",
+          "frc3627"
+        ]
+      }
+    },
+    "comp_level": "f",
+    "event_key": "2012sfl",
+    "key": "2012sfl_f1m1",
+    "match_number": 1,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 40,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc79",
+          "frc2425",
+          "frc1065"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 67,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1592",
+          "frc3627",
+          "frc180"
+        ]
+      }
+    },
+    "comp_level": "f",
+    "event_key": "2012sfl",
+    "key": "2012sfl_f1m2",
+    "match_number": 2,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 18,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3992",
+          "frc179",
+          "frc1557"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 61,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc180",
+          "frc1592",
+          "frc3627"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qf1m1",
+    "match_number": 1,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 11,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc179",
+          "frc1557",
+          "frc3992"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 68,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3627",
+          "frc1592",
+          "frc180"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qf1m2",
+    "match_number": 2,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 34,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1902",
+          "frc1523",
+          "frc386"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 8,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1735",
+          "frc3932",
+          "frc190"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qf2m1",
+    "match_number": 1,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 2,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 52,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1902",
+          "frc386",
+          "frc1523"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 39,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc190",
+          "frc3932",
+          "frc1735"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qf2m2",
+    "match_number": 2,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 2,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 19,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2152",
+          "frc348",
+          "frc108"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 62,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc801",
+          "frc665",
+          "frc1251"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qf3m1",
+    "match_number": 1,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 3,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 86,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc348",
+          "frc2152",
+          "frc108"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 49,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1251",
+          "frc801",
+          "frc665"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qf3m2",
+    "match_number": 2,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 3,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 33,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2152",
+          "frc348",
+          "frc108"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 45,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc665",
+          "frc801",
+          "frc1251"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qf3m3",
+    "match_number": 3,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 3,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 31,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3164",
+          "frc744",
+          "frc2383"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 46,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3653",
+          "frc1065",
+          "frc79"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qf4m1",
+    "match_number": 1,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 4,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 48,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3164",
+          "frc2383",
+          "frc744"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 44,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc79",
+          "frc1065",
+          "frc3653"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qf4m2",
+    "match_number": 2,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 4,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 8,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc744",
+          "frc2383",
+          "frc3164"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 30,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3653",
+          "frc79",
+          "frc1065"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qf4m3",
+    "match_number": 3,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 4,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 13,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3932",
+          "frc1369",
+          "frc1592"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 47,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2152",
+          "frc1065",
+          "frc386"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm1",
+    "match_number": 1,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 13,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc386",
+          "frc4184",
+          "frc4052"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 17,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc348",
+          "frc1735",
+          "frc190"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm10",
+    "match_number": 10,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 16,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1251",
+          "frc4224",
+          "frc3992"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 10,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3627",
+          "frc4088",
+          "frc3732"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm11",
+    "match_number": 11,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 14,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1902",
+          "frc665",
+          "frc108"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 10,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3520",
+          "frc2152",
+          "frc1872"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm12",
+    "match_number": 12,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 21,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2383",
+          "frc1557",
+          "frc168"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 27,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1065",
+          "frc801",
+          "frc179"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm13",
+    "match_number": 13,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 14,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc79",
+          "frc2425",
+          "frc3580"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 34,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1592",
+          "frc1523",
+          "frc4379"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm14",
+    "match_number": 14,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 14,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4341",
+          "frc3992",
+          "frc1872"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 43,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2152",
+          "frc348",
+          "frc108"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm15",
+    "match_number": 15,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 17,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3932",
+          "frc1557",
+          "frc1251"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 5,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc665",
+          "frc1369",
+          "frc4088"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm16",
+    "match_number": 16,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 55,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc180",
+          "frc1523",
+          "frc3938"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 9,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4013",
+          "frc4379",
+          "frc4224"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm17",
+    "match_number": 17,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 11,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4118",
+          "frc190",
+          "frc3580"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 48,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1065",
+          "frc3653",
+          "frc744"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm18",
+    "match_number": 18,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 4,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc168",
+          "frc3520",
+          "frc1735"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 6,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1592",
+          "frc59",
+          "frc3164"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm19",
+    "match_number": 19,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 27,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc79",
+          "frc1523",
+          "frc4118"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 22,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3992",
+          "frc108",
+          "frc1557"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm2",
+    "match_number": 2,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 20,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2425",
+          "frc3732",
+          "frc801"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 7,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2383",
+          "frc4184",
+          "frc3410"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm20",
+    "match_number": 20,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 39,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc386",
+          "frc79",
+          "frc179"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 21,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1902",
+          "frc4052",
+          "frc3627"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm21",
+    "match_number": 21,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 0,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4013",
+          "frc4341",
+          "frc1557"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 6,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc190",
+          "frc1592",
+          "frc3992"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm22",
+    "match_number": 22,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 3,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3410",
+          "frc4118",
+          "frc3520"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 43,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2152",
+          "frc3580",
+          "frc1251"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm23",
+    "match_number": 23,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 18,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc744",
+          "frc4224",
+          "frc386"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 26,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc665",
+          "frc2383",
+          "frc3932"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm24",
+    "match_number": 24,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 29,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4184",
+          "frc4379",
+          "frc1902"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 52,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3164",
+          "frc3653",
+          "frc801"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm25",
+    "match_number": 25,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 29,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1369",
+          "frc348",
+          "frc4052"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 14,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3938",
+          "frc108",
+          "frc3732"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm26",
+    "match_number": 26,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 31,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc79",
+          "frc3627",
+          "frc168"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 49,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc180",
+          "frc1065",
+          "frc4088"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm27",
+    "match_number": 27,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 6,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1872",
+          "frc1735",
+          "frc59"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 26,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1523",
+          "frc179",
+          "frc2425"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm28",
+    "match_number": 28,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 5,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3520",
+          "frc386",
+          "frc3938"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 33,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc801",
+          "frc4184",
+          "frc3992"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm29",
+    "match_number": 29,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 3,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2425",
+          "frc3653",
+          "frc4013"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 6,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4224",
+          "frc4341",
+          "frc4052"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm3",
+    "match_number": 3,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 33,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1902",
+          "frc4224",
+          "frc3410"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 26,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4341",
+          "frc1592",
+          "frc348"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm30",
+    "match_number": 30,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 41,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2152",
+          "frc1523",
+          "frc1557"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 17,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3164",
+          "frc3732",
+          "frc168"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm31",
+    "match_number": 31,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 3,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3580",
+          "frc3627",
+          "frc4379"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 19,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4052",
+          "frc1872",
+          "frc3932"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm32",
+    "match_number": 32,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 40,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1065",
+          "frc4013",
+          "frc79"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 26,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc665",
+          "frc2425",
+          "frc744"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm33",
+    "match_number": 33,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 0,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4088",
+          "frc108",
+          "frc4118"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 8,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc190",
+          "frc179",
+          "frc59"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm34",
+    "match_number": 34,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 41,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1251",
+          "frc1735",
+          "frc2383"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 2,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1369",
+          "frc3653",
+          "frc180"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm35",
+    "match_number": 35,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 12,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1557",
+          "frc4379",
+          "frc3164"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 45,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3410",
+          "frc1592",
+          "frc386"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm36",
+    "match_number": 36,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 30,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc665",
+          "frc4052",
+          "frc190"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 24,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc59",
+          "frc3992",
+          "frc4118"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm37",
+    "match_number": 37,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 50,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc744",
+          "frc801",
+          "frc79"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 16,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3627",
+          "frc1251",
+          "frc4341"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm38",
+    "match_number": 38,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 24,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3653",
+          "frc4088",
+          "frc2152"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 12,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4013",
+          "frc1369",
+          "frc1902"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm39",
+    "match_number": 39,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 28,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc801",
+          "frc2383",
+          "frc3938"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 16,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc665",
+          "frc1872",
+          "frc3164"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm4",
+    "match_number": 4,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 32,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc348",
+          "frc1872",
+          "frc1523"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 67,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc180",
+          "frc2383",
+          "frc4224"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm40",
+    "match_number": 40,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 25,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3580",
+          "frc3932",
+          "frc108"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 10,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2425",
+          "frc4184",
+          "frc168"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm41",
+    "match_number": 41,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 17,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc179",
+          "frc3520",
+          "frc3732"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 30,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1735",
+          "frc3938",
+          "frc1065"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm42",
+    "match_number": 42,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 39,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4224",
+          "frc1592",
+          "frc4118"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 34,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1369",
+          "frc1523",
+          "frc801"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm43",
+    "match_number": 43,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 17,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3410",
+          "frc168",
+          "frc665"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 22,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3627",
+          "frc190",
+          "frc2425"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm44",
+    "match_number": 44,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 34,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc108",
+          "frc4341",
+          "frc1735"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 16,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4013",
+          "frc3932",
+          "frc4088"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm45",
+    "match_number": 45,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 23,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2152",
+          "frc744",
+          "frc4379"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 18,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc179",
+          "frc348",
+          "frc4184"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm46",
+    "match_number": 46,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 50,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4052",
+          "frc3992",
+          "frc1065"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 80,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc180",
+          "frc3164",
+          "frc1902"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm47",
+    "match_number": 47,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 34,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3520",
+          "frc3653",
+          "frc1251"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 16,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc386",
+          "frc1872",
+          "frc1557"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm48",
+    "match_number": 48,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 10,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3938",
+          "frc3580",
+          "frc59"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 25,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2383",
+          "frc3732",
+          "frc79"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm49",
+    "match_number": 49,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 29,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1735",
+          "frc179",
+          "frc180"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 16,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3410",
+          "frc744",
+          "frc3732"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm5",
+    "match_number": 5,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 69,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1592",
+          "frc2425",
+          "frc180"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 8,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4184",
+          "frc4118",
+          "frc3932"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm50",
+    "match_number": 50,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 34,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4224",
+          "frc801",
+          "frc348"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 70,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1065",
+          "frc1251",
+          "frc108"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm51",
+    "match_number": 51,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 15,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc665",
+          "frc59",
+          "frc2152"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 37,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3653",
+          "frc3938",
+          "frc79"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm52",
+    "match_number": 52,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 0,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4088",
+          "frc1872",
+          "frc3410"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 37,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc386",
+          "frc3992",
+          "frc2383"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm53",
+    "match_number": 53,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 21,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc179",
+          "frc3627",
+          "frc3164"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 40,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc190",
+          "frc1523",
+          "frc4013"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm54",
+    "match_number": 54,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 39,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1735",
+          "frc1902",
+          "frc744"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 13,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1557",
+          "frc3580",
+          "frc3732"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm55",
+    "match_number": 55,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 14,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc168",
+          "frc1369",
+          "frc4341"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 30,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3520",
+          "frc4379",
+          "frc4052"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm56",
+    "match_number": 56,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 52,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1065",
+          "frc3932",
+          "frc3164"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 34,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc79",
+          "frc348",
+          "frc59"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm57",
+    "match_number": 57,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 37,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1592",
+          "frc3938",
+          "frc1251"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 22,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3653",
+          "frc3410",
+          "frc3627"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm58",
+    "match_number": 58,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 31,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc190",
+          "frc2383",
+          "frc108"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 18,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1735",
+          "frc4184",
+          "frc2152"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm59",
+    "match_number": 59,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 8,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4184",
+          "frc3627",
+          "frc59"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 32,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1902",
+          "frc168",
+          "frc1251"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm6",
+    "match_number": 6,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 29,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc179",
+          "frc3992",
+          "frc1902"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 10,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1369",
+          "frc2425",
+          "frc4224"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm60",
+    "match_number": 60,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 5,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4118",
+          "frc4013",
+          "frc3732"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 6,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4379",
+          "frc168",
+          "frc1872"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm61",
+    "match_number": 61,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 32,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1557",
+          "frc180",
+          "frc665"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 15,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4341",
+          "frc3580",
+          "frc386"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm62",
+    "match_number": 62,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 53,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1523",
+          "frc744",
+          "frc4052"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 37,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3520",
+          "frc801",
+          "frc4088"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm63",
+    "match_number": 63,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 13,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2383",
+          "frc179",
+          "frc4013"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 18,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc79",
+          "frc4379",
+          "frc1251"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm64",
+    "match_number": 64,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 36,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3164",
+          "frc3580",
+          "frc3410"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 25,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3627",
+          "frc1369",
+          "frc108"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm65",
+    "match_number": 65,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 12,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc386",
+          "frc2425",
+          "frc1735"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 20,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3938",
+          "frc4224",
+          "frc2152"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm66",
+    "match_number": 66,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 26,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3992",
+          "frc4088",
+          "frc348"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 18,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4118",
+          "frc168",
+          "frc3653"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm67",
+    "match_number": 67,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 62,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc180",
+          "frc801",
+          "frc3932"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 26,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3520",
+          "frc1902",
+          "frc190"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm68",
+    "match_number": 68,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 34,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1592",
+          "frc744",
+          "frc1872"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 8,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1557",
+          "frc59",
+          "frc4052"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm69",
+    "match_number": 69,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 0,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4379",
+          "frc190",
+          "frc4088"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 5,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3580",
+          "frc348",
+          "frc3520"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm7",
+    "match_number": 7,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 34,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3732",
+          "frc4184",
+          "frc1065"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 33,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4341",
+          "frc665",
+          "frc1523"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm70",
+    "match_number": 70,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 17,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3520",
+          "frc3627",
+          "frc4013"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 33,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4118",
+          "frc348",
+          "frc2383"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm71",
+    "match_number": 71,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 44,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2152",
+          "frc168",
+          "frc180"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 28,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3938",
+          "frc744",
+          "frc1557"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm72",
+    "match_number": 72,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 10,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1523",
+          "frc3732",
+          "frc3653"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 20,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1902",
+          "frc386",
+          "frc3932"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm73",
+    "match_number": 73,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 27,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1251",
+          "frc3410",
+          "frc2425"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 3,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3164",
+          "frc4052",
+          "frc4088"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm74",
+    "match_number": 74,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 44,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc665",
+          "frc1592",
+          "frc1065"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 26,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc179",
+          "frc108",
+          "frc4379"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm75",
+    "match_number": 75,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 44,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4341",
+          "frc59",
+          "frc801"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 2,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1735",
+          "frc3992",
+          "frc3580"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm76",
+    "match_number": 76,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 19,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc190",
+          "frc1369",
+          "frc4184"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 30,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4224",
+          "frc1872",
+          "frc79"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm77",
+    "match_number": 77,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 8,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3938",
+          "frc3164",
+          "frc1369"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 14,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4341",
+          "frc744",
+          "frc4118"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm8",
+    "match_number": 8,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 22,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3932",
+          "frc59",
+          "frc3653"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 13,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3410",
+          "frc180",
+          "frc4013"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2012sfl",
+    "key": "2012sfl_qm9",
+    "match_number": 9,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 58,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1902",
+          "frc1523",
+          "frc386"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 64,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc180",
+          "frc1592",
+          "frc3627"
+        ]
+      }
+    },
+    "comp_level": "sf",
+    "event_key": "2012sfl",
+    "key": "2012sfl_sf1m1",
+    "match_number": 1,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 27,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1523",
+          "frc1902",
+          "frc386"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 50,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1592",
+          "frc3627",
+          "frc180"
+        ]
+      }
+    },
+    "comp_level": "sf",
+    "event_key": "2012sfl",
+    "key": "2012sfl_sf1m2",
+    "match_number": 2,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 1,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 45,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1065",
+          "frc79",
+          "frc3653"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 68,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1251",
+          "frc801",
+          "frc665"
+        ]
+      }
+    },
+    "comp_level": "sf",
+    "event_key": "2012sfl",
+    "key": "2012sfl_sf2m1",
+    "match_number": 1,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 2,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 48,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc79",
+          "frc1065",
+          "frc3653"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 30,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1251",
+          "frc665",
+          "frc801"
+        ]
+      }
+    },
+    "comp_level": "sf",
+    "event_key": "2012sfl",
+    "key": "2012sfl_sf2m2",
+    "match_number": 2,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 2,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 42,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1065",
+          "frc2425",
+          "frc79"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 24,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1251",
+          "frc801",
+          "frc665"
+        ]
+      }
+    },
+    "comp_level": "sf",
+    "event_key": "2012sfl",
+    "key": "2012sfl_sf2m3",
+    "match_number": 3,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": null,
+    "set_number": 2,
+    "time": null,
+    "videos": [],
+    "winning_alliance": "blue"
+  }
+]

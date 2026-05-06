@@ -1,0 +1,5912 @@
+[
+  {
+    "actual_time": 1509301454,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 255,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4910",
+          "frc4112",
+          "frc6325"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 332,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc6705",
+          "frc1002",
+          "frc1746"
+        ]
+      }
+    },
+    "comp_level": "f",
+    "event_key": "2017gagr",
+    "key": "2017gagr_f1m1",
+    "match_number": 1,
+    "post_result_time": 1509301618,
+    "predicted_time": 1509301441,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 75,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": null,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 180,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 100,
+        "totalPoints": 255,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "None"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 25,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 25,
+        "autoMobilityPoints": 15,
+        "autoPoints": 100,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": null,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 7,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 2,
+        "teleopPoints": 232,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 150,
+        "totalPoints": 332,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "ReadyForTakeoff"
+      }
+    },
+    "set_number": 1,
+    "time": 1509301440,
+    "videos": [
+      {
+        "key": "DQjJ9y9qQdM",
+        "type": "youtube"
+      },
+      {
+        "key": "Ky7b44Egptw",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": 1509302556,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 305,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4910",
+          "frc5332",
+          "frc6325"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 495,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2415",
+          "frc1002",
+          "frc1746"
+        ]
+      }
+    },
+    "comp_level": "f",
+    "event_key": "2017gagr",
+    "key": "2017gagr_f1m2",
+    "match_number": 2,
+    "post_result_time": 1509302727,
+    "predicted_time": 1509302525,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 75,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": null,
+        "techFoulCount": 1,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 230,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 150,
+        "totalPoints": 305,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "ReadyForTakeoff"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 24,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 24,
+        "autoMobilityPoints": 15,
+        "autoPoints": 99,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 25,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": true,
+        "rotorBonusPoints": 100,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": null,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 5,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 1,
+        "teleopPoints": 371,
+        "teleopRotorPoints": 120,
+        "teleopTakeoffPoints": 150,
+        "totalPoints": 495,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "ReadyForTakeoff"
+      }
+    },
+    "set_number": 1,
+    "time": 1509302220,
+    "videos": [
+      {
+        "key": "sYvO-NqPsXI",
+        "type": "youtube"
+      },
+      {
+        "key": "GF5hmfl1fgQ",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": 1509203300,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 180,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2415",
+          "frc1771",
+          "frc6829"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 185,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5293",
+          "frc1311",
+          "frc1261"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm1",
+    "match_number": 1,
+    "post_result_time": 1509203505,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 10,
+        "autoPoints": 10,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "None",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 0,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 170,
+        "teleopRotorPoints": 120,
+        "teleopTakeoffPoints": 50,
+        "totalPoints": 180,
+        "touchpadFar": "None",
+        "touchpadMiddle": "None",
+        "touchpadNear": "ReadyForTakeoff"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 5,
+        "autoPoints": 5,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "None",
+        "robot2Auto": "None",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": false,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 2,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 180,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 100,
+        "totalPoints": 185,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "None",
+        "touchpadNear": "ReadyForTakeoff"
+      }
+    },
+    "set_number": 1,
+    "time": 1509202800,
+    "videos": [
+      {
+        "key": "ipV4JWpAkIU",
+        "type": "youtube"
+      },
+      {
+        "key": "uAj0Ww-xxhg",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": 1509209999,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 153,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3581",
+          "frc6325",
+          "frc4509"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 230,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2415",
+          "frc4468",
+          "frc2974"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm10",
+    "match_number": 10,
+    "post_result_time": 1509210180,
+    "predicted_time": 1509209893,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 9,
+        "autoFuelPoints": 3,
+        "autoMobilityPoints": 10,
+        "autoPoints": 73,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "None",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 0,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 80,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 0,
+        "totalPoints": 153,
+        "touchpadFar": "None",
+        "touchpadMiddle": "None",
+        "touchpadNear": "None"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 10,
+        "autoPoints": 10,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "None",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 2,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 220,
+        "teleopRotorPoints": 120,
+        "teleopTakeoffPoints": 100,
+        "totalPoints": 230,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "None",
+        "touchpadNear": "ReadyForTakeoff"
+      }
+    },
+    "set_number": 1,
+    "time": 1509207660,
+    "videos": [
+      {
+        "key": "6KHIf9aNCok",
+        "type": "youtube"
+      },
+      {
+        "key": "t1CvbFk5Pvc",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": 1509210566,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 253,
+        "surrogate_team_keys": [
+          "frc5109"
+        ],
+        "team_keys": [
+          "frc5109",
+          "frc5482",
+          "frc4189"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 162,
+        "surrogate_team_keys": [
+          "frc3998"
+        ],
+        "team_keys": [
+          "frc1771",
+          "frc3998",
+          "frc1746"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm11",
+    "match_number": 11,
+    "post_result_time": 1509210771,
+    "predicted_time": 1509210580,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 9,
+        "autoFuelPoints": 3,
+        "autoMobilityPoints": 10,
+        "autoPoints": 73,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "None",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 2,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 180,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 100,
+        "totalPoints": 253,
+        "touchpadFar": "None",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "ReadyForTakeoff"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 17,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 17,
+        "autoMobilityPoints": 10,
+        "autoPoints": 27,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "None",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": false,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 0,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 17,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 5,
+        "teleopPoints": 135,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 50,
+        "totalPoints": 162,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "None",
+        "touchpadNear": "None"
+      }
+    },
+    "set_number": 1,
+    "time": 1509208200,
+    "videos": [
+      {
+        "key": "as7u0apfSHg",
+        "type": "youtube"
+      },
+      {
+        "key": "_pSxEEr4w5Q",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": 1509211098,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 161,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5132",
+          "frc3581",
+          "frc1311"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 190,
+        "surrogate_team_keys": [
+          "frc2415"
+        ],
+        "team_keys": [
+          "frc2415",
+          "frc5608",
+          "frc6705"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm12",
+    "match_number": 12,
+    "post_result_time": 1509211267,
+    "predicted_time": 1509211143,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 10,
+        "autoPoints": 70,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "None",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": false,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 0,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 3,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 1,
+        "teleopPoints": 91,
+        "teleopRotorPoints": 40,
+        "teleopTakeoffPoints": 50,
+        "totalPoints": 161,
+        "touchpadFar": "None",
+        "touchpadMiddle": "None",
+        "touchpadNear": "ReadyForTakeoff"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 10,
+        "autoPoints": 10,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "None",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": false,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 2,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 180,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 100,
+        "totalPoints": 190,
+        "touchpadFar": "None",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "ReadyForTakeoff"
+      }
+    },
+    "set_number": 1,
+    "time": 1509208740,
+    "videos": [
+      {
+        "key": "YCFEpfHfajM",
+        "type": "youtube"
+      },
+      {
+        "key": "-B5WsCVRaAI",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": 1509203328,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 280,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc6829",
+          "frc4112",
+          "frc5332"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 185,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4026",
+          "frc6325",
+          "frc5293"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm13",
+    "match_number": 13,
+    "post_result_time": 1509203505,
+    "predicted_time": 1509217732,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 10,
+        "autoPoints": 10,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 50,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "None",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 2,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 220,
+        "teleopRotorPoints": 120,
+        "teleopTakeoffPoints": 100,
+        "totalPoints": 280,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "None"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 15,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 0,
+        "techFoulCount": 2,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 170,
+        "teleopRotorPoints": 120,
+        "teleopTakeoffPoints": 50,
+        "totalPoints": 185,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "None",
+        "touchpadNear": "None"
+      }
+    },
+    "set_number": 1,
+    "time": 1509218100,
+    "videos": [
+      {
+        "key": "ZYDJEb9Z9oY",
+        "type": "youtube"
+      },
+      {
+        "key": "adZCxaqHMpI",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": 1509203890,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 205,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc832",
+          "frc4910",
+          "frc1261"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 300,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2974",
+          "frc3815",
+          "frc4188"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm14",
+    "match_number": 14,
+    "post_result_time": 1509204076,
+    "predicted_time": 1509218283,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 75,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 0,
+        "techFoulCount": 1,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 130,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 50,
+        "totalPoints": 205,
+        "touchpadFar": "None",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "None"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 5,
+        "autoPoints": 5,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 25,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "None",
+        "robot2Auto": "None",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 2,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 270,
+        "teleopRotorPoints": 120,
+        "teleopTakeoffPoints": 150,
+        "totalPoints": 300,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "ReadyForTakeoff"
+      }
+    },
+    "set_number": 1,
+    "time": 1509218640,
+    "videos": [
+      {
+        "key": "8DCrmx-2K8g",
+        "type": "youtube"
+      },
+      {
+        "key": "eNSODAFa9dE",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": 1509204499,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 250,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5608",
+          "frc1414",
+          "frc1771"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 260,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1648",
+          "frc1002",
+          "frc2415"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm15",
+    "match_number": 15,
+    "post_result_time": 1509204671,
+    "predicted_time": 1509218881,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 10,
+        "autoPoints": 70,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "None",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 0,
+        "techFoulCount": 1,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 180,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 100,
+        "totalPoints": 250,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "None"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 15,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 25,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 2,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 220,
+        "teleopRotorPoints": 120,
+        "teleopTakeoffPoints": 100,
+        "totalPoints": 260,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "None"
+      }
+    },
+    "set_number": 1,
+    "time": 1509219180,
+    "videos": [
+      {
+        "key": "xLx5YbUAI1M",
+        "type": "youtube"
+      },
+      {
+        "key": "TYLQx58q_0g",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": 1509204984,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 205,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4468",
+          "frc3815",
+          "frc1746"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 305,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc6705",
+          "frc4189",
+          "frc6829"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm16",
+    "match_number": 16,
+    "post_result_time": 1509205157,
+    "predicted_time": 1509219361,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 5,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 5,
+        "autoMobilityPoints": 10,
+        "autoPoints": 75,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "None",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 0,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 1,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 130,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 50,
+        "totalPoints": 205,
+        "touchpadFar": "None",
+        "touchpadMiddle": "None",
+        "touchpadNear": "ReadyForTakeoff"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 75,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 2,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 230,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 150,
+        "totalPoints": 305,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "ReadyForTakeoff"
+      }
+    },
+    "set_number": 1,
+    "time": 1509219720,
+    "videos": [
+      {
+        "key": "INQQr2LtP_4",
+        "type": "youtube"
+      },
+      {
+        "key": "7w759Iy1LaU",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": 1509205522,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 155,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1648",
+          "frc4188",
+          "frc1261"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 185,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3998",
+          "frc5332",
+          "frc4026"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm17",
+    "match_number": 17,
+    "post_result_time": 1509205699,
+    "predicted_time": 1509219902,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 75,
+        "autoRotorPoints": 60,
+        "foulCount": 1,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 0,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 80,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 0,
+        "totalPoints": 155,
+        "touchpadFar": "None",
+        "touchpadMiddle": "None",
+        "touchpadNear": "None"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 10,
+        "autoPoints": 10,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 5,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "None",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 2,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 2,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 170,
+        "teleopRotorPoints": 120,
+        "teleopTakeoffPoints": 50,
+        "totalPoints": 185,
+        "touchpadFar": "None",
+        "touchpadMiddle": "None",
+        "touchpadNear": "ReadyForTakeoff"
+      }
+    },
+    "set_number": 1,
+    "time": 1509220260,
+    "videos": [
+      {
+        "key": "YaBJ8Iz1wUg",
+        "type": "youtube"
+      },
+      {
+        "key": "W8LJ6rGVqiQ",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": 1509205969,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 230,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc6325",
+          "frc1311",
+          "frc4112"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 180,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc832",
+          "frc1414",
+          "frc5482"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm18",
+    "match_number": 18,
+    "post_result_time": 1509206143,
+    "predicted_time": 1509220321,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 75,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 25,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 2,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 130,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 50,
+        "totalPoints": 230,
+        "touchpadFar": "None",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "None"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 10,
+        "autoPoints": 10,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "None",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 0,
+        "techFoulCount": 1,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 170,
+        "teleopRotorPoints": 120,
+        "teleopTakeoffPoints": 50,
+        "totalPoints": 180,
+        "touchpadFar": "None",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "None"
+      }
+    },
+    "set_number": 1,
+    "time": 1509220800,
+    "videos": [
+      {
+        "key": "-aJFsDMGlnw",
+        "type": "youtube"
+      },
+      {
+        "key": "VY3wyoVFFFs",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": 1509206469,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 258,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3581",
+          "frc2974",
+          "frc1002"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 150,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5132",
+          "frc5293",
+          "frc5109"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm19",
+    "match_number": 19,
+    "post_result_time": 1509206665,
+    "predicted_time": 1509220861,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 9,
+        "autoFuelPoints": 3,
+        "autoMobilityPoints": 15,
+        "autoPoints": 78,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 2,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 180,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 100,
+        "totalPoints": 258,
+        "touchpadFar": "None",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "ReadyForTakeoff"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 10,
+        "autoPoints": 70,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "None",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 0,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 1,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 80,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 0,
+        "totalPoints": 150,
+        "touchpadFar": "None",
+        "touchpadMiddle": "None",
+        "touchpadNear": "None"
+      }
+    },
+    "set_number": 1,
+    "time": 1509221340,
+    "videos": [
+      {
+        "key": "BadcZzuo6WU",
+        "type": "youtube"
+      },
+      {
+        "key": "WvkyQnHyPLY",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": 1509204136,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 137,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3998",
+          "frc4189",
+          "frc4468"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 200,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1002",
+          "frc4910",
+          "frc5608"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm2",
+    "match_number": 2,
+    "post_result_time": 1509204335,
+    "predicted_time": 1509204121,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 8,
+        "autoFuelPoints": 2,
+        "autoMobilityPoints": 15,
+        "autoPoints": 17,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 0,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 120,
+        "teleopRotorPoints": 120,
+        "teleopTakeoffPoints": 0,
+        "totalPoints": 137,
+        "touchpadFar": "None",
+        "touchpadMiddle": "None",
+        "touchpadNear": "None"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 10,
+        "autoPoints": 70,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "None",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 2,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 130,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 50,
+        "totalPoints": 200,
+        "touchpadFar": "None",
+        "touchpadMiddle": "None",
+        "touchpadNear": "ReadyForTakeoff"
+      }
+    },
+    "set_number": 1,
+    "time": 1509203340,
+    "videos": [
+      {
+        "key": "xEyVo3jobyg",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": 1509206902,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 235,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4509",
+          "frc4112",
+          "frc4188"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 230,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4910",
+          "frc4468",
+          "frc6829"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm20",
+    "match_number": 20,
+    "post_result_time": 1509207071,
+    "predicted_time": 1509221281,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 15,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 2,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 220,
+        "teleopRotorPoints": 120,
+        "teleopTakeoffPoints": 100,
+        "totalPoints": 235,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "None",
+        "touchpadNear": "ReadyForTakeoff"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 10,
+        "autoPoints": 10,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "None",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 0,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 220,
+        "teleopRotorPoints": 120,
+        "teleopTakeoffPoints": 100,
+        "totalPoints": 230,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "None",
+        "touchpadNear": "ReadyForTakeoff"
+      }
+    },
+    "set_number": 1,
+    "time": 1509221880,
+    "videos": [
+      {
+        "key": "qv2dctGA9yE",
+        "type": "youtube"
+      },
+      {
+        "key": "w3yLqW49wzs",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": 1509207407,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 240,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5608",
+          "frc5482",
+          "frc5293"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 150,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1414",
+          "frc1261",
+          "frc3815"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm21",
+    "match_number": 21,
+    "post_result_time": 1509207684,
+    "predicted_time": 1509221881,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 15,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 5,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 2,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 220,
+        "teleopRotorPoints": 120,
+        "teleopTakeoffPoints": 100,
+        "totalPoints": 240,
+        "touchpadFar": "None",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "ReadyForTakeoff"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 10,
+        "autoPoints": 70,
+        "autoRotorPoints": 60,
+        "foulCount": 1,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "None",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 0,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 80,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 0,
+        "totalPoints": 150,
+        "touchpadFar": "None",
+        "touchpadMiddle": "None",
+        "touchpadNear": "None"
+      }
+    },
+    "set_number": 1,
+    "time": 1509222420,
+    "videos": [
+      {
+        "key": "I2EkupRPdtI",
+        "type": "youtube"
+      },
+      {
+        "key": "Bc5FrqfFR0k",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": 1509208358,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 165,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2974",
+          "frc5109",
+          "frc1771"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 255,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3998",
+          "frc6325",
+          "frc1648"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm22",
+    "match_number": 22,
+    "post_result_time": 1509208528,
+    "predicted_time": 1509222783,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 10,
+        "autoPoints": 10,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 25,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "None",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": false,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 0,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 130,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 50,
+        "totalPoints": 165,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "None",
+        "touchpadNear": "None"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 75,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 2,
+        "techFoulCount": 1,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 180,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 100,
+        "totalPoints": 255,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "None"
+      }
+    },
+    "set_number": 1,
+    "time": 1509222960,
+    "videos": [
+      {
+        "key": "DmRhzjHGWJc",
+        "type": "youtube"
+      },
+      {
+        "key": "pJ-KZGj7ejw",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": 1509208819,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 173,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5332",
+          "frc1746",
+          "frc6705"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 199,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1311",
+          "frc832",
+          "frc2415"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm23",
+    "match_number": 23,
+    "post_result_time": 1509209002,
+    "predicted_time": 1509223141,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 8,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 8,
+        "autoMobilityPoints": 10,
+        "autoPoints": 18,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 25,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "None",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": false,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 0,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 130,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 50,
+        "totalPoints": 173,
+        "touchpadFar": "None",
+        "touchpadMiddle": "None",
+        "touchpadNear": "ReadyForTakeoff"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 15,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": false,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 2,
+        "techFoulCount": 1,
+        "teleopFuelHigh": 14,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 4,
+        "teleopPoints": 184,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 100,
+        "totalPoints": 199,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "None"
+      }
+    },
+    "set_number": 1,
+    "time": 1509223500,
+    "videos": [
+      {
+        "key": "b2oxoRQBrlE",
+        "type": "youtube"
+      },
+      {
+        "key": "CdNXvU2UVmY",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": 1509209242,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 250,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1002",
+          "frc4026",
+          "frc5132"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 385,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4910",
+          "frc4509",
+          "frc4189"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm24",
+    "match_number": 24,
+    "post_result_time": 1509209426,
+    "predicted_time": 1509223561,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 10,
+        "autoPoints": 70,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "None",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 0,
+        "techFoulCount": 4,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 180,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 100,
+        "totalPoints": 250,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "None"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 15,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 100,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 2,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 270,
+        "teleopRotorPoints": 120,
+        "teleopTakeoffPoints": 150,
+        "totalPoints": 385,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "ReadyForTakeoff"
+      }
+    },
+    "set_number": 1,
+    "time": 1509224040,
+    "videos": [
+      {
+        "key": "yuouUXp42Ak",
+        "type": "youtube"
+      },
+      {
+        "key": "n8egNi1yx8Y",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": 1509209830,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 235,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3998",
+          "frc6829",
+          "frc5608"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 218,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc832",
+          "frc3581",
+          "frc6705"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm25",
+    "match_number": 25,
+    "post_result_time": 1509210028,
+    "predicted_time": 1509224223,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 15,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 2,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 220,
+        "teleopRotorPoints": 120,
+        "teleopTakeoffPoints": 100,
+        "totalPoints": 235,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "None",
+        "touchpadNear": "ReadyForTakeoff"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 9,
+        "autoFuelPoints": 3,
+        "autoMobilityPoints": 15,
+        "autoPoints": 78,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": false,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 0,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 140,
+        "teleopRotorPoints": 40,
+        "teleopTakeoffPoints": 100,
+        "totalPoints": 218,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "None",
+        "touchpadNear": "ReadyForTakeoff"
+      }
+    },
+    "set_number": 1,
+    "time": 1509224580,
+    "videos": [
+      {
+        "key": "QEy0eE247rA",
+        "type": "youtube"
+      },
+      {
+        "key": "zyqhN68kHPQ",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": 1509210271,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 287,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4189",
+          "frc1002",
+          "frc4112"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 235,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5482",
+          "frc2974",
+          "frc1311"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm26",
+    "match_number": 26,
+    "post_result_time": 1509210469,
+    "predicted_time": 1509224581,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 8,
+        "autoFuelPoints": 2,
+        "autoMobilityPoints": 15,
+        "autoPoints": 17,
+        "autoRotorPoints": 0,
+        "foulCount": 1,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 2,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 270,
+        "teleopRotorPoints": 120,
+        "teleopTakeoffPoints": 150,
+        "totalPoints": 287,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "ReadyForTakeoff"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 10,
+        "autoPoints": 10,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 5,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "None",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 0,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 220,
+        "teleopRotorPoints": 120,
+        "teleopTakeoffPoints": 100,
+        "totalPoints": 235,
+        "touchpadFar": "None",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "ReadyForTakeoff"
+      }
+    },
+    "set_number": 1,
+    "time": 1509225120,
+    "videos": [
+      {
+        "key": "BXtG-fstTVo",
+        "type": "youtube"
+      },
+      {
+        "key": "2rS5OwNUozY",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": 1509210722,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 380,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc6325",
+          "frc4188",
+          "frc4910"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 225,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3581",
+          "frc2415",
+          "frc1746"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm27",
+    "match_number": 27,
+    "post_result_time": 1509210906,
+    "predicted_time": 1509225003,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 75,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 35,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": true,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": true,
+        "tba_rpEarned": 3,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 270,
+        "teleopRotorPoints": 120,
+        "teleopTakeoffPoints": 150,
+        "totalPoints": 380,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "ReadyForTakeoff"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 15,
+        "autoRotorPoints": 0,
+        "foulCount": 2,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": true,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": true,
+        "tba_rpEarned": 1,
+        "techFoulCount": 1,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 210,
+        "teleopRotorPoints": 160,
+        "teleopTakeoffPoints": 50,
+        "totalPoints": 225,
+        "touchpadFar": "None",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "None"
+      }
+    },
+    "set_number": 1,
+    "time": 1509225660,
+    "videos": [
+      {
+        "key": "OrRWlVwcCb8",
+        "type": "youtube"
+      },
+      {
+        "key": "UX1FzukVCKE",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": 1509211246,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 250,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1414",
+          "frc5132",
+          "frc4468"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 200,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4026",
+          "frc1261",
+          "frc1771"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm28",
+    "match_number": 28,
+    "post_result_time": 1509211415,
+    "predicted_time": 1509225542,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 10,
+        "autoPoints": 70,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "None",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 2,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 180,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 100,
+        "totalPoints": 250,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "None",
+        "touchpadNear": "ReadyForTakeoff"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 10,
+        "autoPoints": 70,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "None",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 0,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 130,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 50,
+        "totalPoints": 200,
+        "touchpadFar": "None",
+        "touchpadMiddle": "None",
+        "touchpadNear": "ReadyForTakeoff"
+      }
+    },
+    "set_number": 1,
+    "time": 1509226200,
+    "videos": [
+      {
+        "key": "4mrUWtQYaPU",
+        "type": "youtube"
+      },
+      {
+        "key": "aXpnMNybWo4",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": 1509211926,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 210,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3815",
+          "frc5332",
+          "frc5293"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 100,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5109",
+          "frc4509",
+          "frc1648"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm29",
+    "match_number": 29,
+    "post_result_time": 1509212111,
+    "predicted_time": 1509226323,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 5,
+        "autoPoints": 5,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 25,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "None",
+        "robot2Auto": "None",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": false,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 2,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 180,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 100,
+        "totalPoints": 210,
+        "touchpadFar": "None",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "ReadyForTakeoff"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 10,
+        "autoPoints": 10,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "None",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": false,
+        "rotor3Engaged": false,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 0,
+        "techFoulCount": 1,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 90,
+        "teleopRotorPoints": 40,
+        "teleopTakeoffPoints": 50,
+        "totalPoints": 100,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "None",
+        "touchpadNear": "None"
+      }
+    },
+    "set_number": 1,
+    "time": 1509226740,
+    "videos": [
+      {
+        "key": "u240ryjCCRs",
+        "type": "youtube"
+      },
+      {
+        "key": "5LMCy4rZGgU",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": 1509204729,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 95,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc6325",
+          "frc6705",
+          "frc5109"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 185,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5482",
+          "frc4188",
+          "frc4026"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm3",
+    "match_number": 3,
+    "post_result_time": 1509204903,
+    "predicted_time": 1509204661,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 15,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": false,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 0,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 80,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 0,
+        "totalPoints": 95,
+        "touchpadFar": "None",
+        "touchpadMiddle": "None",
+        "touchpadNear": "None"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 15,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 2,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 170,
+        "teleopRotorPoints": 120,
+        "teleopTakeoffPoints": 50,
+        "totalPoints": 185,
+        "touchpadFar": "None",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "None"
+      }
+    },
+    "set_number": 1,
+    "time": 1509203880,
+    "videos": [
+      {
+        "key": "ZivGw3vCksE",
+        "type": "youtube"
+      },
+      {
+        "key": "NmYultW5r0o",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": 1509212405,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 195,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc832",
+          "frc6829",
+          "frc4026"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 255,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1002",
+          "frc5482",
+          "frc4468"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm30",
+    "match_number": 30,
+    "post_result_time": 1509212573,
+    "predicted_time": 1509226686,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 15,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": false,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 0,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 180,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 100,
+        "totalPoints": 195,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "None",
+        "touchpadNear": "ReadyForTakeoff"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 75,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 2,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 180,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 100,
+        "totalPoints": 255,
+        "touchpadFar": "None",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "ReadyForTakeoff"
+      }
+    },
+    "set_number": 1,
+    "time": 1509227280,
+    "videos": [
+      {
+        "key": "R2z7KXd_b7E",
+        "type": "youtube"
+      },
+      {
+        "key": "OYiN9RD1Slk",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": 1509212911,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 150,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4910",
+          "frc3815",
+          "frc5132"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 195,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc6325",
+          "frc5332",
+          "frc1771"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm31",
+    "match_number": 31,
+    "post_result_time": 1509213096,
+    "predicted_time": 1509227281,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 10,
+        "autoPoints": 70,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "None",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 0,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 80,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 0,
+        "totalPoints": 150,
+        "touchpadFar": "None",
+        "touchpadMiddle": "None",
+        "touchpadNear": "None"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 5,
+        "autoPoints": 65,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "None",
+        "robot3Auto": "None",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 2,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 130,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 50,
+        "totalPoints": 195,
+        "touchpadFar": "None",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "None"
+      }
+    },
+    "set_number": 1,
+    "time": 1509227820,
+    "videos": [
+      {
+        "key": "CvrVAhIxw9k",
+        "type": "youtube"
+      },
+      {
+        "key": "aU85dcqxk0w",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": 1509213440,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 256,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2974",
+          "frc1648",
+          "frc4189"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 255,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2415",
+          "frc5293",
+          "frc4188"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm32",
+    "match_number": 32,
+    "post_result_time": 1509213610,
+    "predicted_time": 1509227824,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 5,
+        "autoFuelPoints": 1,
+        "autoMobilityPoints": 15,
+        "autoPoints": 76,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 2,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 180,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 100,
+        "totalPoints": 256,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "None",
+        "touchpadNear": "ReadyForTakeoff"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 75,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 0,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 180,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 100,
+        "totalPoints": 255,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "None"
+      }
+    },
+    "set_number": 1,
+    "time": 1509228360,
+    "videos": [
+      {
+        "key": "7-M8zOtdQwo",
+        "type": "youtube"
+      },
+      {
+        "key": "pnSOSOwpt30",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": 1509271263,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 233,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1746",
+          "frc1261",
+          "frc5608"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 206,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3581",
+          "frc3998",
+          "frc4112"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm33",
+    "match_number": 33,
+    "post_result_time": 1509271446,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 8,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 8,
+        "autoMobilityPoints": 15,
+        "autoPoints": 23,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": true,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": true,
+        "tba_rpEarned": 3,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 210,
+        "teleopRotorPoints": 160,
+        "teleopTakeoffPoints": 50,
+        "totalPoints": 233,
+        "touchpadFar": "None",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "None"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 3,
+        "autoFuelPoints": 1,
+        "autoMobilityPoints": 15,
+        "autoPoints": 76,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 0,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 130,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 50,
+        "totalPoints": 206,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "None",
+        "touchpadNear": "None"
+      }
+    },
+    "set_number": 1,
+    "time": 1509285600,
+    "videos": [
+      {
+        "key": "c5-SfNP3kwo",
+        "type": "youtube"
+      },
+      {
+        "key": "6fTPacYGfZk",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": 1509271900,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 230,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4509",
+          "frc6705",
+          "frc4468"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 256,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1311",
+          "frc1414",
+          "frc5109"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm34",
+    "match_number": 34,
+    "post_result_time": 1509272077,
+    "predicted_time": 1509286260,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 5,
+        "autoPoints": 5,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 5,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "None",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "None",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 0,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 220,
+        "teleopRotorPoints": 120,
+        "teleopTakeoffPoints": 100,
+        "totalPoints": 230,
+        "touchpadFar": "None",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "ReadyForTakeoff"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 75,
+        "autoRotorPoints": 60,
+        "foulCount": 1,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 2,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 4,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 1,
+        "teleopPoints": 181,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 100,
+        "totalPoints": 256,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "None",
+        "touchpadNear": "ReadyForTakeoff"
+      }
+    },
+    "set_number": 1,
+    "time": 1509286140,
+    "videos": [
+      {
+        "key": "ZdT5krUJK94",
+        "type": "youtube"
+      },
+      {
+        "key": "Igt46lJ3k_c",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": 1509272310,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 280,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5482",
+          "frc1771",
+          "frc4112"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 230,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1648",
+          "frc3581",
+          "frc5332"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm35",
+    "match_number": 35,
+    "post_result_time": 1509272488,
+    "predicted_time": 1509286685,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 10,
+        "autoPoints": 70,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 30,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "None",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 2,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 180,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 100,
+        "totalPoints": 280,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "None",
+        "touchpadNear": "ReadyForTakeoff"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 10,
+        "autoPoints": 10,
+        "autoRotorPoints": 0,
+        "foulCount": 1,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "None",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 0,
+        "techFoulCount": 1,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 220,
+        "teleopRotorPoints": 120,
+        "teleopTakeoffPoints": 100,
+        "totalPoints": 230,
+        "touchpadFar": "None",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "ReadyForTakeoff"
+      }
+    },
+    "set_number": 1,
+    "time": 1509286680,
+    "videos": [
+      {
+        "key": "0r3AxQfIIqE",
+        "type": "youtube"
+      },
+      {
+        "key": "EBxCs9N-FN0",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": 1509272817,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 255,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1002",
+          "frc5109",
+          "frc1261"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 336,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc6325",
+          "frc1746",
+          "frc4189"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm36",
+    "match_number": 36,
+    "post_result_time": 1509273003,
+    "predicted_time": 1509287161,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 75,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 0,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 180,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 100,
+        "totalPoints": 255,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "None"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 26,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 26,
+        "autoMobilityPoints": 15,
+        "autoPoints": 101,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 2,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 16,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 5,
+        "teleopPoints": 235,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 150,
+        "totalPoints": 336,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "ReadyForTakeoff"
+      }
+    },
+    "set_number": 1,
+    "time": 1509287220,
+    "videos": [
+      {
+        "key": "acnnm8OIrGQ",
+        "type": "youtube"
+      },
+      {
+        "key": "2LhiCikTM4U",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": 1509273335,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 285,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1414",
+          "frc2415",
+          "frc4509"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 300,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc832",
+          "frc5132",
+          "frc3998"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm37",
+    "match_number": 37,
+    "post_result_time": 1509273514,
+    "predicted_time": 1509287706,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 15,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 0,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 270,
+        "teleopRotorPoints": 120,
+        "teleopTakeoffPoints": 150,
+        "totalPoints": 285,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "ReadyForTakeoff"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 10,
+        "autoPoints": 70,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "None",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 2,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 230,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 150,
+        "totalPoints": 300,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "ReadyForTakeoff"
+      }
+    },
+    "set_number": 1,
+    "time": 1509287760,
+    "videos": [
+      {
+        "key": "1c_FAcQKZGA",
+        "type": "youtube"
+      },
+      {
+        "key": "03nANbCXPYs",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": 1509273818,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 180,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4026",
+          "frc5608",
+          "frc2974"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 185,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc6829",
+          "frc1311",
+          "frc4188"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm38",
+    "match_number": 38,
+    "post_result_time": 1509273984,
+    "predicted_time": 1509288182,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 10,
+        "autoPoints": 10,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "None",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 0,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 2,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 170,
+        "teleopRotorPoints": 120,
+        "teleopTakeoffPoints": 50,
+        "totalPoints": 180,
+        "touchpadFar": "None",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "None"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 15,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 2,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 170,
+        "teleopRotorPoints": 120,
+        "teleopTakeoffPoints": 50,
+        "totalPoints": 185,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "None",
+        "touchpadNear": "None"
+      }
+    },
+    "set_number": 1,
+    "time": 1509288300,
+    "videos": [
+      {
+        "key": "sTDwgY2OuUU",
+        "type": "youtube"
+      },
+      {
+        "key": "_cPS-M80iiw",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": 1509274302,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 285,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5293",
+          "frc4910",
+          "frc3998"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 255,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc6705",
+          "frc4112",
+          "frc3815"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm39",
+    "match_number": 39,
+    "post_result_time": 1509274471,
+    "predicted_time": 1509288662,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 15,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 2,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 270,
+        "teleopRotorPoints": 120,
+        "teleopTakeoffPoints": 150,
+        "totalPoints": 285,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "ReadyForTakeoff"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 75,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 0,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 180,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 100,
+        "totalPoints": 255,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "None",
+        "touchpadNear": "ReadyForTakeoff"
+      }
+    },
+    "set_number": 1,
+    "time": 1509288840,
+    "videos": [
+      {
+        "key": "nmbWG719GnA",
+        "type": "youtube"
+      },
+      {
+        "key": "NZtBkWsjDD0",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": 1509205962,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 206,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4509",
+          "frc832",
+          "frc1746"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 185,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4112",
+          "frc1648",
+          "frc5132"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm4",
+    "match_number": 4,
+    "post_result_time": 1509206136,
+    "predicted_time": 1509205871,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 6,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 6,
+        "autoMobilityPoints": 10,
+        "autoPoints": 76,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "None",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 2,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 130,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 50,
+        "totalPoints": 206,
+        "touchpadFar": "None",
+        "touchpadMiddle": "None",
+        "touchpadNear": "ReadyForTakeoff"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 15,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 0,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 170,
+        "teleopRotorPoints": 120,
+        "teleopTakeoffPoints": 50,
+        "totalPoints": 185,
+        "touchpadFar": "None",
+        "touchpadMiddle": "None",
+        "touchpadNear": "ReadyForTakeoff"
+      }
+    },
+    "set_number": 1,
+    "time": 1509204420,
+    "videos": [
+      {
+        "key": "a3LQZwSF9Ls",
+        "type": "youtube"
+      },
+      {
+        "key": "rFSX2-F2Y8Q",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": 1509274772,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 154,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1311",
+          "frc1746",
+          "frc1648"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 135,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3581",
+          "frc4026",
+          "frc4468"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm40",
+    "match_number": 40,
+    "post_result_time": 1509274941,
+    "predicted_time": 1509289202,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 7,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 7,
+        "autoMobilityPoints": 15,
+        "autoPoints": 22,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 2,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 36,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 12,
+        "teleopPoints": 132,
+        "teleopRotorPoints": 120,
+        "teleopTakeoffPoints": 0,
+        "totalPoints": 154,
+        "touchpadFar": "None",
+        "touchpadMiddle": "None",
+        "touchpadNear": "None"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 15,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 0,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 120,
+        "teleopRotorPoints": 120,
+        "teleopTakeoffPoints": 0,
+        "totalPoints": 135,
+        "touchpadFar": "None",
+        "touchpadMiddle": "None",
+        "touchpadNear": "None"
+      }
+    },
+    "set_number": 1,
+    "time": 1509289380,
+    "videos": [
+      {
+        "key": "Kvq83-II9k0",
+        "type": "youtube"
+      },
+      {
+        "key": "BfWBjkIqEc8",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": 1509275231,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 205,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc832",
+          "frc5109",
+          "frc4188"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 213,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4189",
+          "frc5293",
+          "frc1771"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm41",
+    "match_number": 41,
+    "post_result_time": 1509275397,
+    "predicted_time": 1509289575,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 75,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 0,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 130,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 50,
+        "totalPoints": 205,
+        "touchpadFar": "None",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "None"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 10,
+        "autoFuelPoints": 3,
+        "autoMobilityPoints": 10,
+        "autoPoints": 73,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "None",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": false,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 2,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 140,
+        "teleopRotorPoints": 40,
+        "teleopTakeoffPoints": 100,
+        "totalPoints": 213,
+        "touchpadFar": "None",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "ReadyForTakeoff"
+      }
+    },
+    "set_number": 1,
+    "time": 1509289920,
+    "videos": [
+      {
+        "key": "xfmNkxWVBbE",
+        "type": "youtube"
+      },
+      {
+        "key": "x30ccPDK064",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": 1509275762,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 285,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5482",
+          "frc2415",
+          "frc5332"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 205,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4509",
+          "frc5608",
+          "frc5132"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm42",
+    "match_number": 42,
+    "post_result_time": 1509275931,
+    "predicted_time": 1509290100,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 15,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 2,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 270,
+        "teleopRotorPoints": 120,
+        "teleopTakeoffPoints": 150,
+        "totalPoints": 285,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "ReadyForTakeoff"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 75,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 0,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 130,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 50,
+        "totalPoints": 205,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "None",
+        "touchpadNear": "None"
+      }
+    },
+    "set_number": 1,
+    "time": 1509290460,
+    "videos": [
+      {
+        "key": "1L6Sqbdxgis",
+        "type": "youtube"
+      },
+      {
+        "key": "SUqVJL6slgc",
+        "type": "youtube"
+      },
+      {
+        "key": "QaSDD1_EQRU",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": 1509276392,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 345,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1414",
+          "frc1002",
+          "frc6325"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 265,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2974",
+          "frc6705",
+          "frc4910"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm43",
+    "match_number": 43,
+    "post_result_time": 1509276560,
+    "predicted_time": 1509290761,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 75,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": true,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": true,
+        "tba_rpEarned": 3,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 270,
+        "teleopRotorPoints": 120,
+        "teleopTakeoffPoints": 150,
+        "totalPoints": 345,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "ReadyForTakeoff"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 5,
+        "autoPoints": 5,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "None",
+        "robot2Auto": "None",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": true,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": true,
+        "tba_rpEarned": 1,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 260,
+        "teleopRotorPoints": 160,
+        "teleopTakeoffPoints": 100,
+        "totalPoints": 265,
+        "touchpadFar": "None",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "ReadyForTakeoff"
+      }
+    },
+    "set_number": 1,
+    "time": 1509291000,
+    "videos": [
+      {
+        "key": "UQJYmQyxbIw",
+        "type": "youtube"
+      },
+      {
+        "key": "rieJloSEYQQ",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": 1509276957,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 255,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1261",
+          "frc3998",
+          "frc2415"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 205,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3815",
+          "frc6829",
+          "frc5109"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm44",
+    "match_number": 44,
+    "post_result_time": 1509277126,
+    "predicted_time": 1509291303,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 75,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 2,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 180,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 100,
+        "totalPoints": 255,
+        "touchpadFar": "None",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "ReadyForTakeoff"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 75,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 0,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 130,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 50,
+        "totalPoints": 205,
+        "touchpadFar": "None",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "None"
+      }
+    },
+    "set_number": 1,
+    "time": 1509291540,
+    "videos": [
+      {
+        "key": "6hP06yxHQHk",
+        "type": "youtube"
+      },
+      {
+        "key": "15vUIPTeO8o",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": 1509206878,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 183,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3581",
+          "frc4189",
+          "frc3815"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 230,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1414",
+          "frc2974",
+          "frc5332"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm5",
+    "match_number": 5,
+    "post_result_time": 1509207049,
+    "predicted_time": 1509206826,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 9,
+        "autoFuelPoints": 3,
+        "autoMobilityPoints": 10,
+        "autoPoints": 13,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "None",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 0,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 170,
+        "teleopRotorPoints": 120,
+        "teleopTakeoffPoints": 50,
+        "totalPoints": 183,
+        "touchpadFar": "None",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "None"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 10,
+        "autoPoints": 10,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "None",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 2,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 220,
+        "teleopRotorPoints": 120,
+        "teleopTakeoffPoints": 100,
+        "totalPoints": 230,
+        "touchpadFar": "None",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "ReadyForTakeoff"
+      }
+    },
+    "set_number": 1,
+    "time": 1509204960,
+    "videos": [
+      {
+        "key": "PhSv0EzyZTg",
+        "type": "youtube"
+      },
+      {
+        "key": "-WGDyrqsAfo",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": 1509207416,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 250,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc6705",
+          "frc1771",
+          "frc4188"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 50,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5482",
+          "frc4509",
+          "frc1261"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm6",
+    "match_number": 6,
+    "post_result_time": 1509207584,
+    "predicted_time": 1509207455,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 10,
+        "autoPoints": 70,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "None",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 2,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 180,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 100,
+        "totalPoints": 250,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "None",
+        "touchpadNear": "ReadyForTakeoff"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 10,
+        "autoPoints": 10,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "None",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": false,
+        "rotor3Engaged": false,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 0,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 40,
+        "teleopRotorPoints": 40,
+        "teleopTakeoffPoints": 0,
+        "totalPoints": 50,
+        "touchpadFar": "None",
+        "touchpadMiddle": "None",
+        "touchpadNear": "None"
+      }
+    },
+    "set_number": 1,
+    "time": 1509205500,
+    "videos": [
+      {
+        "key": "bYW0eyt4NPY",
+        "type": "youtube"
+      },
+      {
+        "key": "vy7O3yW0nqw",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": 1509208018,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 149,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1311",
+          "frc4468",
+          "frc5332"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 180,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3815",
+          "frc3998",
+          "frc1002"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm7",
+    "match_number": 7,
+    "post_result_time": 1509208227,
+    "predicted_time": 1509207968,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 15,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": false,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 0,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 13,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 4,
+        "teleopPoints": 134,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 50,
+        "totalPoints": 149,
+        "touchpadFar": "None",
+        "touchpadMiddle": "None",
+        "touchpadNear": "ReadyForTakeoff"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 10,
+        "autoPoints": 10,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "None",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 2,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 170,
+        "teleopRotorPoints": 120,
+        "teleopTakeoffPoints": 50,
+        "totalPoints": 180,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "None",
+        "touchpadNear": "None"
+      }
+    },
+    "set_number": 1,
+    "time": 1509206040,
+    "videos": [
+      {
+        "key": "puasT-gL3_k",
+        "type": "youtube"
+      },
+      {
+        "key": "_N2S1Na2ogI",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": 1509208686,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 195,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5293",
+          "frc1648",
+          "frc1414"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 304,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1746",
+          "frc5132",
+          "frc6829"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm8",
+    "match_number": 8,
+    "post_result_time": 1509209003,
+    "predicted_time": 1509208802,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 15,
+        "autoRotorPoints": 0,
+        "foulCount": 1,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": false,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 0,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 180,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 100,
+        "totalPoints": 195,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "None",
+        "touchpadNear": "ReadyForTakeoff"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 29,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 29,
+        "autoMobilityPoints": 15,
+        "autoPoints": 104,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 5,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": true,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 3,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 45,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 15,
+        "teleopPoints": 195,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 100,
+        "totalPoints": 304,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "None",
+        "touchpadNear": "ReadyForTakeoff"
+      }
+    },
+    "set_number": 1,
+    "time": 1509206580,
+    "videos": [
+      {
+        "key": "gePoEvN40kE",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": 1509209314,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 305,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4910",
+          "frc4026",
+          "frc5109"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 300,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5608",
+          "frc832",
+          "frc4112"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2017gagr",
+    "key": "2017gagr_qm9",
+    "match_number": 9,
+    "post_result_time": 1509209489,
+    "predicted_time": 1509209286,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 75,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 2,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 230,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 150,
+        "totalPoints": 305,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "ReadyForTakeoff"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 10,
+        "autoPoints": 70,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "None",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": 0,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 230,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 150,
+        "totalPoints": 300,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "ReadyForTakeoff"
+      }
+    },
+    "set_number": 1,
+    "time": 1509207120,
+    "videos": [
+      {
+        "key": "3O7PHa0nl90",
+        "type": "youtube"
+      },
+      {
+        "key": "mT-cBSOusXs",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": 1509284284,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 180,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2974",
+          "frc3998",
+          "frc6829"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 425,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc6705",
+          "frc1002",
+          "frc1746"
+        ]
+      }
+    },
+    "comp_level": "sf",
+    "event_key": "2017gagr",
+    "key": "2017gagr_sf1m1",
+    "match_number": 1,
+    "post_result_time": 1509284451,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 10,
+        "autoPoints": 10,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "None",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": null,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 170,
+        "teleopRotorPoints": 120,
+        "teleopTakeoffPoints": 50,
+        "totalPoints": 180,
+        "touchpadFar": "None",
+        "touchpadMiddle": "None",
+        "touchpadNear": "ReadyForTakeoff"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 15,
+        "autoRotorPoints": 0,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": false,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": true,
+        "rotorBonusPoints": 100,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": null,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 410,
+        "teleopRotorPoints": 160,
+        "teleopTakeoffPoints": 150,
+        "totalPoints": 425,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "ReadyForTakeoff"
+      }
+    },
+    "set_number": 1,
+    "time": 1509298200,
+    "videos": [
+      {
+        "key": "fPwoYn4qcE4",
+        "type": "youtube"
+      },
+      {
+        "key": "a9JgrR9ljIM",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": 1509299836,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 255,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5293",
+          "frc3998",
+          "frc6829"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 445,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2415",
+          "frc1002",
+          "frc1746"
+        ]
+      }
+    },
+    "comp_level": "sf",
+    "event_key": "2017gagr",
+    "key": "2017gagr_sf1m2",
+    "match_number": 2,
+    "post_result_time": 1509300003,
+    "predicted_time": 1509299780,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 75,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": null,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 180,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 100,
+        "totalPoints": 255,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "None"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 75,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": true,
+        "rotorBonusPoints": 100,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": null,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 370,
+        "teleopRotorPoints": 120,
+        "teleopTakeoffPoints": 150,
+        "totalPoints": 445,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "ReadyForTakeoff"
+      }
+    },
+    "set_number": 1,
+    "time": 1509299040,
+    "videos": [
+      {
+        "key": "mT7BKtDilcU",
+        "type": "youtube"
+      },
+      {
+        "key": "xzDUTtVDqN0",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": 1509299288,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 445,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4910",
+          "frc5332",
+          "frc6325"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 233,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1414",
+          "frc4189",
+          "frc4188"
+        ]
+      }
+    },
+    "comp_level": "sf",
+    "event_key": "2017gagr",
+    "key": "2017gagr_sf2m1",
+    "match_number": 1,
+    "post_result_time": 1509299466,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 75,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": true,
+        "rotorBonusPoints": 100,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": null,
+        "techFoulCount": 1,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 370,
+        "teleopRotorPoints": 120,
+        "teleopTakeoffPoints": 150,
+        "totalPoints": 445,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "ReadyForTakeoff"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 9,
+        "autoFuelPoints": 3,
+        "autoMobilityPoints": 15,
+        "autoPoints": 78,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 25,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": null,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 130,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 50,
+        "totalPoints": 233,
+        "touchpadFar": "None",
+        "touchpadMiddle": "None",
+        "touchpadNear": "ReadyForTakeoff"
+      }
+    },
+    "set_number": 2,
+    "time": 1509298620,
+    "videos": [
+      {
+        "key": "5yToKo2WE8w",
+        "type": "youtube"
+      },
+      {
+        "key": "aS-fa-rlMOE",
+        "type": "youtube"
+      },
+      {
+        "key": "Jc-Wchk_asg",
+        "type": "youtube"
+      },
+      {
+        "key": "xpFAgI66jjo",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": 1509300538,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 305,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4910",
+          "frc4112",
+          "frc6325"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 210,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1414",
+          "frc5608",
+          "frc4189"
+        ]
+      }
+    },
+    "comp_level": "sf",
+    "event_key": "2017gagr",
+    "key": "2017gagr_sf2m2",
+    "match_number": 2,
+    "post_result_time": 1509300734,
+    "predicted_time": 1509300482,
+    "score_breakdown": {
+      "blue": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 75,
+        "autoRotorPoints": 60,
+        "foulCount": 1,
+        "foulPoints": 0,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": null,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 230,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 150,
+        "totalPoints": 305,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "ReadyForTakeoff",
+        "touchpadNear": "ReadyForTakeoff"
+      },
+      "red": {
+        "adjustPoints": 0,
+        "autoFuelHigh": 0,
+        "autoFuelLow": 0,
+        "autoFuelPoints": 0,
+        "autoMobilityPoints": 15,
+        "autoPoints": 75,
+        "autoRotorPoints": 60,
+        "foulCount": 0,
+        "foulPoints": 5,
+        "kPaBonusPoints": 0,
+        "kPaRankingPointAchieved": false,
+        "robot1Auto": "Mobility",
+        "robot2Auto": "Mobility",
+        "robot3Auto": "Mobility",
+        "rotor1Auto": true,
+        "rotor1Engaged": true,
+        "rotor2Auto": false,
+        "rotor2Engaged": true,
+        "rotor3Engaged": true,
+        "rotor4Engaged": false,
+        "rotorBonusPoints": 0,
+        "rotorRankingPointAchieved": false,
+        "tba_rpEarned": null,
+        "techFoulCount": 0,
+        "teleopFuelHigh": 0,
+        "teleopFuelLow": 0,
+        "teleopFuelPoints": 0,
+        "teleopPoints": 130,
+        "teleopRotorPoints": 80,
+        "teleopTakeoffPoints": 50,
+        "totalPoints": 210,
+        "touchpadFar": "ReadyForTakeoff",
+        "touchpadMiddle": "None",
+        "touchpadNear": "None"
+      }
+    },
+    "set_number": 2,
+    "time": 1509299460,
+    "videos": [
+      {
+        "key": "AtWo3Lja5og",
+        "type": "youtube"
+      },
+      {
+        "key": "3i7umyKd1Vs",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "blue"
+  }
+]

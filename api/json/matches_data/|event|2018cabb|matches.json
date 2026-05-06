@@ -1,0 +1,3567 @@
+[
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 338,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3255B",
+          "frc5199",
+          "frc2658"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 350,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3255",
+          "frc1538",
+          "frc4486"
+        ]
+      }
+    },
+    "comp_level": "f",
+    "event_key": "2018cabb",
+    "key": "2018cabb_f1m1",
+    "match_number": 1,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoOwnershipPoints": 0,
+        "autoPoints": 15,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 0,
+        "endgamePoints": 65,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 0,
+        "tba_gameData": "LLL",
+        "teleopOwnershipPoints": 228,
+        "teleopPoints": 323,
+        "teleopScaleBoostSec": 6,
+        "teleopScaleOwnershipSec": 82,
+        "teleopSwitchBoostSec": 10,
+        "teleopSwitchOwnershipSec": 129,
+        "totalPoints": 338,
+        "vaultBoostPlayed": 3,
+        "vaultBoostTotal": 3,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 30
+      },
+      "red": {
+        "autoOwnershipPoints": 36,
+        "autoPoints": 51,
+        "autoQuestRankingPoint": true,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 10,
+        "autoSwitchOwnershipSec": 7,
+        "endgamePoints": 60,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 5,
+        "rp": 0,
+        "tba_gameData": "LLL",
+        "teleopOwnershipPoints": 199,
+        "teleopPoints": 294,
+        "teleopScaleBoostSec": 10,
+        "teleopScaleOwnershipSec": 44,
+        "teleopSwitchBoostSec": 10,
+        "teleopSwitchOwnershipSec": 134,
+        "totalPoints": 350,
+        "vaultBoostPlayed": 3,
+        "vaultBoostTotal": 3,
+        "vaultForcePlayed": 1,
+        "vaultForceTotal": 1,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 35
+      }
+    },
+    "set_number": 1,
+    "time": 1540083677,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 394,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3255B",
+          "frc5199",
+          "frc2658"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 283,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3255",
+          "frc1538",
+          "frc4486"
+        ]
+      }
+    },
+    "comp_level": "f",
+    "event_key": "2018cabb",
+    "key": "2018cabb_f1m2",
+    "match_number": 2,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoOwnershipPoints": 20,
+        "autoPoints": 35,
+        "autoQuestRankingPoint": true,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 10,
+        "endgamePoints": 65,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 0,
+        "tba_gameData": "LRL",
+        "teleopOwnershipPoints": 254,
+        "teleopPoints": 359,
+        "teleopScaleBoostSec": 10,
+        "teleopScaleOwnershipSec": 99,
+        "teleopSwitchBoostSec": 10,
+        "teleopSwitchOwnershipSec": 134,
+        "totalPoints": 394,
+        "vaultBoostPlayed": 3,
+        "vaultBoostTotal": 3,
+        "vaultForcePlayed": 1,
+        "vaultForceTotal": 2,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 40
+      },
+      "red": {
+        "autoOwnershipPoints": 26,
+        "autoPoints": 41,
+        "autoQuestRankingPoint": true,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 6,
+        "autoSwitchOwnershipSec": 7,
+        "endgamePoints": 65,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 25,
+        "rp": 0,
+        "tba_gameData": "LRL",
+        "teleopOwnershipPoints": 127,
+        "teleopPoints": 217,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 31,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 96,
+        "totalPoints": 283,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 0,
+        "vaultForcePlayed": 2,
+        "vaultForceTotal": 2,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 25
+      }
+    },
+    "set_number": 1,
+    "time": 1540084433,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 268,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3255B",
+          "frc5199",
+          "frc2658"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 380,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3255",
+          "frc1538",
+          "frc4486"
+        ]
+      }
+    },
+    "comp_level": "f",
+    "event_key": "2018cabb",
+    "key": "2018cabb_f1m3",
+    "match_number": 3,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoOwnershipPoints": 21,
+        "autoPoints": 36,
+        "autoQuestRankingPoint": true,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 10,
+        "endgamePoints": 90,
+        "faceTheBossRankingPoint": true,
+        "foulPoints": 0,
+        "rp": 0,
+        "tba_gameData": "RRR",
+        "teleopOwnershipPoints": 112,
+        "teleopPoints": 232,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 22,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 90,
+        "totalPoints": 268,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 0,
+        "vaultForcePlayed": 3,
+        "vaultForceTotal": 3,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 30
+      },
+      "red": {
+        "autoOwnershipPoints": 27,
+        "autoPoints": 42,
+        "autoQuestRankingPoint": true,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 6,
+        "autoSwitchOwnershipSec": 7,
+        "endgamePoints": 60,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 5,
+        "rp": 0,
+        "tba_gameData": "RRR",
+        "teleopOwnershipPoints": 253,
+        "teleopPoints": 333,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 108,
+        "teleopSwitchBoostSec": 10,
+        "teleopSwitchOwnershipSec": 134,
+        "totalPoints": 380,
+        "vaultBoostPlayed": 1,
+        "vaultBoostTotal": 1,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 20
+      }
+    },
+    "set_number": 1,
+    "time": 1540085468,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 244,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5012",
+          "frc4014",
+          "frc2102B"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 404,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3255",
+          "frc1538",
+          "frc4486"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2018cabb",
+    "key": "2018cabb_qf1m1",
+    "match_number": 1,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoOwnershipPoints": 0,
+        "autoPoints": 15,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 0,
+        "endgamePoints": 60,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 30,
+        "rp": 0,
+        "tba_gameData": "RLR",
+        "teleopOwnershipPoints": 124,
+        "teleopPoints": 199,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 0,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 124,
+        "totalPoints": 244,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 0,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 15
+      },
+      "red": {
+        "autoOwnershipPoints": 35,
+        "autoPoints": 50,
+        "autoQuestRankingPoint": true,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 10,
+        "autoSwitchOwnershipSec": 7,
+        "endgamePoints": 65,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 5,
+        "rp": 0,
+        "tba_gameData": "RLR",
+        "teleopOwnershipPoints": 269,
+        "teleopPoints": 349,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 134,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 134,
+        "totalPoints": 404,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 0,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 15
+      }
+    },
+    "set_number": 1,
+    "time": 1540065600,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [
+          "frc5012",
+          "frc4014",
+          "frc2102B"
+        ],
+        "score": 0,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5012",
+          "frc4014",
+          "frc2102B"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 1,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3255",
+          "frc1538",
+          "frc4486"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2018cabb",
+    "key": "2018cabb_qf1m2",
+    "match_number": 2,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoOwnershipPoints": 0,
+        "autoPoints": 0,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 0,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 0,
+        "endgamePoints": 0,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 0,
+        "tba_gameData": "",
+        "teleopOwnershipPoints": 0,
+        "teleopPoints": 0,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 0,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 0,
+        "totalPoints": 0,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 0,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 0,
+        "vaultLevitateTotal": 0,
+        "vaultPoints": 0
+      },
+      "red": {
+        "autoOwnershipPoints": 0,
+        "autoPoints": 0,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 0,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 0,
+        "endgamePoints": 0,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 0,
+        "tba_gameData": "",
+        "teleopOwnershipPoints": 1,
+        "teleopPoints": 1,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 1,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 0,
+        "totalPoints": 1,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 0,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 0,
+        "vaultLevitateTotal": 0,
+        "vaultPoints": 0
+      }
+    },
+    "set_number": 1,
+    "time": 1540081164,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 388,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3128",
+          "frc5514",
+          "frc3647B"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 157,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5877",
+          "frc6926",
+          "frc5137"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2018cabb",
+    "key": "2018cabb_qf2m1",
+    "match_number": 1,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoOwnershipPoints": 8,
+        "autoPoints": 23,
+        "autoQuestRankingPoint": true,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 4,
+        "endgamePoints": 65,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 0,
+        "tba_gameData": "LRL",
+        "teleopOwnershipPoints": 270,
+        "teleopPoints": 365,
+        "teleopScaleBoostSec": 10,
+        "teleopScaleOwnershipSec": 115,
+        "teleopSwitchBoostSec": 10,
+        "teleopSwitchOwnershipSec": 134,
+        "totalPoints": 388,
+        "vaultBoostPlayed": 3,
+        "vaultBoostTotal": 3,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 30
+      },
+      "red": {
+        "autoOwnershipPoints": 3,
+        "autoPoints": 18,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 1,
+        "endgamePoints": 35,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 15,
+        "rp": 0,
+        "tba_gameData": "LRL",
+        "teleopOwnershipPoints": 54,
+        "teleopPoints": 124,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 9,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 44,
+        "totalPoints": 157,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 1,
+        "vaultForcePlayed": 3,
+        "vaultForceTotal": 3,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 35
+      }
+    },
+    "set_number": 2,
+    "time": 1540079488,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 1,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3128",
+          "frc5514",
+          "frc3647B"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [
+          "frc5877",
+          "frc6926",
+          "frc5137"
+        ],
+        "score": 0,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5877",
+          "frc6926",
+          "frc5137"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2018cabb",
+    "key": "2018cabb_qf2m2",
+    "match_number": 2,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoOwnershipPoints": 0,
+        "autoPoints": 0,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 0,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 0,
+        "endgamePoints": 0,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 0,
+        "tba_gameData": "",
+        "teleopOwnershipPoints": 1,
+        "teleopPoints": 1,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 1,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 0,
+        "totalPoints": 1,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 0,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 0,
+        "vaultLevitateTotal": 0,
+        "vaultPoints": 0
+      },
+      "red": {
+        "autoOwnershipPoints": 0,
+        "autoPoints": 0,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 0,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 0,
+        "endgamePoints": 0,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 0,
+        "tba_gameData": "",
+        "teleopOwnershipPoints": 0,
+        "teleopPoints": 0,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 0,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 0,
+        "totalPoints": 0,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 0,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 0,
+        "vaultLevitateTotal": 0,
+        "vaultPoints": 0
+      }
+    },
+    "set_number": 2,
+    "time": 1540081209,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 188,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1572",
+          "frc5477",
+          "frc1622"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 256,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2102",
+          "frc3647",
+          "frc1266"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2018cabb",
+    "key": "2018cabb_qf3m1",
+    "match_number": 1,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoOwnershipPoints": 16,
+        "autoPoints": 31,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 7,
+        "autoSwitchOwnershipSec": 1,
+        "endgamePoints": 60,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 0,
+        "tba_gameData": "LLL",
+        "teleopOwnershipPoints": 77,
+        "teleopPoints": 157,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 9,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 67,
+        "totalPoints": 188,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 1,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 20
+      },
+      "red": {
+        "autoOwnershipPoints": 0,
+        "autoPoints": 5,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 5,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 0,
+        "endgamePoints": 30,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 0,
+        "tba_gameData": "LLL",
+        "teleopOwnershipPoints": 206,
+        "teleopPoints": 251,
+        "teleopScaleBoostSec": 10,
+        "teleopScaleOwnershipSec": 122,
+        "teleopSwitchBoostSec": 10,
+        "teleopSwitchOwnershipSec": 64,
+        "totalPoints": 256,
+        "vaultBoostPlayed": 3,
+        "vaultBoostTotal": 3,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 0,
+        "vaultLevitateTotal": 0,
+        "vaultPoints": 15
+      }
+    },
+    "set_number": 3,
+    "time": 1540079964,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [
+          "frc1572",
+          "frc5477",
+          "frc1622"
+        ],
+        "score": 0,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1572",
+          "frc5477",
+          "frc1622"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 1,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2102",
+          "frc3647",
+          "frc1266"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2018cabb",
+    "key": "2018cabb_qf3m2",
+    "match_number": 2,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoOwnershipPoints": 0,
+        "autoPoints": 0,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 0,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 0,
+        "endgamePoints": 0,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 0,
+        "tba_gameData": "",
+        "teleopOwnershipPoints": 0,
+        "teleopPoints": 0,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 0,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 0,
+        "totalPoints": 0,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 0,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 0,
+        "vaultLevitateTotal": 0,
+        "vaultPoints": 0
+      },
+      "red": {
+        "autoOwnershipPoints": 0,
+        "autoPoints": 0,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 0,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 0,
+        "endgamePoints": 0,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 0,
+        "tba_gameData": "",
+        "teleopOwnershipPoints": 1,
+        "teleopPoints": 1,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 1,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 0,
+        "totalPoints": 1,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 0,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 0,
+        "vaultLevitateTotal": 0,
+        "vaultPoints": 0
+      }
+    },
+    "set_number": 3,
+    "time": 1540081336,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 159,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4",
+          "frc4738",
+          "frc2543"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 429,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3255B",
+          "frc5199",
+          "frc2658"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2018cabb",
+    "key": "2018cabb_qf4m1",
+    "match_number": 1,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoOwnershipPoints": 6,
+        "autoPoints": 21,
+        "autoQuestRankingPoint": true,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 3,
+        "endgamePoints": 15,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 0,
+        "tba_gameData": "LLL",
+        "teleopOwnershipPoints": 103,
+        "teleopPoints": 138,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 11,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 92,
+        "totalPoints": 159,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 0,
+        "vaultForcePlayed": 3,
+        "vaultForceTotal": 3,
+        "vaultLevitatePlayed": 0,
+        "vaultLevitateTotal": 1,
+        "vaultPoints": 20
+      },
+      "red": {
+        "autoOwnershipPoints": 20,
+        "autoPoints": 35,
+        "autoQuestRankingPoint": true,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 10,
+        "endgamePoints": 65,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 25,
+        "rp": 0,
+        "tba_gameData": "LLL",
+        "teleopOwnershipPoints": 264,
+        "teleopPoints": 369,
+        "teleopScaleBoostSec": 10,
+        "teleopScaleOwnershipSec": 119,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 134,
+        "totalPoints": 429,
+        "vaultBoostPlayed": 2,
+        "vaultBoostTotal": 2,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 3,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 40
+      }
+    },
+    "set_number": 4,
+    "time": 1540080736,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [
+          "frc4",
+          "frc4738",
+          "frc2543"
+        ],
+        "score": 0,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4",
+          "frc4738",
+          "frc2543"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 1,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3255B",
+          "frc5199",
+          "frc2658"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2018cabb",
+    "key": "2018cabb_qf4m2",
+    "match_number": 2,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoOwnershipPoints": 0,
+        "autoPoints": 0,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 0,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 0,
+        "endgamePoints": 0,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 0,
+        "tba_gameData": "",
+        "teleopOwnershipPoints": 0,
+        "teleopPoints": 0,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 0,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 0,
+        "totalPoints": 0,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 0,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 0,
+        "vaultLevitateTotal": 0,
+        "vaultPoints": 0
+      },
+      "red": {
+        "autoOwnershipPoints": 0,
+        "autoPoints": 0,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 0,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 0,
+        "endgamePoints": 0,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 0,
+        "tba_gameData": "",
+        "teleopOwnershipPoints": 1,
+        "teleopPoints": 1,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 1,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 0,
+        "totalPoints": 1,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 0,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 0,
+        "vaultLevitateTotal": 0,
+        "vaultPoints": 0
+      }
+    },
+    "set_number": 4,
+    "time": 1540081205,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 331,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4",
+          "frc7517",
+          "frc3647B"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 230,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5012",
+          "frc4014",
+          "frc5474"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2018cabb",
+    "key": "2018cabb_qm1",
+    "match_number": 1,
+    "post_result_time": null,
+    "predicted_time": 1540056603,
+    "score_breakdown": {
+      "blue": {
+        "autoOwnershipPoints": 0,
+        "autoPoints": 15,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 0,
+        "endgamePoints": 65,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 25,
+        "rp": 2,
+        "tba_gameData": "RLR",
+        "teleopOwnershipPoints": 206,
+        "teleopPoints": 291,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 70,
+        "teleopSwitchBoostSec": 10,
+        "teleopSwitchOwnershipSec": 125,
+        "totalPoints": 331,
+        "vaultBoostPlayed": 1,
+        "vaultBoostTotal": 1,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 20
+      },
+      "red": {
+        "autoOwnershipPoints": 16,
+        "autoPoints": 26,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 10,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 8,
+        "endgamePoints": 35,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 0,
+        "tba_gameData": "RLR",
+        "teleopOwnershipPoints": 149,
+        "teleopPoints": 204,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 4,
+        "teleopSwitchBoostSec": 10,
+        "teleopSwitchOwnershipSec": 134,
+        "totalPoints": 230,
+        "vaultBoostPlayed": 1,
+        "vaultBoostTotal": 1,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 20
+      }
+    },
+    "set_number": 1,
+    "time": 1540054800,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 404,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2658",
+          "frc3925",
+          "frc5514"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 154,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5012",
+          "frc6926B",
+          "frc2102B"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2018cabb",
+    "key": "2018cabb_qm10",
+    "match_number": 10,
+    "post_result_time": null,
+    "predicted_time": 1540060923,
+    "score_breakdown": {
+      "blue": {
+        "autoOwnershipPoints": 0,
+        "autoPoints": 15,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 0,
+        "endgamePoints": 65,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 25,
+        "rp": 2,
+        "tba_gameData": "LRL",
+        "teleopOwnershipPoints": 254,
+        "teleopPoints": 364,
+        "teleopScaleBoostSec": 10,
+        "teleopScaleOwnershipSec": 105,
+        "teleopSwitchBoostSec": 10,
+        "teleopSwitchOwnershipSec": 129,
+        "totalPoints": 404,
+        "vaultBoostPlayed": 3,
+        "vaultBoostTotal": 3,
+        "vaultForcePlayed": 3,
+        "vaultForceTotal": 3,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 45
+      },
+      "red": {
+        "autoOwnershipPoints": 17,
+        "autoPoints": 32,
+        "autoQuestRankingPoint": true,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 8,
+        "endgamePoints": 35,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 1,
+        "tba_gameData": "LRL",
+        "teleopOwnershipPoints": 72,
+        "teleopPoints": 122,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 2,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 69,
+        "totalPoints": 154,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 0,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 15
+      }
+    },
+    "set_number": 1,
+    "time": 1540059120,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 236,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5137",
+          "frc4",
+          "frc4486B"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 388,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4486",
+          "frc3647",
+          "frc5877"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2018cabb",
+    "key": "2018cabb_qm11",
+    "match_number": 11,
+    "post_result_time": null,
+    "predicted_time": 1540061403,
+    "score_breakdown": {
+      "blue": {
+        "autoOwnershipPoints": 6,
+        "autoPoints": 16,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 10,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 3,
+        "endgamePoints": 60,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 0,
+        "tba_gameData": "RLR",
+        "teleopOwnershipPoints": 135,
+        "teleopPoints": 220,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 0,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 134,
+        "totalPoints": 236,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 1,
+        "vaultForcePlayed": 1,
+        "vaultForceTotal": 1,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 25
+      },
+      "red": {
+        "autoOwnershipPoints": 0,
+        "autoPoints": 5,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 5,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 0,
+        "endgamePoints": 90,
+        "faceTheBossRankingPoint": true,
+        "foulPoints": 0,
+        "rp": 3,
+        "tba_gameData": "RLR",
+        "teleopOwnershipPoints": 268,
+        "teleopPoints": 383,
+        "teleopScaleBoostSec": 10,
+        "teleopScaleOwnershipSec": 127,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 130,
+        "totalPoints": 388,
+        "vaultBoostPlayed": 2,
+        "vaultBoostTotal": 2,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 25
+      }
+    },
+    "set_number": 1,
+    "time": 1540059600,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 330,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc6926",
+          "frc1538",
+          "frc5477"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 162,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4160",
+          "frc5474",
+          "frc1266"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2018cabb",
+    "key": "2018cabb_qm12",
+    "match_number": 12,
+    "post_result_time": null,
+    "predicted_time": 1540061883,
+    "score_breakdown": {
+      "blue": {
+        "autoOwnershipPoints": 20,
+        "autoPoints": 35,
+        "autoQuestRankingPoint": true,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 10,
+        "endgamePoints": 60,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 3,
+        "tba_gameData": "LLL",
+        "teleopOwnershipPoints": 230,
+        "teleopPoints": 295,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 95,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 134,
+        "totalPoints": 330,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 0,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 0,
+        "vaultLevitateTotal": 1,
+        "vaultPoints": 5
+      },
+      "red": {
+        "autoOwnershipPoints": 0,
+        "autoPoints": 5,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 5,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 0,
+        "endgamePoints": 10,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 0,
+        "tba_gameData": "LLL",
+        "teleopOwnershipPoints": 147,
+        "teleopPoints": 157,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 20,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 127,
+        "totalPoints": 162,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 0,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 0,
+        "vaultLevitateTotal": 0,
+        "vaultPoints": 0
+      }
+    },
+    "set_number": 1,
+    "time": 1540060080,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 366,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3255",
+          "frc2658",
+          "frc4738"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 196,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4014",
+          "frc7517",
+          "frc5514"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2018cabb",
+    "key": "2018cabb_qm13",
+    "match_number": 13,
+    "post_result_time": null,
+    "predicted_time": 1540062363,
+    "score_breakdown": {
+      "blue": {
+        "autoOwnershipPoints": 0,
+        "autoPoints": 15,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 0,
+        "endgamePoints": 65,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 2,
+        "tba_gameData": "RRR",
+        "teleopOwnershipPoints": 251,
+        "teleopPoints": 351,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 119,
+        "teleopSwitchBoostSec": 5,
+        "teleopSwitchOwnershipSec": 127,
+        "totalPoints": 366,
+        "vaultBoostPlayed": 1,
+        "vaultBoostTotal": 1,
+        "vaultForcePlayed": 3,
+        "vaultForceTotal": 3,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 35
+      },
+      "red": {
+        "autoOwnershipPoints": 13,
+        "autoPoints": 28,
+        "autoQuestRankingPoint": true,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 6,
+        "endgamePoints": 5,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 65,
+        "rp": 1,
+        "tba_gameData": "RRR",
+        "teleopOwnershipPoints": 98,
+        "teleopPoints": 103,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 2,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 96,
+        "totalPoints": 196,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 0,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 0,
+        "vaultLevitateTotal": 0,
+        "vaultPoints": 0
+      }
+    },
+    "set_number": 1,
+    "time": 1540060560,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 211,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4486B",
+          "frc1572",
+          "frc5025"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 140,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3925",
+          "frc3647B",
+          "frc980"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2018cabb",
+    "key": "2018cabb_qm14",
+    "match_number": 14,
+    "post_result_time": null,
+    "predicted_time": 1540062843,
+    "score_breakdown": {
+      "blue": {
+        "autoOwnershipPoints": 0,
+        "autoPoints": 10,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 10,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 0,
+        "endgamePoints": 5,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 2,
+        "tba_gameData": "LLL",
+        "teleopOwnershipPoints": 196,
+        "teleopPoints": 201,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 69,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 126,
+        "totalPoints": 211,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 0,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 0,
+        "vaultLevitateTotal": 0,
+        "vaultPoints": 0
+      },
+      "red": {
+        "autoOwnershipPoints": 0,
+        "autoPoints": 10,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 10,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 0,
+        "endgamePoints": 35,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 0,
+        "tba_gameData": "LLL",
+        "teleopOwnershipPoints": 80,
+        "teleopPoints": 130,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 14,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 66,
+        "totalPoints": 140,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 0,
+        "vaultForcePlayed": 2,
+        "vaultForceTotal": 2,
+        "vaultLevitatePlayed": 0,
+        "vaultLevitateTotal": 1,
+        "vaultPoints": 15
+      }
+    },
+    "set_number": 1,
+    "time": 1540061040,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 252,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4486",
+          "frc3965",
+          "frc5474"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 317,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2102B",
+          "frc1266",
+          "frc2543"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2018cabb",
+    "key": "2018cabb_qm15",
+    "match_number": 15,
+    "post_result_time": null,
+    "predicted_time": 1540063323,
+    "score_breakdown": {
+      "blue": {
+        "autoOwnershipPoints": 0,
+        "autoPoints": 10,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 10,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 0,
+        "endgamePoints": 60,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 0,
+        "tba_gameData": "LRL",
+        "teleopOwnershipPoints": 167,
+        "teleopPoints": 242,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 37,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 129,
+        "totalPoints": 252,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 0,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 15
+      },
+      "red": {
+        "autoOwnershipPoints": 17,
+        "autoPoints": 27,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 10,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 8,
+        "endgamePoints": 35,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 5,
+        "rp": 2,
+        "tba_gameData": "LRL",
+        "teleopOwnershipPoints": 220,
+        "teleopPoints": 285,
+        "teleopScaleBoostSec": 10,
+        "teleopScaleOwnershipSec": 65,
+        "teleopSwitchBoostSec": 10,
+        "teleopSwitchOwnershipSec": 134,
+        "totalPoints": 317,
+        "vaultBoostPlayed": 3,
+        "vaultBoostTotal": 3,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 30
+      }
+    },
+    "set_number": 1,
+    "time": 1540061520,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 167,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4",
+          "frc5877",
+          "frc6885"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 158,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5199B",
+          "frc4160",
+          "frc2102"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2018cabb",
+    "key": "2018cabb_qm16",
+    "match_number": 16,
+    "post_result_time": null,
+    "predicted_time": 1540063803,
+    "score_breakdown": {
+      "blue": {
+        "autoOwnershipPoints": 0,
+        "autoPoints": 15,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 0,
+        "endgamePoints": 0,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 2,
+        "tba_gameData": "LRL",
+        "teleopOwnershipPoints": 137,
+        "teleopPoints": 152,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 9,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 127,
+        "totalPoints": 167,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 0,
+        "vaultForcePlayed": 3,
+        "vaultForceTotal": 3,
+        "vaultLevitatePlayed": 0,
+        "vaultLevitateTotal": 0,
+        "vaultPoints": 15
+      },
+      "red": {
+        "autoOwnershipPoints": 0,
+        "autoPoints": 5,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 5,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 0,
+        "endgamePoints": 5,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 0,
+        "tba_gameData": "LRL",
+        "teleopOwnershipPoints": 148,
+        "teleopPoints": 153,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 115,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 33,
+        "totalPoints": 158,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 0,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 0,
+        "vaultLevitateTotal": 0,
+        "vaultPoints": 0
+      }
+    },
+    "set_number": 1,
+    "time": 1540062000,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 204,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5199",
+          "frc2984",
+          "frc5137"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 350,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3255B",
+          "frc6926B",
+          "frc1538"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2018cabb",
+    "key": "2018cabb_qm17",
+    "match_number": 17,
+    "post_result_time": null,
+    "predicted_time": 1540064283,
+    "score_breakdown": {
+      "blue": {
+        "autoOwnershipPoints": 19,
+        "autoPoints": 34,
+        "autoQuestRankingPoint": true,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 9,
+        "endgamePoints": 35,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 1,
+        "tba_gameData": "LLL",
+        "teleopOwnershipPoints": 130,
+        "teleopPoints": 170,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 0,
+        "teleopSwitchBoostSec": 10,
+        "teleopSwitchOwnershipSec": 120,
+        "totalPoints": 204,
+        "vaultBoostPlayed": 1,
+        "vaultBoostTotal": 1,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 0,
+        "vaultLevitateTotal": 0,
+        "vaultPoints": 5
+      },
+      "red": {
+        "autoOwnershipPoints": 21,
+        "autoPoints": 36,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 10,
+        "autoSwitchOwnershipSec": 0,
+        "endgamePoints": 60,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 5,
+        "rp": 2,
+        "tba_gameData": "LLL",
+        "teleopOwnershipPoints": 229,
+        "teleopPoints": 309,
+        "teleopScaleBoostSec": 10,
+        "teleopScaleOwnershipSec": 134,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 84,
+        "totalPoints": 350,
+        "vaultBoostPlayed": 3,
+        "vaultBoostTotal": 3,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 0,
+        "vaultLevitateTotal": 1,
+        "vaultPoints": 20
+      }
+    },
+    "set_number": 1,
+    "time": 1540062480,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 208,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3128",
+          "frc5012",
+          "frc5477"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 283,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3647",
+          "frc6926",
+          "frc1622"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2018cabb",
+    "key": "2018cabb_qm18",
+    "match_number": 18,
+    "post_result_time": null,
+    "predicted_time": 1540064763,
+    "score_breakdown": {
+      "blue": {
+        "autoOwnershipPoints": 18,
+        "autoPoints": 33,
+        "autoQuestRankingPoint": true,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 9,
+        "endgamePoints": 60,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 1,
+        "tba_gameData": "LLL",
+        "teleopOwnershipPoints": 100,
+        "teleopPoints": 175,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 3,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 97,
+        "totalPoints": 208,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 0,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 15
+      },
+      "red": {
+        "autoOwnershipPoints": 14,
+        "autoPoints": 29,
+        "autoQuestRankingPoint": true,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 7,
+        "endgamePoints": 0,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 5,
+        "rp": 3,
+        "tba_gameData": "LLL",
+        "teleopOwnershipPoints": 239,
+        "teleopPoints": 249,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 104,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 134,
+        "totalPoints": 283,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 0,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 0,
+        "vaultLevitateTotal": 2,
+        "vaultPoints": 10
+      }
+    },
+    "set_number": 1,
+    "time": 1540062960,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 187,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc6885",
+          "frc2658",
+          "frc3647B"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 414,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5877",
+          "frc1266",
+          "frc3255"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2018cabb",
+    "key": "2018cabb_qm19",
+    "match_number": 19,
+    "post_result_time": null,
+    "predicted_time": 1540065243,
+    "score_breakdown": {
+      "blue": {
+        "autoOwnershipPoints": 15,
+        "autoPoints": 25,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 10,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 7,
+        "endgamePoints": 60,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 0,
+        "tba_gameData": "RRR",
+        "teleopOwnershipPoints": 87,
+        "teleopPoints": 162,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 0,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 87,
+        "totalPoints": 187,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 0,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 15
+      },
+      "red": {
+        "autoOwnershipPoints": 27,
+        "autoPoints": 42,
+        "autoQuestRankingPoint": true,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 6,
+        "autoSwitchOwnershipSec": 7,
+        "endgamePoints": 65,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 3,
+        "tba_gameData": "RRR",
+        "teleopOwnershipPoints": 272,
+        "teleopPoints": 372,
+        "teleopScaleBoostSec": 10,
+        "teleopScaleOwnershipSec": 134,
+        "teleopSwitchBoostSec": 10,
+        "teleopSwitchOwnershipSec": 117,
+        "totalPoints": 414,
+        "vaultBoostPlayed": 3,
+        "vaultBoostTotal": 3,
+        "vaultForcePlayed": 1,
+        "vaultForceTotal": 1,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 35
+      }
+    },
+    "set_number": 1,
+    "time": 1540063440,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 257,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5514",
+          "frc3965",
+          "frc1266"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 156,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc980",
+          "frc2984",
+          "frc5877"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2018cabb",
+    "key": "2018cabb_qm2",
+    "match_number": 2,
+    "post_result_time": null,
+    "predicted_time": 1540057083,
+    "score_breakdown": {
+      "blue": {
+        "autoOwnershipPoints": 0,
+        "autoPoints": 15,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 0,
+        "endgamePoints": 10,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 2,
+        "tba_gameData": "LRL",
+        "teleopOwnershipPoints": 227,
+        "teleopPoints": 242,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 99,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 127,
+        "totalPoints": 257,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 0,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 0,
+        "vaultLevitateTotal": 1,
+        "vaultPoints": 5
+      },
+      "red": {
+        "autoOwnershipPoints": 0,
+        "autoPoints": 10,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 10,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 0,
+        "endgamePoints": 65,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 0,
+        "tba_gameData": "LRL",
+        "teleopOwnershipPoints": 61,
+        "teleopPoints": 146,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 7,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 53,
+        "totalPoints": 156,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 0,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 1,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 20
+      }
+    },
+    "set_number": 1,
+    "time": 1540055280,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 156,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2984",
+          "frc4486",
+          "frc4160"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 380,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3925",
+          "frc7517",
+          "frc5199"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2018cabb",
+    "key": "2018cabb_qm20",
+    "match_number": 20,
+    "post_result_time": null,
+    "predicted_time": 1540065723,
+    "score_breakdown": {
+      "blue": {
+        "autoOwnershipPoints": 0,
+        "autoPoints": 10,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 10,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 0,
+        "endgamePoints": 30,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 5,
+        "rp": 0,
+        "tba_gameData": "LRL",
+        "teleopOwnershipPoints": 96,
+        "teleopPoints": 141,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 9,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 86,
+        "totalPoints": 156,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 0,
+        "vaultForcePlayed": 3,
+        "vaultForceTotal": 3,
+        "vaultLevitatePlayed": 0,
+        "vaultLevitateTotal": 0,
+        "vaultPoints": 15
+      },
+      "red": {
+        "autoOwnershipPoints": 20,
+        "autoPoints": 35,
+        "autoQuestRankingPoint": true,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 10,
+        "endgamePoints": 65,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 3,
+        "tba_gameData": "LRL",
+        "teleopOwnershipPoints": 255,
+        "teleopPoints": 345,
+        "teleopScaleBoostSec": 10,
+        "teleopScaleOwnershipSec": 110,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 134,
+        "totalPoints": 380,
+        "vaultBoostPlayed": 2,
+        "vaultBoostTotal": 2,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 25
+      }
+    },
+    "set_number": 1,
+    "time": 1540063920,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 326,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc6926",
+          "frc5137",
+          "frc5012"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 196,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5199B",
+          "frc5025",
+          "frc3965"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2018cabb",
+    "key": "2018cabb_qm21",
+    "match_number": 21,
+    "post_result_time": null,
+    "predicted_time": 1540066203,
+    "score_breakdown": {
+      "blue": {
+        "autoOwnershipPoints": 5,
+        "autoPoints": 15,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 10,
+        "autoScaleOwnershipSec": 2,
+        "autoSwitchOwnershipSec": 0,
+        "endgamePoints": 65,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 2,
+        "tba_gameData": "LRL",
+        "teleopOwnershipPoints": 231,
+        "teleopPoints": 311,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 123,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 107,
+        "totalPoints": 326,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 0,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 15
+      },
+      "red": {
+        "autoOwnershipPoints": 2,
+        "autoPoints": 12,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 10,
+        "autoScaleOwnershipSec": 1,
+        "autoSwitchOwnershipSec": 0,
+        "endgamePoints": 35,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 0,
+        "tba_gameData": "LRL",
+        "teleopOwnershipPoints": 129,
+        "teleopPoints": 184,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 0,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 129,
+        "totalPoints": 196,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 0,
+        "vaultForcePlayed": 1,
+        "vaultForceTotal": 1,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 20
+      }
+    },
+    "set_number": 1,
+    "time": 1540064400,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 369,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4738",
+          "frc2543",
+          "frc1572"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 195,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4",
+          "frc5477",
+          "frc6926B"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2018cabb",
+    "key": "2018cabb_qm22",
+    "match_number": 22,
+    "post_result_time": null,
+    "predicted_time": 1540066683,
+    "score_breakdown": {
+      "blue": {
+        "autoOwnershipPoints": 0,
+        "autoPoints": 15,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 0,
+        "endgamePoints": 60,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 2,
+        "tba_gameData": "LLL",
+        "teleopOwnershipPoints": 264,
+        "teleopPoints": 354,
+        "teleopScaleBoostSec": 10,
+        "teleopScaleOwnershipSec": 110,
+        "teleopSwitchBoostSec": 10,
+        "teleopSwitchOwnershipSec": 133,
+        "totalPoints": 369,
+        "vaultBoostPlayed": 3,
+        "vaultBoostTotal": 3,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 30
+      },
+      "red": {
+        "autoOwnershipPoints": 0,
+        "autoPoints": 15,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 0,
+        "endgamePoints": 35,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 0,
+        "tba_gameData": "LLL",
+        "teleopOwnershipPoints": 120,
+        "teleopPoints": 180,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 5,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 115,
+        "totalPoints": 195,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 0,
+        "vaultForcePlayed": 2,
+        "vaultForceTotal": 2,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 25
+      }
+    },
+    "set_number": 1,
+    "time": 1540064880,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 220,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3128",
+          "frc4486B",
+          "frc1622"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 237,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5514",
+          "frc5474",
+          "frc3255B"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2018cabb",
+    "key": "2018cabb_qm23",
+    "match_number": 23,
+    "post_result_time": null,
+    "predicted_time": 1540067163,
+    "score_breakdown": {
+      "blue": {
+        "autoOwnershipPoints": 8,
+        "autoPoints": 18,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 10,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 4,
+        "endgamePoints": 30,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 0,
+        "tba_gameData": "LRL",
+        "teleopOwnershipPoints": 147,
+        "teleopPoints": 202,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 91,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 56,
+        "totalPoints": 220,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 1,
+        "vaultForcePlayed": 1,
+        "vaultForceTotal": 1,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 25
+      },
+      "red": {
+        "autoOwnershipPoints": 11,
+        "autoPoints": 26,
+        "autoQuestRankingPoint": true,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 5,
+        "endgamePoints": 35,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 3,
+        "tba_gameData": "LRL",
+        "teleopOwnershipPoints": 171,
+        "teleopPoints": 211,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 30,
+        "teleopSwitchBoostSec": 6,
+        "teleopSwitchOwnershipSec": 134,
+        "totalPoints": 237,
+        "vaultBoostPlayed": 1,
+        "vaultBoostTotal": 1,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 0,
+        "vaultLevitateTotal": 0,
+        "vaultPoints": 5
+      }
+    },
+    "set_number": 1,
+    "time": 1540065360,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 398,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3647",
+          "frc1538",
+          "frc4014"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 320,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2102",
+          "frc980",
+          "frc2102B"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2018cabb",
+    "key": "2018cabb_qm24",
+    "match_number": 24,
+    "post_result_time": null,
+    "predicted_time": 1540067643,
+    "score_breakdown": {
+      "blue": {
+        "autoOwnershipPoints": 32,
+        "autoPoints": 47,
+        "autoQuestRankingPoint": true,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 5,
+        "autoSwitchOwnershipSec": 10,
+        "endgamePoints": 90,
+        "faceTheBossRankingPoint": true,
+        "foulPoints": 0,
+        "rp": 4,
+        "tba_gameData": "LLL",
+        "teleopOwnershipPoints": 231,
+        "teleopPoints": 351,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 86,
+        "teleopSwitchBoostSec": 10,
+        "teleopSwitchOwnershipSec": 134,
+        "totalPoints": 398,
+        "vaultBoostPlayed": 3,
+        "vaultBoostTotal": 3,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 30
+      },
+      "red": {
+        "autoOwnershipPoints": 20,
+        "autoPoints": 35,
+        "autoQuestRankingPoint": true,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 1,
+        "autoSwitchOwnershipSec": 8,
+        "endgamePoints": 65,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 10,
+        "rp": 1,
+        "tba_gameData": "LLL",
+        "teleopOwnershipPoints": 190,
+        "teleopPoints": 275,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 45,
+        "teleopSwitchBoostSec": 10,
+        "teleopSwitchOwnershipSec": 134,
+        "totalPoints": 320,
+        "vaultBoostPlayed": 1,
+        "vaultBoostTotal": 1,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 20
+      }
+    },
+    "set_number": 1,
+    "time": 1540065840,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 178,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5025",
+          "frc2102B",
+          "frc6885"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 384,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1622",
+          "frc5199",
+          "frc5477"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2018cabb",
+    "key": "2018cabb_qm3",
+    "match_number": 3,
+    "post_result_time": null,
+    "predicted_time": 1540057563,
+    "score_breakdown": {
+      "blue": {
+        "autoOwnershipPoints": 5,
+        "autoPoints": 10,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 5,
+        "autoScaleOwnershipSec": 2,
+        "autoSwitchOwnershipSec": 0,
+        "endgamePoints": 30,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 0,
+        "tba_gameData": "RRR",
+        "teleopOwnershipPoints": 123,
+        "teleopPoints": 168,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 0,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 123,
+        "totalPoints": 178,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 0,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 15
+      },
+      "red": {
+        "autoOwnershipPoints": 24,
+        "autoPoints": 39,
+        "autoQuestRankingPoint": true,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 1,
+        "autoSwitchOwnershipSec": 11,
+        "endgamePoints": 35,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 3,
+        "tba_gameData": "RRR",
+        "teleopOwnershipPoints": 285,
+        "teleopPoints": 345,
+        "teleopScaleBoostSec": 10,
+        "teleopScaleOwnershipSec": 130,
+        "teleopSwitchBoostSec": 10,
+        "teleopSwitchOwnershipSec": 134,
+        "totalPoints": 384,
+        "vaultBoostPlayed": 3,
+        "vaultBoostTotal": 3,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 0,
+        "vaultLevitateTotal": 2,
+        "vaultPoints": 25
+      }
+    },
+    "set_number": 1,
+    "time": 1540055760,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 218,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc6926",
+          "frc1572",
+          "frc3255B"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 334,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4738",
+          "frc4486",
+          "frc2102"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2018cabb",
+    "key": "2018cabb_qm4",
+    "match_number": 4,
+    "post_result_time": null,
+    "predicted_time": 1540058043,
+    "score_breakdown": {
+      "blue": {
+        "autoOwnershipPoints": 19,
+        "autoPoints": 34,
+        "autoQuestRankingPoint": true,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 2,
+        "autoSwitchOwnershipSec": 7,
+        "endgamePoints": 35,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 1,
+        "tba_gameData": "RRR",
+        "teleopOwnershipPoints": 139,
+        "teleopPoints": 184,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 4,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 134,
+        "totalPoints": 218,
+        "vaultBoostPlayed": 2,
+        "vaultBoostTotal": 2,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 0,
+        "vaultLevitateTotal": 0,
+        "vaultPoints": 10
+      },
+      "red": {
+        "autoOwnershipPoints": 20,
+        "autoPoints": 35,
+        "autoQuestRankingPoint": true,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 10,
+        "endgamePoints": 40,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 3,
+        "tba_gameData": "RRR",
+        "teleopOwnershipPoints": 244,
+        "teleopPoints": 299,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 109,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 134,
+        "totalPoints": 334,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 0,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 15
+      }
+    },
+    "set_number": 1,
+    "time": 1540056240,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 211,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5199B",
+          "frc6926B",
+          "frc3925"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 395,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3255",
+          "frc3128",
+          "frc3647"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2018cabb",
+    "key": "2018cabb_qm5",
+    "match_number": 5,
+    "post_result_time": null,
+    "predicted_time": 1540058523,
+    "score_breakdown": {
+      "blue": {
+        "autoOwnershipPoints": 0,
+        "autoPoints": 10,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 10,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 0,
+        "endgamePoints": 30,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 0,
+        "tba_gameData": "RRR",
+        "teleopOwnershipPoints": 131,
+        "teleopPoints": 201,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 10,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 121,
+        "totalPoints": 211,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 2,
+        "vaultForcePlayed": 3,
+        "vaultForceTotal": 3,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 40
+      },
+      "red": {
+        "autoOwnershipPoints": 22,
+        "autoPoints": 32,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 10,
+        "autoScaleOwnershipSec": 11,
+        "autoSwitchOwnershipSec": 0,
+        "endgamePoints": 60,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 2,
+        "tba_gameData": "RRR",
+        "teleopOwnershipPoints": 273,
+        "teleopPoints": 363,
+        "teleopScaleBoostSec": 10,
+        "teleopScaleOwnershipSec": 124,
+        "teleopSwitchBoostSec": 10,
+        "teleopSwitchOwnershipSec": 128,
+        "totalPoints": 395,
+        "vaultBoostPlayed": 3,
+        "vaultBoostTotal": 3,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 30
+      }
+    },
+    "set_number": 1,
+    "time": 1540056720,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 360,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1538",
+          "frc4160",
+          "frc5137"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 146,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2543",
+          "frc4486B",
+          "frc2658"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2018cabb",
+    "key": "2018cabb_qm6",
+    "match_number": 6,
+    "post_result_time": null,
+    "predicted_time": 1540059003,
+    "score_breakdown": {
+      "blue": {
+        "autoOwnershipPoints": 21,
+        "autoPoints": 36,
+        "autoQuestRankingPoint": true,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 10,
+        "endgamePoints": 60,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 3,
+        "tba_gameData": "RRR",
+        "teleopOwnershipPoints": 249,
+        "teleopPoints": 324,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 114,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 134,
+        "totalPoints": 360,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 0,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 0,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 15
+      },
+      "red": {
+        "autoOwnershipPoints": 0,
+        "autoPoints": 10,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 10,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 0,
+        "endgamePoints": 30,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 10,
+        "rp": 0,
+        "tba_gameData": "RRR",
+        "teleopOwnershipPoints": 96,
+        "teleopPoints": 126,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 0,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 95,
+        "totalPoints": 146,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 0,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 0,
+        "vaultLevitateTotal": 0,
+        "vaultPoints": 0
+      }
+    },
+    "set_number": 1,
+    "time": 1540057200,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 338,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2102",
+          "frc3647B",
+          "frc5199"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 78,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1622",
+          "frc4738",
+          "frc3965"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2018cabb",
+    "key": "2018cabb_qm7",
+    "match_number": 7,
+    "post_result_time": null,
+    "predicted_time": 1540059483,
+    "score_breakdown": {
+      "blue": {
+        "autoOwnershipPoints": 21,
+        "autoPoints": 31,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 10,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 10,
+        "endgamePoints": 35,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 2,
+        "tba_gameData": "RRR",
+        "teleopOwnershipPoints": 257,
+        "teleopPoints": 307,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 122,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 134,
+        "totalPoints": 338,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 0,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 15
+      },
+      "red": {
+        "autoOwnershipPoints": 0,
+        "autoPoints": 15,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 0,
+        "endgamePoints": 40,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 0,
+        "tba_gameData": "RRR",
+        "teleopOwnershipPoints": 8,
+        "teleopPoints": 63,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 0,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 8,
+        "totalPoints": 78,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 0,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 15
+      }
+    },
+    "set_number": 1,
+    "time": 1540057680,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 253,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5025",
+          "frc3255",
+          "frc4014"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 237,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3128",
+          "frc1572",
+          "frc2984"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2018cabb",
+    "key": "2018cabb_qm8",
+    "match_number": 8,
+    "post_result_time": null,
+    "predicted_time": 1540059963,
+    "score_breakdown": {
+      "blue": {
+        "autoOwnershipPoints": 12,
+        "autoPoints": 22,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 10,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 6,
+        "endgamePoints": 30,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 2,
+        "tba_gameData": "RLR",
+        "teleopOwnershipPoints": 196,
+        "teleopPoints": 231,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 117,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 79,
+        "totalPoints": 253,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 0,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 0,
+        "vaultLevitateTotal": 1,
+        "vaultPoints": 5
+      },
+      "red": {
+        "autoOwnershipPoints": 15,
+        "autoPoints": 25,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 10,
+        "autoScaleOwnershipSec": 7,
+        "autoSwitchOwnershipSec": 0,
+        "endgamePoints": 60,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 0,
+        "tba_gameData": "RLR",
+        "teleopOwnershipPoints": 137,
+        "teleopPoints": 212,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 11,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 125,
+        "totalPoints": 237,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 0,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 15
+      }
+    },
+    "set_number": 1,
+    "time": 1540058160,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 191,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc980",
+          "frc2543",
+          "frc7517"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 293,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5199B",
+          "frc6885",
+          "frc3255B"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2018cabb",
+    "key": "2018cabb_qm9",
+    "match_number": 9,
+    "post_result_time": null,
+    "predicted_time": 1540060443,
+    "score_breakdown": {
+      "blue": {
+        "autoOwnershipPoints": 0,
+        "autoPoints": 15,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 0,
+        "endgamePoints": 30,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 0,
+        "tba_gameData": "LLL",
+        "teleopOwnershipPoints": 141,
+        "teleopPoints": 176,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 14,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 126,
+        "totalPoints": 191,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 1,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 0,
+        "vaultLevitateTotal": 0,
+        "vaultPoints": 5
+      },
+      "red": {
+        "autoOwnershipPoints": 0,
+        "autoPoints": 10,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 10,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 0,
+        "endgamePoints": 30,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 2,
+        "tba_gameData": "LLL",
+        "teleopOwnershipPoints": 233,
+        "teleopPoints": 283,
+        "teleopScaleBoostSec": 10,
+        "teleopScaleOwnershipSec": 83,
+        "teleopSwitchBoostSec": 8,
+        "teleopSwitchOwnershipSec": 131,
+        "totalPoints": 293,
+        "vaultBoostPlayed": 3,
+        "vaultBoostTotal": 3,
+        "vaultForcePlayed": 1,
+        "vaultForceTotal": 1,
+        "vaultLevitatePlayed": 0,
+        "vaultLevitateTotal": 0,
+        "vaultPoints": 20
+      }
+    },
+    "set_number": 1,
+    "time": 1540058640,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 212,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3128",
+          "frc5514",
+          "frc3647B"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 417,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3255",
+          "frc1538",
+          "frc4486"
+        ]
+      }
+    },
+    "comp_level": "sf",
+    "event_key": "2018cabb",
+    "key": "2018cabb_sf1m1",
+    "match_number": 1,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoOwnershipPoints": 18,
+        "autoPoints": 33,
+        "autoQuestRankingPoint": true,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 9,
+        "endgamePoints": 30,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 0,
+        "tba_gameData": "LLL",
+        "teleopOwnershipPoints": 144,
+        "teleopPoints": 179,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 0,
+        "teleopSwitchBoostSec": 10,
+        "teleopSwitchOwnershipSec": 134,
+        "totalPoints": 212,
+        "vaultBoostPlayed": 1,
+        "vaultBoostTotal": 1,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 0,
+        "vaultLevitateTotal": 0,
+        "vaultPoints": 5
+      },
+      "red": {
+        "autoOwnershipPoints": 36,
+        "autoPoints": 51,
+        "autoQuestRankingPoint": true,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 10,
+        "autoSwitchOwnershipSec": 7,
+        "endgamePoints": 60,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 0,
+        "tba_gameData": "LLL",
+        "teleopOwnershipPoints": 276,
+        "teleopPoints": 366,
+        "teleopScaleBoostSec": 10,
+        "teleopScaleOwnershipSec": 133,
+        "teleopSwitchBoostSec": 10,
+        "teleopSwitchOwnershipSec": 122,
+        "totalPoints": 417,
+        "vaultBoostPlayed": 3,
+        "vaultBoostTotal": 3,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 30
+      }
+    },
+    "set_number": 1,
+    "time": 1540081238,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 105,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3128",
+          "frc5514",
+          "frc3647B"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 444,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3255",
+          "frc1538",
+          "frc4486"
+        ]
+      }
+    },
+    "comp_level": "sf",
+    "event_key": "2018cabb",
+    "key": "2018cabb_sf1m2",
+    "match_number": 2,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoOwnershipPoints": 0,
+        "autoPoints": 10,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 10,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 0,
+        "endgamePoints": 30,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 0,
+        "tba_gameData": "RRR",
+        "teleopOwnershipPoints": 65,
+        "teleopPoints": 95,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 3,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 62,
+        "totalPoints": 105,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 0,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 0,
+        "vaultLevitateTotal": 0,
+        "vaultPoints": 0
+      },
+      "red": {
+        "autoOwnershipPoints": 27,
+        "autoPoints": 42,
+        "autoQuestRankingPoint": true,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 6,
+        "autoSwitchOwnershipSec": 7,
+        "endgamePoints": 65,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 75,
+        "rp": 0,
+        "tba_gameData": "RRR",
+        "teleopOwnershipPoints": 237,
+        "teleopPoints": 327,
+        "teleopScaleBoostSec": 2,
+        "teleopScaleOwnershipSec": 123,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 110,
+        "totalPoints": 444,
+        "vaultBoostPlayed": 2,
+        "vaultBoostTotal": 2,
+        "vaultForcePlayed": 0,
+        "vaultForceTotal": 0,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 25
+      }
+    },
+    "set_number": 1,
+    "time": 1540082204,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 357,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3255B",
+          "frc5199",
+          "frc2658"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 341,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2102",
+          "frc3647",
+          "frc1266"
+        ]
+      }
+    },
+    "comp_level": "sf",
+    "event_key": "2018cabb",
+    "key": "2018cabb_sf2m1",
+    "match_number": 1,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoOwnershipPoints": 0,
+        "autoPoints": 5,
+        "autoQuestRankingPoint": false,
+        "autoRunPoints": 5,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 0,
+        "endgamePoints": 65,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 50,
+        "rp": 0,
+        "tba_gameData": "RLR",
+        "teleopOwnershipPoints": 207,
+        "teleopPoints": 302,
+        "teleopScaleBoostSec": 6,
+        "teleopScaleOwnershipSec": 62,
+        "teleopSwitchBoostSec": 10,
+        "teleopSwitchOwnershipSec": 128,
+        "totalPoints": 357,
+        "vaultBoostPlayed": 3,
+        "vaultBoostTotal": 3,
+        "vaultForcePlayed": 3,
+        "vaultForceTotal": 3,
+        "vaultLevitatePlayed": 0,
+        "vaultLevitateTotal": 0,
+        "vaultPoints": 30
+      },
+      "red": {
+        "autoOwnershipPoints": 22,
+        "autoPoints": 37,
+        "autoQuestRankingPoint": true,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 11,
+        "endgamePoints": 65,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 0,
+        "rp": 0,
+        "tba_gameData": "RLR",
+        "teleopOwnershipPoints": 194,
+        "teleopPoints": 304,
+        "teleopScaleBoostSec": 1,
+        "teleopScaleOwnershipSec": 58,
+        "teleopSwitchBoostSec": 10,
+        "teleopSwitchOwnershipSec": 124,
+        "totalPoints": 341,
+        "vaultBoostPlayed": 3,
+        "vaultBoostTotal": 3,
+        "vaultForcePlayed": 3,
+        "vaultForceTotal": 3,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 45
+      }
+    },
+    "set_number": 2,
+    "time": 1540081663,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 447,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3255B",
+          "frc5199",
+          "frc2658"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 326,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2102",
+          "frc3647",
+          "frc1266"
+        ]
+      }
+    },
+    "comp_level": "sf",
+    "event_key": "2018cabb",
+    "key": "2018cabb_sf2m2",
+    "match_number": 2,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoOwnershipPoints": 21,
+        "autoPoints": 36,
+        "autoQuestRankingPoint": true,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 0,
+        "autoSwitchOwnershipSec": 10,
+        "endgamePoints": 90,
+        "faceTheBossRankingPoint": true,
+        "foulPoints": 75,
+        "rp": 0,
+        "tba_gameData": "RRR",
+        "teleopOwnershipPoints": 201,
+        "teleopPoints": 336,
+        "teleopScaleBoostSec": 8,
+        "teleopScaleOwnershipSec": 83,
+        "teleopSwitchBoostSec": 10,
+        "teleopSwitchOwnershipSec": 99,
+        "totalPoints": 447,
+        "vaultBoostPlayed": 3,
+        "vaultBoostTotal": 3,
+        "vaultForcePlayed": 3,
+        "vaultForceTotal": 3,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 45
+      },
+      "red": {
+        "autoOwnershipPoints": 36,
+        "autoPoints": 51,
+        "autoQuestRankingPoint": true,
+        "autoRunPoints": 15,
+        "autoScaleOwnershipSec": 6,
+        "autoSwitchOwnershipSec": 11,
+        "endgamePoints": 65,
+        "faceTheBossRankingPoint": false,
+        "foulPoints": 5,
+        "rp": 0,
+        "tba_gameData": "RRR",
+        "teleopOwnershipPoints": 170,
+        "teleopPoints": 270,
+        "teleopScaleBoostSec": 0,
+        "teleopScaleOwnershipSec": 35,
+        "teleopSwitchBoostSec": 0,
+        "teleopSwitchOwnershipSec": 134,
+        "totalPoints": 326,
+        "vaultBoostPlayed": 0,
+        "vaultBoostTotal": 1,
+        "vaultForcePlayed": 3,
+        "vaultForceTotal": 3,
+        "vaultLevitatePlayed": 3,
+        "vaultLevitateTotal": 3,
+        "vaultPoints": 35
+      }
+    },
+    "set_number": 2,
+    "time": 1540082972,
+    "videos": [],
+    "winning_alliance": "blue"
+  }
+]

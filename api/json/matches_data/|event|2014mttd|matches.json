@@ -1,0 +1,3717 @@
+[
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 290,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc254",
+          "frc973",
+          "frc1671B"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 247,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2073B",
+          "frc1678",
+          "frc971C"
+        ]
+      }
+    },
+    "comp_level": "f",
+    "event_key": "2014mttd",
+    "key": "2014mttd_f1m1",
+    "match_number": 1,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 130,
+        "auto": 70,
+        "teleop_goal+foul": 50,
+        "truss+catch": 40
+      },
+      "red": {
+        "assist": 120,
+        "auto": 56,
+        "teleop_goal+foul": 31,
+        "truss+catch": 40
+      }
+    },
+    "set_number": 1,
+    "time": 1415576951,
+    "videos": [
+      {
+        "key": "DjMreZfeP_M",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 341,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1671B",
+          "frc973",
+          "frc254"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 310,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1678",
+          "frc971C",
+          "frc2073B"
+        ]
+      }
+    },
+    "comp_level": "f",
+    "event_key": "2014mttd",
+    "key": "2014mttd_f1m2",
+    "match_number": 2,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 180,
+        "auto": 70,
+        "teleop_goal+foul": 51,
+        "truss+catch": 40
+      },
+      "red": {
+        "assist": 150,
+        "auto": 60,
+        "teleop_goal+foul": 50,
+        "truss+catch": 50
+      }
+    },
+    "set_number": 1,
+    "time": 1415578326,
+    "videos": [
+      {
+        "key": "LU6pFCJGhnY",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 81,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc973B",
+          "frc4255",
+          "frc852"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 330,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1678",
+          "frc2073B",
+          "frc971C"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qf1m1",
+    "match_number": 1,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 30,
+        "auto": 30,
+        "teleop_goal+foul": 1,
+        "truss+catch": 20
+      },
+      "red": {
+        "assist": 140,
+        "auto": 70,
+        "teleop_goal+foul": 60,
+        "truss+catch": 60
+      }
+    },
+    "set_number": 1,
+    "time": 1415566800,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 52,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc973B",
+          "frc4255",
+          "frc852"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 341,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1678",
+          "frc2073B",
+          "frc971C"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qf1m2",
+    "match_number": 2,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 30,
+        "auto": 10,
+        "teleop_goal+foul": 2,
+        "truss+catch": 10
+      },
+      "red": {
+        "assist": 130,
+        "auto": 70,
+        "teleop_goal+foul": 91,
+        "truss+catch": 50
+      }
+    },
+    "set_number": 1,
+    "time": 1415569186,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 153,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3495",
+          "frc973C",
+          "frc1671"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 65,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2135",
+          "frc971B",
+          "frc1323"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qf2m1",
+    "match_number": 1,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 40,
+        "auto": 30,
+        "teleop_goal+foul": 53,
+        "truss+catch": 30
+      },
+      "red": {
+        "assist": 40,
+        "auto": 10,
+        "teleop_goal+foul": 5,
+        "truss+catch": 10
+      }
+    },
+    "set_number": 2,
+    "time": 1415567407,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 98,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1671",
+          "frc973C",
+          "frc3495"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 246,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2135",
+          "frc971B",
+          "frc1323"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qf2m2",
+    "match_number": 2,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 40,
+        "auto": 25,
+        "teleop_goal+foul": 3,
+        "truss+catch": 30
+      },
+      "red": {
+        "assist": 150,
+        "auto": 41,
+        "teleop_goal+foul": 5,
+        "truss+catch": 50
+      }
+    },
+    "set_number": 2,
+    "time": 1415569546,
+    "videos": [
+      {
+        "key": "K_vrn-25dGE",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 106,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc973C",
+          "frc3495",
+          "frc1671"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 105,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2135",
+          "frc971B",
+          "frc1323"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qf2m3",
+    "match_number": 3,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 20,
+        "auto": 25,
+        "teleop_goal+foul": 21,
+        "truss+catch": 40
+      },
+      "red": {
+        "assist": 90,
+        "auto": 10,
+        "teleop_goal+foul": 5,
+        "truss+catch": 0
+      }
+    },
+    "set_number": 2,
+    "time": 1415571497,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 97,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2135B",
+          "frc1422",
+          "frc3970"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 221,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4498B",
+          "frc971",
+          "frc2813"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qf3m1",
+    "match_number": 1,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 60,
+        "auto": 15,
+        "teleop_goal+foul": 12,
+        "truss+catch": 10
+      },
+      "red": {
+        "assist": 90,
+        "auto": 70,
+        "teleop_goal+foul": 21,
+        "truss+catch": 40
+      }
+    },
+    "set_number": 3,
+    "time": 1415568164,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 38,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1422",
+          "frc3970",
+          "frc2135B"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 44,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2813",
+          "frc4498B",
+          "frc971"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qf3m2",
+    "match_number": 2,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 20,
+        "auto": 15,
+        "teleop_goal+foul": 3,
+        "truss+catch": 0
+      },
+      "red": {
+        "assist": 10,
+        "auto": 10,
+        "teleop_goal+foul": 4,
+        "truss+catch": 20
+      }
+    },
+    "set_number": 3,
+    "time": 1415570039,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 71,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1662",
+          "frc3482",
+          "frc2073"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 188,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc973",
+          "frc1671B",
+          "frc254"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qf4m1",
+    "match_number": 1,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 10,
+        "auto": 30,
+        "teleop_goal+foul": 21,
+        "truss+catch": 10
+      },
+      "red": {
+        "assist": 70,
+        "auto": 5,
+        "teleop_goal+foul": 83,
+        "truss+catch": 30
+      }
+    },
+    "set_number": 4,
+    "time": 1415568719,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 78,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2073",
+          "frc3482",
+          "frc1662"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 151,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc973",
+          "frc254",
+          "frc1671B"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qf4m2",
+    "match_number": 2,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 10,
+        "auto": 15,
+        "teleop_goal+foul": 53,
+        "truss+catch": 0
+      },
+      "red": {
+        "assist": 40,
+        "auto": 70,
+        "teleop_goal+foul": 31,
+        "truss+catch": 10
+      }
+    },
+    "set_number": 4,
+    "time": 1415570461,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 136,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc973B",
+          "frc4498B",
+          "frc254"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 41,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1323B",
+          "frc852",
+          "frc4255"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm1",
+    "match_number": 1,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 40,
+        "auto": 65,
+        "teleop_goal+foul": 31,
+        "truss+catch": 0
+      },
+      "red": {
+        "assist": 0,
+        "auto": 40,
+        "teleop_goal+foul": 1,
+        "truss+catch": 0
+      }
+    },
+    "set_number": 1,
+    "time": 1415480400,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 20,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1323B",
+          "frc3495",
+          "frc973"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 51,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2135",
+          "frc973C",
+          "frc1671B"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm10",
+    "match_number": 10,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 0,
+        "auto": 0,
+        "teleop_goal+foul": 20,
+        "truss+catch": 0
+      },
+      "red": {
+        "assist": 10,
+        "auto": 30,
+        "teleop_goal+foul": 11,
+        "truss+catch": 0
+      }
+    },
+    "set_number": 1,
+    "time": 1415485260,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 121,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2813",
+          "frc973B",
+          "frc1671"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 22,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc852",
+          "frc5458",
+          "frc3482"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm11",
+    "match_number": 11,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 60,
+        "auto": 10,
+        "teleop_goal+foul": 21,
+        "truss+catch": 30
+      },
+      "red": {
+        "assist": 0,
+        "auto": 21,
+        "teleop_goal+foul": 1,
+        "truss+catch": 0
+      }
+    },
+    "set_number": 1,
+    "time": 1415485800,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 210,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1678",
+          "frc2073B",
+          "frc971C"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 18,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2135B",
+          "frc971B",
+          "frc4498B"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm12",
+    "match_number": 12,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 30,
+        "auto": 70,
+        "teleop_goal+foul": 90,
+        "truss+catch": 20
+      },
+      "red": {
+        "assist": 0,
+        "auto": 15,
+        "teleop_goal+foul": 3,
+        "truss+catch": 0
+      }
+    },
+    "set_number": 1,
+    "time": 1415486340,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 287,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc971",
+          "frc1323",
+          "frc254"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 53,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3970",
+          "frc2073",
+          "frc4255"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm13",
+    "match_number": 13,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 150,
+        "auto": 65,
+        "teleop_goal+foul": 32,
+        "truss+catch": 40
+      },
+      "red": {
+        "assist": 0,
+        "auto": 30,
+        "teleop_goal+foul": 3,
+        "truss+catch": 20
+      }
+    },
+    "set_number": 1,
+    "time": 1415486880,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 185,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4498",
+          "frc2135",
+          "frc1671"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 45,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1662",
+          "frc1422",
+          "frc971B"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm14",
+    "match_number": 14,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 20,
+        "auto": 35,
+        "teleop_goal+foul": 100,
+        "truss+catch": 30
+      },
+      "red": {
+        "assist": 0,
+        "auto": 15,
+        "teleop_goal+foul": 30,
+        "truss+catch": 0
+      }
+    },
+    "set_number": 1,
+    "time": 1415487420,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 115,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2073B",
+          "frc973C",
+          "frc1671B"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 130,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5458",
+          "frc2813",
+          "frc1323B"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm15",
+    "match_number": 15,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 40,
+        "auto": 35,
+        "teleop_goal+foul": 20,
+        "truss+catch": 20
+      },
+      "red": {
+        "assist": 70,
+        "auto": 16,
+        "teleop_goal+foul": 4,
+        "truss+catch": 40
+      }
+    },
+    "set_number": 1,
+    "time": 1415487960,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 246,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3495",
+          "frc971C",
+          "frc971"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 126,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4255",
+          "frc3482",
+          "frc254"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm16",
+    "match_number": 16,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 120,
+        "auto": 55,
+        "teleop_goal+foul": 41,
+        "truss+catch": 30
+      },
+      "red": {
+        "assist": 40,
+        "auto": 45,
+        "teleop_goal+foul": 41,
+        "truss+catch": 0
+      }
+    },
+    "set_number": 1,
+    "time": 1415488500,
+    "videos": [
+      {
+        "key": "FgteH5CYCtE",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 42,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1422",
+          "frc1323",
+          "frc2073"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 154,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4498B",
+          "frc3970",
+          "frc1678"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm17",
+    "match_number": 17,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 0,
+        "auto": 30,
+        "teleop_goal+foul": 2,
+        "truss+catch": 10
+      },
+      "red": {
+        "assist": 60,
+        "auto": 50,
+        "teleop_goal+foul": 4,
+        "truss+catch": 40
+      }
+    },
+    "set_number": 1,
+    "time": 1415489040,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 140,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4498",
+          "frc1662",
+          "frc973"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 47,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2135B",
+          "frc973B",
+          "frc852"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm18",
+    "match_number": 18,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 40,
+        "auto": 10,
+        "teleop_goal+foul": 40,
+        "truss+catch": 50
+      },
+      "red": {
+        "assist": 20,
+        "auto": 15,
+        "teleop_goal+foul": 12,
+        "truss+catch": 0
+      }
+    },
+    "set_number": 1,
+    "time": 1415489580,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 54,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5458",
+          "frc971",
+          "frc3970"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 280,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc254",
+          "frc971B",
+          "frc1671B"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm19",
+    "match_number": 19,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 10,
+        "auto": 21,
+        "teleop_goal+foul": 3,
+        "truss+catch": 20
+      },
+      "red": {
+        "assist": 130,
+        "auto": 70,
+        "teleop_goal+foul": 50,
+        "truss+catch": 30
+      }
+    },
+    "set_number": 1,
+    "time": 1415490120,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 88,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5458",
+          "frc971B",
+          "frc3495"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 54,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2135",
+          "frc973",
+          "frc2073B"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm2",
+    "match_number": 2,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 0,
+        "auto": 15,
+        "teleop_goal+foul": 53,
+        "truss+catch": 20
+      },
+      "red": {
+        "assist": 30,
+        "auto": 10,
+        "teleop_goal+foul": 14,
+        "truss+catch": 0
+      }
+    },
+    "set_number": 1,
+    "time": 1415480940,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 72,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1323",
+          "frc973C",
+          "frc1662"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 137,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2135B",
+          "frc2073B",
+          "frc2813"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm20",
+    "match_number": 20,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 0,
+        "auto": 10,
+        "teleop_goal+foul": 62,
+        "truss+catch": 0
+      },
+      "red": {
+        "assist": 70,
+        "auto": 25,
+        "teleop_goal+foul": 32,
+        "truss+catch": 10
+      }
+    },
+    "set_number": 1,
+    "time": 1415490660,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 117,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1422",
+          "frc1678",
+          "frc4255"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 42,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3495",
+          "frc852",
+          "frc3482"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm21",
+    "match_number": 21,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 40,
+        "auto": 35,
+        "teleop_goal+foul": 22,
+        "truss+catch": 20
+      },
+      "red": {
+        "assist": 10,
+        "auto": 10,
+        "teleop_goal+foul": 2,
+        "truss+catch": 20
+      }
+    },
+    "set_number": 1,
+    "time": 1415491200,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 190,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2073",
+          "frc1323B",
+          "frc971C"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 130,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1671",
+          "frc4498",
+          "frc973"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm22",
+    "match_number": 22,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 60,
+        "auto": 70,
+        "teleop_goal+foul": 40,
+        "truss+catch": 20
+      },
+      "red": {
+        "assist": 40,
+        "auto": 10,
+        "teleop_goal+foul": 40,
+        "truss+catch": 40
+      }
+    },
+    "set_number": 1,
+    "time": 1415491740,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 37,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc973B",
+          "frc4255",
+          "frc973C"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 126,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4498B",
+          "frc2135",
+          "frc1422"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm23",
+    "match_number": 23,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 0,
+        "auto": 15,
+        "teleop_goal+foul": 2,
+        "truss+catch": 20
+      },
+      "red": {
+        "assist": 60,
+        "auto": 26,
+        "teleop_goal+foul": 40,
+        "truss+catch": 0
+      }
+    },
+    "set_number": 1,
+    "time": 1415492280,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 226,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc254",
+          "frc3495",
+          "frc1678"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 60,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2073",
+          "frc1671B",
+          "frc1662"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm24",
+    "match_number": 24,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 70,
+        "auto": 65,
+        "teleop_goal+foul": 41,
+        "truss+catch": 50
+      },
+      "red": {
+        "assist": 0,
+        "auto": 30,
+        "teleop_goal+foul": 20,
+        "truss+catch": 10
+      }
+    },
+    "set_number": 1,
+    "time": 1415492820,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 104,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2135",
+          "frc971B",
+          "frc3482"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 5,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1323",
+          "frc4498B",
+          "frc1671"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm25",
+    "match_number": 25,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 70,
+        "auto": 21,
+        "teleop_goal+foul": 3,
+        "truss+catch": 10
+      },
+      "red": {
+        "assist": 0,
+        "auto": 5,
+        "teleop_goal+foul": 0,
+        "truss+catch": 0
+      }
+    },
+    "set_number": 1,
+    "time": 1415493360,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 17,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5458",
+          "frc1323B",
+          "frc2135B"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 131,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc852",
+          "frc4498",
+          "frc971C"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm26",
+    "match_number": 26,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 0,
+        "auto": 16,
+        "teleop_goal+foul": 1,
+        "truss+catch": 0
+      },
+      "red": {
+        "assist": 40,
+        "auto": 50,
+        "teleop_goal+foul": 41,
+        "truss+catch": 0
+      }
+    },
+    "set_number": 1,
+    "time": 1415493900,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 162,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2813",
+          "frc3970",
+          "frc973"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 116,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2073B",
+          "frc971",
+          "frc973B"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm27",
+    "match_number": 27,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 90,
+        "auto": 10,
+        "teleop_goal+foul": 32,
+        "truss+catch": 30
+      },
+      "red": {
+        "assist": 40,
+        "auto": 45,
+        "teleop_goal+foul": 21,
+        "truss+catch": 10
+      }
+    },
+    "set_number": 1,
+    "time": 1415494440,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 78,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4498B",
+          "frc5458",
+          "frc1671B"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 146,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc852",
+          "frc1662",
+          "frc2135"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm28",
+    "match_number": 28,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 30,
+        "auto": 35,
+        "teleop_goal+foul": 3,
+        "truss+catch": 10
+      },
+      "red": {
+        "assist": 30,
+        "auto": 75,
+        "teleop_goal+foul": 41,
+        "truss+catch": 0
+      }
+    },
+    "set_number": 1,
+    "time": 1415494980,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 195,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc971",
+          "frc4498",
+          "frc2813"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 77,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc973B",
+          "frc3970",
+          "frc971C"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm29",
+    "match_number": 29,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 50,
+        "auto": 65,
+        "teleop_goal+foul": 50,
+        "truss+catch": 30
+      },
+      "red": {
+        "assist": 10,
+        "auto": 45,
+        "teleop_goal+foul": 12,
+        "truss+catch": 10
+      }
+    },
+    "set_number": 1,
+    "time": 1415495520,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 7,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3970",
+          "frc1671B",
+          "frc4498"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 143,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1323",
+          "frc2813",
+          "frc971C"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm3",
+    "match_number": 3,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 0,
+        "auto": 5,
+        "teleop_goal+foul": 2,
+        "truss+catch": 0
+      },
+      "red": {
+        "assist": 90,
+        "auto": 10,
+        "teleop_goal+foul": 33,
+        "truss+catch": 10
+      }
+    },
+    "set_number": 1,
+    "time": 1415481480,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 66,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3495",
+          "frc1671",
+          "frc2135B"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 23,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1323B",
+          "frc4255",
+          "frc973"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm30",
+    "match_number": 30,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 10,
+        "auto": 15,
+        "teleop_goal+foul": 21,
+        "truss+catch": 20
+      },
+      "red": {
+        "assist": 20,
+        "auto": 0,
+        "teleop_goal+foul": 3,
+        "truss+catch": 0
+      }
+    },
+    "set_number": 1,
+    "time": 1415496060,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 57,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc971B",
+          "frc2073B",
+          "frc3482"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 212,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc254",
+          "frc1422",
+          "frc2073"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm31",
+    "match_number": 31,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 30,
+        "auto": 26,
+        "teleop_goal+foul": 1,
+        "truss+catch": 0
+      },
+      "red": {
+        "assist": 120,
+        "auto": 50,
+        "teleop_goal+foul": 32,
+        "truss+catch": 10
+      }
+    },
+    "set_number": 1,
+    "time": 1415496600,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 61,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1323",
+          "frc4255",
+          "frc1671B"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 110,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1678",
+          "frc973C",
+          "frc4498"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm32",
+    "match_number": 32,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 10,
+        "auto": 30,
+        "teleop_goal+foul": 11,
+        "truss+catch": 10
+      },
+      "red": {
+        "assist": 70,
+        "auto": 25,
+        "teleop_goal+foul": 5,
+        "truss+catch": 10
+      }
+    },
+    "set_number": 1,
+    "time": 1415497140,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 89,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3482",
+          "frc254",
+          "frc973B"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 83,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2135",
+          "frc2073B",
+          "frc5458"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm33",
+    "match_number": 33,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 50,
+        "auto": 5,
+        "teleop_goal+foul": 34,
+        "truss+catch": 0
+      },
+      "red": {
+        "assist": 30,
+        "auto": 21,
+        "teleop_goal+foul": 32,
+        "truss+catch": 0
+      }
+    },
+    "set_number": 1,
+    "time": 1415497680,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 81,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1662",
+          "frc1671",
+          "frc1323B"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 160,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2135B",
+          "frc971",
+          "frc2073"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm34",
+    "match_number": 34,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 20,
+        "auto": 30,
+        "teleop_goal+foul": 11,
+        "truss+catch": 20
+      },
+      "red": {
+        "assist": 60,
+        "auto": 70,
+        "teleop_goal+foul": 20,
+        "truss+catch": 10
+      }
+    },
+    "set_number": 1,
+    "time": 1415498220,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 126,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc973",
+          "frc971C",
+          "frc1422"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 28,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3970",
+          "frc3495",
+          "frc1323"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm35",
+    "match_number": 35,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 50,
+        "auto": 15,
+        "teleop_goal+foul": 21,
+        "truss+catch": 40
+      },
+      "red": {
+        "assist": 0,
+        "auto": 15,
+        "teleop_goal+foul": 3,
+        "truss+catch": 10
+      }
+    },
+    "set_number": 1,
+    "time": 1415498760,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 204,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2813",
+          "frc971B",
+          "frc1678"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 81,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4498B",
+          "frc973C",
+          "frc852"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm36",
+    "match_number": 36,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 70,
+        "auto": 70,
+        "teleop_goal+foul": 14,
+        "truss+catch": 50
+      },
+      "red": {
+        "assist": 30,
+        "auto": 30,
+        "teleop_goal+foul": 11,
+        "truss+catch": 10
+      }
+    },
+    "set_number": 1,
+    "time": 1415499300,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 136,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc973B",
+          "frc2135",
+          "frc3495"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 28,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2135B",
+          "frc3970",
+          "frc1671B"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm37",
+    "match_number": 37,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 60,
+        "auto": 35,
+        "teleop_goal+foul": 11,
+        "truss+catch": 30
+      },
+      "red": {
+        "assist": 10,
+        "auto": 5,
+        "teleop_goal+foul": 3,
+        "truss+catch": 10
+      }
+    },
+    "set_number": 1,
+    "time": 1415499840,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 56,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2813",
+          "frc4255",
+          "frc1662"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 140,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc971B",
+          "frc971",
+          "frc1323B"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm38",
+    "match_number": 38,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 0,
+        "auto": 25,
+        "teleop_goal+foul": 11,
+        "truss+catch": 20
+      },
+      "red": {
+        "assist": 30,
+        "auto": 40,
+        "teleop_goal+foul": 40,
+        "truss+catch": 30
+      }
+    },
+    "set_number": 1,
+    "time": 1415500380,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 104,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1323",
+          "frc254",
+          "frc852"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 71,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2073B",
+          "frc4498B",
+          "frc973"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm39",
+    "match_number": 39,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 40,
+        "auto": 10,
+        "teleop_goal+foul": 24,
+        "truss+catch": 30
+      },
+      "red": {
+        "assist": 40,
+        "auto": 10,
+        "teleop_goal+foul": 21,
+        "truss+catch": 0
+      }
+    },
+    "set_number": 1,
+    "time": 1415500920,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 50,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3482",
+          "frc971",
+          "frc1422"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 93,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2135B",
+          "frc1662",
+          "frc1678"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm4",
+    "match_number": 4,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 20,
+        "auto": 15,
+        "teleop_goal+foul": 5,
+        "truss+catch": 10
+      },
+      "red": {
+        "assist": 40,
+        "auto": 30,
+        "teleop_goal+foul": 13,
+        "truss+catch": 10
+      }
+    },
+    "set_number": 1,
+    "time": 1415482020,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 151,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc971C",
+          "frc5458",
+          "frc973C"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 106,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1671",
+          "frc1422",
+          "frc3482"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm40",
+    "match_number": 40,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 20,
+        "auto": 51,
+        "teleop_goal+foul": 40,
+        "truss+catch": 40
+      },
+      "red": {
+        "assist": 40,
+        "auto": 15,
+        "teleop_goal+foul": 21,
+        "truss+catch": 30
+      }
+    },
+    "set_number": 1,
+    "time": 1415501460,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 179,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2073",
+          "frc1678",
+          "frc852"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 47,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4498",
+          "frc2135",
+          "frc4255"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm41",
+    "match_number": 41,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 90,
+        "auto": 55,
+        "teleop_goal+foul": 4,
+        "truss+catch": 30
+      },
+      "red": {
+        "assist": 20,
+        "auto": 25,
+        "teleop_goal+foul": 2,
+        "truss+catch": 0
+      }
+    },
+    "set_number": 1,
+    "time": 1415548800,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 5,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3970",
+          "frc1422",
+          "frc1323B"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 141,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1323",
+          "frc1662",
+          "frc5458"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm42",
+    "match_number": 42,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 0,
+        "auto": 5,
+        "teleop_goal+foul": 0,
+        "truss+catch": 0
+      },
+      "red": {
+        "assist": 50,
+        "auto": 30,
+        "teleop_goal+foul": 41,
+        "truss+catch": 20
+      }
+    },
+    "set_number": 1,
+    "time": 1415549340,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 68,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2073",
+          "frc2073B",
+          "frc4498"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 209,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2813",
+          "frc3482",
+          "frc1678"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm43",
+    "match_number": 43,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 20,
+        "auto": 15,
+        "teleop_goal+foul": 13,
+        "truss+catch": 20
+      },
+      "red": {
+        "assist": 120,
+        "auto": 65,
+        "teleop_goal+foul": 4,
+        "truss+catch": 20
+      }
+    },
+    "set_number": 1,
+    "time": 1415549880,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 86,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc973",
+          "frc971B",
+          "frc973C"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 193,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc971C",
+          "frc2135B",
+          "frc254"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm44",
+    "match_number": 44,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 30,
+        "auto": 16,
+        "teleop_goal+foul": 30,
+        "truss+catch": 10
+      },
+      "red": {
+        "assist": 100,
+        "auto": 10,
+        "teleop_goal+foul": 43,
+        "truss+catch": 40
+      }
+    },
+    "set_number": 1,
+    "time": 1415550420,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 123,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4498B",
+          "frc3495",
+          "frc971"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 115,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1671B",
+          "frc973B",
+          "frc1671"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm45",
+    "match_number": 45,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 50,
+        "auto": 30,
+        "teleop_goal+foul": 13,
+        "truss+catch": 30
+      },
+      "red": {
+        "assist": 20,
+        "auto": 25,
+        "teleop_goal+foul": 30,
+        "truss+catch": 40
+      }
+    },
+    "set_number": 1,
+    "time": 1415550960,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 97,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3970",
+          "frc1662",
+          "frc2073B"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 78,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc852",
+          "frc2073",
+          "frc973C"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm46",
+    "match_number": 46,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 20,
+        "auto": 55,
+        "teleop_goal+foul": 2,
+        "truss+catch": 20
+      },
+      "red": {
+        "assist": 40,
+        "auto": 15,
+        "teleop_goal+foul": 3,
+        "truss+catch": 20
+      }
+    },
+    "set_number": 1,
+    "time": 1415551500,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 240,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4255",
+          "frc971C",
+          "frc4498B"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 149,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1678",
+          "frc973",
+          "frc5458"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm47",
+    "match_number": 47,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 30,
+        "auto": 30,
+        "teleop_goal+foul": 150,
+        "truss+catch": 30
+      },
+      "red": {
+        "assist": 70,
+        "auto": 56,
+        "teleop_goal+foul": 13,
+        "truss+catch": 10
+      }
+    },
+    "set_number": 1,
+    "time": 1415552040,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 125,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2135B",
+          "frc1671",
+          "frc1422"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 311,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc254",
+          "frc2813",
+          "frc2135"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm48",
+    "match_number": 48,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 50,
+        "auto": 15,
+        "teleop_goal+foul": 30,
+        "truss+catch": 30
+      },
+      "red": {
+        "assist": 150,
+        "auto": 50,
+        "teleop_goal+foul": 51,
+        "truss+catch": 60
+      }
+    },
+    "set_number": 1,
+    "time": 1415552580,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 75,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc973B",
+          "frc971B",
+          "frc4498"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 145,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3482",
+          "frc1323",
+          "frc1323B"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm49",
+    "match_number": 49,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 0,
+        "auto": 21,
+        "teleop_goal+foul": 54,
+        "truss+catch": 0
+      },
+      "red": {
+        "assist": 90,
+        "auto": 30,
+        "teleop_goal+foul": 5,
+        "truss+catch": 20
+      }
+    },
+    "set_number": 1,
+    "time": 1415553120,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 141,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1671",
+          "frc852",
+          "frc971C"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 22,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2073",
+          "frc973C",
+          "frc973"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm5",
+    "match_number": 5,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 50,
+        "auto": 50,
+        "teleop_goal+foul": 31,
+        "truss+catch": 10
+      },
+      "red": {
+        "assist": 0,
+        "auto": 10,
+        "teleop_goal+foul": 2,
+        "truss+catch": 10
+      }
+    },
+    "set_number": 1,
+    "time": 1415482560,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 166,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc971",
+          "frc2073B",
+          "frc852"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 193,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3495",
+          "frc1671B",
+          "frc971C"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm50",
+    "match_number": 50,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 60,
+        "auto": 75,
+        "teleop_goal+foul": 11,
+        "truss+catch": 20
+      },
+      "red": {
+        "assist": 100,
+        "auto": 50,
+        "teleop_goal+foul": 13,
+        "truss+catch": 30
+      }
+    },
+    "set_number": 1,
+    "time": 1415553660,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 164,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc973B",
+          "frc1323B",
+          "frc1678"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 107,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1671",
+          "frc3970",
+          "frc254"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm51",
+    "match_number": 51,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 80,
+        "auto": 40,
+        "teleop_goal+foul": 4,
+        "truss+catch": 40
+      },
+      "red": {
+        "assist": 20,
+        "auto": 35,
+        "teleop_goal+foul": 22,
+        "truss+catch": 30
+      }
+    },
+    "set_number": 1,
+    "time": 1415554200,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 138,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2813",
+          "frc4498B",
+          "frc2073"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 10,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3495",
+          "frc1422",
+          "frc5458"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm52",
+    "match_number": 52,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 50,
+        "auto": 35,
+        "teleop_goal+foul": 23,
+        "truss+catch": 30
+      },
+      "red": {
+        "assist": 0,
+        "auto": 10,
+        "teleop_goal+foul": 0,
+        "truss+catch": 0
+      }
+    },
+    "set_number": 1,
+    "time": 1415554740,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 178,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3482",
+          "frc1671B",
+          "frc1662"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 98,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1323",
+          "frc4498",
+          "frc973"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm53",
+    "match_number": 53,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 90,
+        "auto": 55,
+        "teleop_goal+foul": 13,
+        "truss+catch": 20
+      },
+      "red": {
+        "assist": 30,
+        "auto": 25,
+        "teleop_goal+foul": 3,
+        "truss+catch": 40
+      }
+    },
+    "set_number": 1,
+    "time": 1415555280,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 145,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc973C",
+          "frc2135B",
+          "frc2135"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 206,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc971B",
+          "frc971",
+          "frc4255"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm54",
+    "match_number": 54,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 60,
+        "auto": 35,
+        "teleop_goal+foul": 20,
+        "truss+catch": 30
+      },
+      "red": {
+        "assist": 90,
+        "auto": 61,
+        "teleop_goal+foul": 5,
+        "truss+catch": 50
+      }
+    },
+    "set_number": 1,
+    "time": 1415555820,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 81,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc973",
+          "frc2813",
+          "frc1671B"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 52,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc973B",
+          "frc2073",
+          "frc5458"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm55",
+    "match_number": 55,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 20,
+        "auto": 50,
+        "teleop_goal+foul": 11,
+        "truss+catch": 0
+      },
+      "red": {
+        "assist": 10,
+        "auto": 10,
+        "teleop_goal+foul": 22,
+        "truss+catch": 10
+      }
+    },
+    "set_number": 1,
+    "time": 1415556360,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 82,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1323B",
+          "frc254",
+          "frc973C"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 178,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2135",
+          "frc1323",
+          "frc971C"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm56",
+    "match_number": 56,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 40,
+        "auto": 10,
+        "teleop_goal+foul": 32,
+        "truss+catch": 0
+      },
+      "red": {
+        "assist": 90,
+        "auto": 45,
+        "teleop_goal+foul": 3,
+        "truss+catch": 40
+      }
+    },
+    "set_number": 1,
+    "time": 1415556900,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 108,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc971B",
+          "frc1422",
+          "frc852"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 231,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc971",
+          "frc1678",
+          "frc1671"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm57",
+    "match_number": 57,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 20,
+        "auto": 36,
+        "teleop_goal+foul": 52,
+        "truss+catch": 0
+      },
+      "red": {
+        "assist": 90,
+        "auto": 70,
+        "teleop_goal+foul": 41,
+        "truss+catch": 30
+      }
+    },
+    "set_number": 1,
+    "time": 1415557440,
+    "videos": [
+      {
+        "key": "AaiLkM_CqAk",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 67,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4498",
+          "frc3482",
+          "frc2135B"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 92,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3495",
+          "frc2073B",
+          "frc4255"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm58",
+    "match_number": 58,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 40,
+        "auto": 15,
+        "teleop_goal+foul": 2,
+        "truss+catch": 10
+      },
+      "red": {
+        "assist": 60,
+        "auto": 10,
+        "teleop_goal+foul": 2,
+        "truss+catch": 20
+      }
+    },
+    "set_number": 1,
+    "time": 1415557980,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 196,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3970",
+          "frc2135",
+          "frc852"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 70,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4498B",
+          "frc1662",
+          "frc1323B"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm59",
+    "match_number": 59,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 70,
+        "auto": 55,
+        "teleop_goal+foul": 71,
+        "truss+catch": 0
+      },
+      "red": {
+        "assist": 10,
+        "auto": 30,
+        "teleop_goal+foul": 20,
+        "truss+catch": 10
+      }
+    },
+    "set_number": 1,
+    "time": 1415558520,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 27,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4498B",
+          "frc4498",
+          "frc3482"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 302,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1662",
+          "frc254",
+          "frc971"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm6",
+    "match_number": 6,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 0,
+        "auto": 15,
+        "teleop_goal+foul": 2,
+        "truss+catch": 10
+      },
+      "red": {
+        "assist": 150,
+        "auto": 70,
+        "teleop_goal+foul": 32,
+        "truss+catch": 50
+      }
+    },
+    "set_number": 1,
+    "time": 1415483100,
+    "videos": [
+      {
+        "key": "ZvAnH3xJj80",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 231,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2135B",
+          "frc1678",
+          "frc1323"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 103,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc973B",
+          "frc2073",
+          "frc3495"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm7",
+    "match_number": 7,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 130,
+        "auto": 55,
+        "teleop_goal+foul": 6,
+        "truss+catch": 40
+      },
+      "red": {
+        "assist": 50,
+        "auto": 30,
+        "teleop_goal+foul": 3,
+        "truss+catch": 20
+      }
+    },
+    "set_number": 1,
+    "time": 1415483640,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 86,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1671B",
+          "frc1323B",
+          "frc2135"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 95,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2813",
+          "frc973C",
+          "frc1422"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm8",
+    "match_number": 8,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 10,
+        "auto": 55,
+        "teleop_goal+foul": 11,
+        "truss+catch": 10
+      },
+      "red": {
+        "assist": 30,
+        "auto": 35,
+        "teleop_goal+foul": 30,
+        "truss+catch": 0
+      }
+    },
+    "set_number": 1,
+    "time": 1415484180,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 106,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4255",
+          "frc1671",
+          "frc5458"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 67,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2073B",
+          "frc3970",
+          "frc971B"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2014mttd",
+    "key": "2014mttd_qm9",
+    "match_number": 9,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 40,
+        "auto": 26,
+        "teleop_goal+foul": 40,
+        "truss+catch": 0
+      },
+      "red": {
+        "assist": 30,
+        "auto": 25,
+        "teleop_goal+foul": 2,
+        "truss+catch": 10
+      }
+    },
+    "set_number": 1,
+    "time": 1415484720,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 32,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3495",
+          "frc973C",
+          "frc1671"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 301,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc971C",
+          "frc2073B",
+          "frc1678"
+        ]
+      }
+    },
+    "comp_level": "sf",
+    "event_key": "2014mttd",
+    "key": "2014mttd_sf1m1",
+    "match_number": 1,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 0,
+        "auto": 10,
+        "teleop_goal+foul": 12,
+        "truss+catch": 10
+      },
+      "red": {
+        "assist": 120,
+        "auto": 50,
+        "teleop_goal+foul": 91,
+        "truss+catch": 40
+      }
+    },
+    "set_number": 1,
+    "time": 1415571996,
+    "videos": [
+      {
+        "key": "MNZqeW4B0Bw",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 155,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc973C",
+          "frc3495",
+          "frc1671"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 331,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2073B",
+          "frc971C",
+          "frc1678"
+        ]
+      }
+    },
+    "comp_level": "sf",
+    "event_key": "2014mttd",
+    "key": "2014mttd_sf1m2",
+    "match_number": 2,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 30,
+        "auto": 25,
+        "teleop_goal+foul": 50,
+        "truss+catch": 50
+      },
+      "red": {
+        "assist": 160,
+        "auto": 60,
+        "teleop_goal+foul": 51,
+        "truss+catch": 60
+      }
+    },
+    "set_number": 1,
+    "time": 1415573425,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 171,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1671B",
+          "frc254",
+          "frc973"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 201,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2813",
+          "frc4498B",
+          "frc971"
+        ]
+      }
+    },
+    "comp_level": "sf",
+    "event_key": "2014mttd",
+    "key": "2014mttd_sf2m1",
+    "match_number": 1,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 40,
+        "auto": 50,
+        "teleop_goal+foul": 41,
+        "truss+catch": 40
+      },
+      "red": {
+        "assist": 90,
+        "auto": 50,
+        "teleop_goal+foul": 31,
+        "truss+catch": 30
+      }
+    },
+    "set_number": 2,
+    "time": 1415573087,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 271,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc254",
+          "frc973",
+          "frc1671B"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 240,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2813",
+          "frc971",
+          "frc4498B"
+        ]
+      }
+    },
+    "comp_level": "sf",
+    "event_key": "2014mttd",
+    "key": "2014mttd_sf2m2",
+    "match_number": 2,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 110,
+        "auto": 50,
+        "teleop_goal+foul": 51,
+        "truss+catch": 60
+      },
+      "red": {
+        "assist": 100,
+        "auto": 50,
+        "teleop_goal+foul": 50,
+        "truss+catch": 40
+      }
+    },
+    "set_number": 2,
+    "time": 1415574429,
+    "videos": [
+      {
+        "key": "xhlRq2iI8do",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 220,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1671B",
+          "frc254",
+          "frc973"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 211,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2813",
+          "frc971",
+          "frc4498B"
+        ]
+      }
+    },
+    "comp_level": "sf",
+    "event_key": "2014mttd",
+    "key": "2014mttd_sf2m3",
+    "match_number": 3,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "assist": 90,
+        "auto": 70,
+        "teleop_goal+foul": 30,
+        "truss+catch": 30
+      },
+      "red": {
+        "assist": 60,
+        "auto": 70,
+        "teleop_goal+foul": 61,
+        "truss+catch": 20
+      }
+    },
+    "set_number": 2,
+    "time": 1415575753,
+    "videos": [],
+    "winning_alliance": "blue"
+  }
+]

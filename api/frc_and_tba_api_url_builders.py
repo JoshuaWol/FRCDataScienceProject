@@ -12,8 +12,8 @@ def build_tba_events_url(year:int|str) -> str:
     return BASE_THE_BLUE_ALLIANCE_URL + "events/" + str(year)
 
 
-def build_tba_teams_from_district_url(year:int|str, district:str) -> str:
-    return BASE_THE_BLUE_ALLIANCE_URL + "/district/" + district + "/teams"
+def build_tba_teams_from_district_key_url(district_key:str) -> str:
+    return BASE_THE_BLUE_ALLIANCE_URL + "/district/" + district_key + "/teams"
 
 
 def build_tba_matches_from_event_key_url(event_key:str) -> str:

@@ -1,0 +1,1738 @@
+[
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 253,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1671",
+          "frc118",
+          "frc1678"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 191,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc987",
+          "frc2826",
+          "frc2512"
+        ]
+      }
+    },
+    "comp_level": "f",
+    "event_key": "2015cmp",
+    "key": "2015cmp_f1m1",
+    "match_number": 1,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "adjust_points": 0,
+        "auto_points": 0,
+        "container_count_level1": 0,
+        "container_count_level2": 0,
+        "container_count_level3": 0,
+        "container_count_level4": 0,
+        "container_count_level5": 2,
+        "container_count_level6": 4,
+        "container_points": 136,
+        "container_set": false,
+        "foul_count": 0,
+        "foul_points": 0,
+        "litter_count_container": 5,
+        "litter_count_landfill": 1,
+        "litter_count_unprocessed": 2,
+        "litter_points": 39,
+        "robot_set": false,
+        "teleop_points": 253,
+        "total_points": 253,
+        "tote_count_far": 12,
+        "tote_count_near": 27,
+        "tote_points": 78,
+        "tote_set": false,
+        "tote_stack": false
+      },
+      "coopertition": "Unknown",
+      "coopertition_points": 0,
+      "red": {
+        "adjust_points": 0,
+        "auto_points": 6,
+        "container_count_level1": 0,
+        "container_count_level2": 0,
+        "container_count_level3": 0,
+        "container_count_level4": 0,
+        "container_count_level5": 1,
+        "container_count_level6": 3,
+        "container_points": 92,
+        "container_set": false,
+        "foul_count": 0,
+        "foul_points": 0,
+        "litter_count_container": 2,
+        "litter_count_landfill": 1,
+        "litter_count_unprocessed": 4,
+        "litter_points": 29,
+        "robot_set": false,
+        "teleop_points": 185,
+        "total_points": 191,
+        "tote_count_far": 17,
+        "tote_count_near": 15,
+        "tote_points": 64,
+        "tote_set": true,
+        "tote_stack": false
+      }
+    },
+    "set_number": 1,
+    "time": 1429995240,
+    "videos": [
+      {
+        "key": "aZbyBEbIoNs",
+        "type": "youtube"
+      },
+      {
+        "key": "4DdZXTJ58w4",
+        "type": "youtube"
+      },
+      {
+        "key": "jjs-jWnRw18",
+        "type": "youtube"
+      },
+      {
+        "key": "G9NIAE8M4Yo",
+        "type": "youtube"
+      },
+      {
+        "key": "ZT4vN1ztxks",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 246,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1671",
+          "frc118",
+          "frc1678"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 203,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc987",
+          "frc2826",
+          "frc2512"
+        ]
+      }
+    },
+    "comp_level": "f",
+    "event_key": "2015cmp",
+    "key": "2015cmp_f1m2",
+    "match_number": 2,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "adjust_points": 0,
+        "auto_points": 0,
+        "container_count_level1": 0,
+        "container_count_level2": 0,
+        "container_count_level3": 0,
+        "container_count_level4": 0,
+        "container_count_level5": 2,
+        "container_count_level6": 3,
+        "container_points": 112,
+        "container_set": false,
+        "foul_count": 0,
+        "foul_points": 0,
+        "litter_count_container": 4,
+        "litter_count_landfill": 0,
+        "litter_count_unprocessed": 5,
+        "litter_points": 44,
+        "robot_set": false,
+        "teleop_points": 246,
+        "total_points": 246,
+        "tote_count_far": 17,
+        "tote_count_near": 28,
+        "tote_points": 90,
+        "tote_set": false,
+        "tote_stack": false
+      },
+      "coopertition": "Unknown",
+      "coopertition_points": 0,
+      "red": {
+        "adjust_points": 0,
+        "auto_points": 0,
+        "container_count_level1": 0,
+        "container_count_level2": 0,
+        "container_count_level3": 0,
+        "container_count_level4": 0,
+        "container_count_level5": 0,
+        "container_count_level6": 4,
+        "container_points": 96,
+        "container_set": false,
+        "foul_count": 0,
+        "foul_points": 0,
+        "litter_count_container": 3,
+        "litter_count_landfill": 1,
+        "litter_count_unprocessed": 2,
+        "litter_points": 27,
+        "robot_set": false,
+        "teleop_points": 203,
+        "total_points": 203,
+        "tote_count_far": 28,
+        "tote_count_near": 12,
+        "tote_points": 80,
+        "tote_set": false,
+        "tote_stack": false
+      }
+    },
+    "set_number": 1,
+    "time": 1429995600,
+    "videos": [
+      {
+        "key": "ahhR0JT0tZ8",
+        "type": "youtube"
+      },
+      {
+        "key": "Xem97fUWh2I",
+        "type": "youtube"
+      },
+      {
+        "key": "fQmOzD3xheU",
+        "type": "youtube"
+      },
+      {
+        "key": "bwuYfa8TS60",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 232,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc987",
+          "frc2826",
+          "frc2512"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 252,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1671",
+          "frc118",
+          "frc1678"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2015cmp",
+    "key": "2015cmp_qf1m1",
+    "match_number": 1,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "adjust_points": 0,
+        "auto_points": 6,
+        "container_count_level1": 0,
+        "container_count_level2": 0,
+        "container_count_level3": 0,
+        "container_count_level4": 1,
+        "container_count_level5": 0,
+        "container_count_level6": 4,
+        "container_points": 112,
+        "container_set": false,
+        "foul_count": 0,
+        "foul_points": 0,
+        "litter_count_container": 2,
+        "litter_count_landfill": 2,
+        "litter_count_unprocessed": 5,
+        "litter_points": 34,
+        "robot_set": false,
+        "teleop_points": 226,
+        "total_points": 232,
+        "tote_count_far": 10,
+        "tote_count_near": 30,
+        "tote_points": 80,
+        "tote_set": true,
+        "tote_stack": false
+      },
+      "coopertition": "Unknown",
+      "coopertition_points": 0,
+      "red": {
+        "adjust_points": 0,
+        "auto_points": 20,
+        "container_count_level1": 0,
+        "container_count_level2": 0,
+        "container_count_level3": 0,
+        "container_count_level4": 0,
+        "container_count_level5": 2,
+        "container_count_level6": 3,
+        "container_points": 112,
+        "container_set": false,
+        "foul_count": 0,
+        "foul_points": 0,
+        "litter_count_container": 4,
+        "litter_count_landfill": 0,
+        "litter_count_unprocessed": 4,
+        "litter_points": 40,
+        "robot_set": false,
+        "teleop_points": 232,
+        "total_points": 252,
+        "tote_count_far": 28,
+        "tote_count_near": 12,
+        "tote_points": 80,
+        "tote_set": false,
+        "tote_stack": true
+      }
+    },
+    "set_number": 1,
+    "time": 1429990200,
+    "videos": [
+      {
+        "key": "g2yx2iBOKSs",
+        "type": "youtube"
+      },
+      {
+        "key": "7KPTorMjs7s",
+        "type": "youtube"
+      },
+      {
+        "key": "amrnN2iWhkg",
+        "type": "youtube"
+      },
+      {
+        "key": "Fo41XMc1fBE",
+        "type": "youtube"
+      },
+      {
+        "key": "mA09mSA4bOg",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": ""
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 165,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3339",
+          "frc1711",
+          "frc1325"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 267,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc330",
+          "frc2056",
+          "frc3944"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2015cmp",
+    "key": "2015cmp_qf1m2",
+    "match_number": 2,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "adjust_points": 0,
+        "auto_points": 0,
+        "container_count_level1": 0,
+        "container_count_level2": 0,
+        "container_count_level3": 0,
+        "container_count_level4": 1,
+        "container_count_level5": 0,
+        "container_count_level6": 3,
+        "container_points": 88,
+        "container_set": false,
+        "foul_count": 0,
+        "foul_points": 0,
+        "litter_count_container": 3,
+        "litter_count_landfill": 1,
+        "litter_count_unprocessed": 1,
+        "litter_points": 23,
+        "robot_set": false,
+        "teleop_points": 165,
+        "total_points": 165,
+        "tote_count_far": 10,
+        "tote_count_near": 17,
+        "tote_points": 54,
+        "tote_set": false,
+        "tote_stack": false
+      },
+      "coopertition": "Unknown",
+      "coopertition_points": 0,
+      "red": {
+        "adjust_points": 0,
+        "auto_points": 0,
+        "container_count_level1": 0,
+        "container_count_level2": 0,
+        "container_count_level3": 0,
+        "container_count_level4": 0,
+        "container_count_level5": 0,
+        "container_count_level6": 6,
+        "container_points": 144,
+        "container_set": false,
+        "foul_count": 0,
+        "foul_points": 0,
+        "litter_count_container": 5,
+        "litter_count_landfill": 1,
+        "litter_count_unprocessed": 1,
+        "litter_points": 35,
+        "robot_set": false,
+        "teleop_points": 267,
+        "total_points": 267,
+        "tote_count_far": 24,
+        "tote_count_near": 20,
+        "tote_points": 88,
+        "tote_set": false,
+        "tote_stack": false
+      }
+    },
+    "set_number": 1,
+    "time": 1429990560,
+    "videos": [
+      {
+        "key": "G_IPoLlexC0",
+        "type": "youtube"
+      },
+      {
+        "key": "bP04phCvbME",
+        "type": "youtube"
+      },
+      {
+        "key": "6cbCVbSKJkQ",
+        "type": "youtube"
+      },
+      {
+        "key": "GQqlsDuao24",
+        "type": "youtube"
+      },
+      {
+        "key": "y5NbmybqRLg",
+        "type": "youtube"
+      },
+      {
+        "key": "bKGxTVsvbgc",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": ""
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 164,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc144",
+          "frc368",
+          "frc359"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 258,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1114",
+          "frc148",
+          "frc1923"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2015cmp",
+    "key": "2015cmp_qf1m3",
+    "match_number": 3,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "adjust_points": 0,
+        "auto_points": 0,
+        "container_count_level1": 0,
+        "container_count_level2": 0,
+        "container_count_level3": 0,
+        "container_count_level4": 0,
+        "container_count_level5": 0,
+        "container_count_level6": 3,
+        "container_points": 72,
+        "container_set": false,
+        "foul_count": 0,
+        "foul_points": 0,
+        "litter_count_container": 2,
+        "litter_count_landfill": 0,
+        "litter_count_unprocessed": 3,
+        "litter_points": 24,
+        "robot_set": false,
+        "teleop_points": 164,
+        "total_points": 164,
+        "tote_count_far": 11,
+        "tote_count_near": 23,
+        "tote_points": 68,
+        "tote_set": false,
+        "tote_stack": false
+      },
+      "coopertition": "Unknown",
+      "coopertition_points": 0,
+      "red": {
+        "adjust_points": 0,
+        "auto_points": 20,
+        "container_count_level1": 0,
+        "container_count_level2": 0,
+        "container_count_level3": 1,
+        "container_count_level4": 0,
+        "container_count_level5": 0,
+        "container_count_level6": 5,
+        "container_points": 132,
+        "container_set": false,
+        "foul_count": 0,
+        "foul_points": 0,
+        "litter_count_container": 4,
+        "litter_count_landfill": 0,
+        "litter_count_unprocessed": 2,
+        "litter_points": 32,
+        "robot_set": false,
+        "teleop_points": 238,
+        "total_points": 258,
+        "tote_count_far": 22,
+        "tote_count_near": 15,
+        "tote_points": 74,
+        "tote_set": false,
+        "tote_stack": true
+      }
+    },
+    "set_number": 1,
+    "time": 1429990920,
+    "videos": [
+      {
+        "key": "Gg7v4czGWug",
+        "type": "youtube"
+      },
+      {
+        "key": "wuD3QMr5jxE",
+        "type": "youtube"
+      },
+      {
+        "key": "tSQO0Pw_q-g",
+        "type": "youtube"
+      },
+      {
+        "key": "bZIlUM_E2TQ",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": ""
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 156,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3476",
+          "frc2526",
+          "frc3132"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 265,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1023",
+          "frc3996",
+          "frc2338"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2015cmp",
+    "key": "2015cmp_qf1m4",
+    "match_number": 4,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "adjust_points": 0,
+        "auto_points": 0,
+        "container_count_level1": 0,
+        "container_count_level2": 0,
+        "container_count_level3": 1,
+        "container_count_level4": 1,
+        "container_count_level5": 0,
+        "container_count_level6": 2,
+        "container_points": 76,
+        "container_set": false,
+        "foul_count": 0,
+        "foul_points": 0,
+        "litter_count_container": 3,
+        "litter_count_landfill": 0,
+        "litter_count_unprocessed": 6,
+        "litter_points": 42,
+        "robot_set": false,
+        "teleop_points": 156,
+        "total_points": 156,
+        "tote_count_far": 4,
+        "tote_count_near": 15,
+        "tote_points": 38,
+        "tote_set": false,
+        "tote_stack": false
+      },
+      "coopertition": "Unknown",
+      "coopertition_points": 0,
+      "red": {
+        "adjust_points": 0,
+        "auto_points": 20,
+        "container_count_level1": 0,
+        "container_count_level2": 0,
+        "container_count_level3": 0,
+        "container_count_level4": 0,
+        "container_count_level5": 0,
+        "container_count_level6": 5,
+        "container_points": 120,
+        "container_set": false,
+        "foul_count": 0,
+        "foul_points": 0,
+        "litter_count_container": 4,
+        "litter_count_landfill": 1,
+        "litter_count_unprocessed": 4,
+        "litter_points": 41,
+        "robot_set": false,
+        "teleop_points": 245,
+        "total_points": 265,
+        "tote_count_far": 18,
+        "tote_count_near": 24,
+        "tote_points": 84,
+        "tote_set": false,
+        "tote_stack": true
+      }
+    },
+    "set_number": 1,
+    "time": 1429991280,
+    "videos": [
+      {
+        "key": "CgSbqEH-jmM",
+        "type": "youtube"
+      },
+      {
+        "key": "aErZxFLMNdU",
+        "type": "youtube"
+      },
+      {
+        "key": "px_5102Oglg",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": ""
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 163,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3339",
+          "frc1711",
+          "frc1325"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 266,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1671",
+          "frc118",
+          "frc1678"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2015cmp",
+    "key": "2015cmp_qf1m5",
+    "match_number": 5,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "adjust_points": 0,
+        "auto_points": 0,
+        "container_count_level1": 0,
+        "container_count_level2": 0,
+        "container_count_level3": 1,
+        "container_count_level4": 0,
+        "container_count_level5": 0,
+        "container_count_level6": 3,
+        "container_points": 84,
+        "container_set": false,
+        "foul_count": 0,
+        "foul_points": 0,
+        "litter_count_container": 3,
+        "litter_count_landfill": 1,
+        "litter_count_unprocessed": 2,
+        "litter_points": 27,
+        "robot_set": false,
+        "teleop_points": 163,
+        "total_points": 163,
+        "tote_count_far": 14,
+        "tote_count_near": 12,
+        "tote_points": 52,
+        "tote_set": false,
+        "tote_stack": false
+      },
+      "coopertition": "Unknown",
+      "coopertition_points": 0,
+      "red": {
+        "adjust_points": 0,
+        "auto_points": 20,
+        "container_count_level1": 0,
+        "container_count_level2": 0,
+        "container_count_level3": 0,
+        "container_count_level4": 0,
+        "container_count_level5": 2,
+        "container_count_level6": 3,
+        "container_points": 112,
+        "container_set": false,
+        "foul_count": 0,
+        "foul_points": 0,
+        "litter_count_container": 3,
+        "litter_count_landfill": 0,
+        "litter_count_unprocessed": 6,
+        "litter_points": 42,
+        "robot_set": false,
+        "teleop_points": 246,
+        "total_points": 266,
+        "tote_count_far": 28,
+        "tote_count_near": 18,
+        "tote_points": 92,
+        "tote_set": false,
+        "tote_stack": true
+      }
+    },
+    "set_number": 1,
+    "time": 1429991640,
+    "videos": [
+      {
+        "key": "CDc14ypiVlc",
+        "type": "youtube"
+      },
+      {
+        "key": "K9Bp8x4hezM",
+        "type": "youtube"
+      },
+      {
+        "key": "BnKRPZIWxtU",
+        "type": "youtube"
+      },
+      {
+        "key": "0DtGe1nMhvk",
+        "type": "youtube"
+      },
+      {
+        "key": "8I49UMdlFr4",
+        "type": "youtube"
+      },
+      {
+        "key": "NpyH-oU2cSY",
+        "type": "youtube"
+      },
+      {
+        "key": "HewKsD_Ddak",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": ""
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 256,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc987",
+          "frc2826",
+          "frc2512"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 180,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc330",
+          "frc2056",
+          "frc3944"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2015cmp",
+    "key": "2015cmp_qf1m6",
+    "match_number": 6,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "adjust_points": 0,
+        "auto_points": 28,
+        "container_count_level1": 0,
+        "container_count_level2": 0,
+        "container_count_level3": 0,
+        "container_count_level4": 0,
+        "container_count_level5": 0,
+        "container_count_level6": 5,
+        "container_points": 120,
+        "container_set": true,
+        "foul_count": 0,
+        "foul_points": 0,
+        "litter_count_container": 4,
+        "litter_count_landfill": 0,
+        "litter_count_unprocessed": 3,
+        "litter_points": 36,
+        "robot_set": false,
+        "teleop_points": 228,
+        "total_points": 256,
+        "tote_count_far": 12,
+        "tote_count_near": 24,
+        "tote_points": 72,
+        "tote_set": false,
+        "tote_stack": true
+      },
+      "coopertition": "Unknown",
+      "coopertition_points": 0,
+      "red": {
+        "adjust_points": 0,
+        "auto_points": 0,
+        "container_count_level1": 0,
+        "container_count_level2": 0,
+        "container_count_level3": 0,
+        "container_count_level4": 1,
+        "container_count_level5": 0,
+        "container_count_level6": 3,
+        "container_points": 88,
+        "container_set": false,
+        "foul_count": 0,
+        "foul_points": 0,
+        "litter_count_container": 4,
+        "litter_count_landfill": 0,
+        "litter_count_unprocessed": 2,
+        "litter_points": 32,
+        "robot_set": false,
+        "teleop_points": 180,
+        "total_points": 180,
+        "tote_count_far": 20,
+        "tote_count_near": 10,
+        "tote_points": 60,
+        "tote_set": false,
+        "tote_stack": false
+      }
+    },
+    "set_number": 1,
+    "time": 1429992000,
+    "videos": [
+      {
+        "key": "uiLAggn_Cas",
+        "type": "youtube"
+      },
+      {
+        "key": "S8PWYWgKdNw",
+        "type": "youtube"
+      },
+      {
+        "key": "zuTRGoLv0NE",
+        "type": "youtube"
+      },
+      {
+        "key": "Pl4kyvwNcbk",
+        "type": "youtube"
+      },
+      {
+        "key": "KKEM6J5v80k",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": ""
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 210,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3476",
+          "frc2526",
+          "frc3132"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 240,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1114",
+          "frc148",
+          "frc1923"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2015cmp",
+    "key": "2015cmp_qf1m7",
+    "match_number": 7,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "adjust_points": 0,
+        "auto_points": 20,
+        "container_count_level1": 0,
+        "container_count_level2": 0,
+        "container_count_level3": 0,
+        "container_count_level4": 0,
+        "container_count_level5": 0,
+        "container_count_level6": 3,
+        "container_points": 72,
+        "container_set": false,
+        "foul_count": 0,
+        "foul_points": 0,
+        "litter_count_container": 3,
+        "litter_count_landfill": 0,
+        "litter_count_unprocessed": 4,
+        "litter_points": 34,
+        "robot_set": false,
+        "teleop_points": 190,
+        "total_points": 210,
+        "tote_count_far": 20,
+        "tote_count_near": 22,
+        "tote_points": 84,
+        "tote_set": false,
+        "tote_stack": true
+      },
+      "coopertition": "Unknown",
+      "coopertition_points": 0,
+      "red": {
+        "adjust_points": 0,
+        "auto_points": 0,
+        "container_count_level1": 0,
+        "container_count_level2": 0,
+        "container_count_level3": 0,
+        "container_count_level4": 0,
+        "container_count_level5": 0,
+        "container_count_level6": 5,
+        "container_points": 120,
+        "container_set": false,
+        "foul_count": 0,
+        "foul_points": 0,
+        "litter_count_container": 5,
+        "litter_count_landfill": 2,
+        "litter_count_unprocessed": 4,
+        "litter_points": 48,
+        "robot_set": false,
+        "teleop_points": 240,
+        "total_points": 240,
+        "tote_count_far": 24,
+        "tote_count_near": 12,
+        "tote_points": 72,
+        "tote_set": false,
+        "tote_stack": false
+      }
+    },
+    "set_number": 1,
+    "time": 1429992360,
+    "videos": [
+      {
+        "key": "0ULrBGXdqmc",
+        "type": "youtube"
+      },
+      {
+        "key": "xiU_2u7XHw4",
+        "type": "youtube"
+      },
+      {
+        "key": "S8PWYWgKdNw",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": ""
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 220,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc144",
+          "frc368",
+          "frc359"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 219,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1023",
+          "frc3996",
+          "frc2338"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2015cmp",
+    "key": "2015cmp_qf1m8",
+    "match_number": 8,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "adjust_points": 0,
+        "auto_points": 0,
+        "container_count_level1": 0,
+        "container_count_level2": 0,
+        "container_count_level3": 0,
+        "container_count_level4": 0,
+        "container_count_level5": 2,
+        "container_count_level6": 3,
+        "container_points": 112,
+        "container_set": false,
+        "foul_count": 0,
+        "foul_points": 0,
+        "litter_count_container": 2,
+        "litter_count_landfill": 0,
+        "litter_count_unprocessed": 4,
+        "litter_points": 28,
+        "robot_set": false,
+        "teleop_points": 220,
+        "total_points": 220,
+        "tote_count_far": 19,
+        "tote_count_near": 21,
+        "tote_points": 80,
+        "tote_set": false,
+        "tote_stack": false
+      },
+      "coopertition": "Unknown",
+      "coopertition_points": 0,
+      "red": {
+        "adjust_points": 0,
+        "auto_points": 20,
+        "container_count_level1": 0,
+        "container_count_level2": 0,
+        "container_count_level3": 0,
+        "container_count_level4": 0,
+        "container_count_level5": 1,
+        "container_count_level6": 3,
+        "container_points": 92,
+        "container_set": false,
+        "foul_count": 0,
+        "foul_points": 0,
+        "litter_count_container": 3,
+        "litter_count_landfill": 1,
+        "litter_count_unprocessed": 5,
+        "litter_points": 39,
+        "robot_set": false,
+        "teleop_points": 199,
+        "total_points": 219,
+        "tote_count_far": 11,
+        "tote_count_near": 23,
+        "tote_points": 68,
+        "tote_set": false,
+        "tote_stack": true
+      }
+    },
+    "set_number": 1,
+    "time": 1429992720,
+    "videos": [
+      {
+        "key": "T3gclUboHkY",
+        "type": "youtube"
+      },
+      {
+        "key": "XOe3LxF0U-4",
+        "type": "youtube"
+      },
+      {
+        "key": "VyhVLTj6ux8",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": ""
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 210,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1023",
+          "frc3996",
+          "frc2338"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 272,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1114",
+          "frc148",
+          "frc1923"
+        ]
+      }
+    },
+    "comp_level": "sf",
+    "event_key": "2015cmp",
+    "key": "2015cmp_sf1m1",
+    "match_number": 1,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "adjust_points": 0,
+        "auto_points": 20,
+        "container_count_level1": 0,
+        "container_count_level2": 0,
+        "container_count_level3": 0,
+        "container_count_level4": 0,
+        "container_count_level5": 0,
+        "container_count_level6": 3,
+        "container_points": 72,
+        "container_set": false,
+        "foul_count": 0,
+        "foul_points": 0,
+        "litter_count_container": 3,
+        "litter_count_landfill": 4,
+        "litter_count_unprocessed": 4,
+        "litter_points": 38,
+        "robot_set": false,
+        "teleop_points": 190,
+        "total_points": 210,
+        "tote_count_far": 24,
+        "tote_count_near": 16,
+        "tote_points": 80,
+        "tote_set": false,
+        "tote_stack": true
+      },
+      "coopertition": "Unknown",
+      "coopertition_points": 0,
+      "red": {
+        "adjust_points": 0,
+        "auto_points": 20,
+        "container_count_level1": 0,
+        "container_count_level2": 0,
+        "container_count_level3": 1,
+        "container_count_level4": 0,
+        "container_count_level5": 0,
+        "container_count_level6": 5,
+        "container_points": 132,
+        "container_set": false,
+        "foul_count": 0,
+        "foul_points": 0,
+        "litter_count_container": 5,
+        "litter_count_landfill": 0,
+        "litter_count_unprocessed": 3,
+        "litter_points": 42,
+        "robot_set": false,
+        "teleop_points": 252,
+        "total_points": 272,
+        "tote_count_far": 18,
+        "tote_count_near": 21,
+        "tote_points": 78,
+        "tote_set": false,
+        "tote_stack": true
+      }
+    },
+    "set_number": 1,
+    "time": 1429993080,
+    "videos": [
+      {
+        "key": "3juoluDSV1w",
+        "type": "youtube"
+      },
+      {
+        "key": "QPuDNrT-UkA",
+        "type": "youtube"
+      },
+      {
+        "key": "w6F0yLe_56s",
+        "type": "youtube"
+      },
+      {
+        "key": "74VcwnqzamI",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": ""
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 256,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc987",
+          "frc2826",
+          "frc2512"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 192,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1671",
+          "frc118",
+          "frc1678"
+        ]
+      }
+    },
+    "comp_level": "sf",
+    "event_key": "2015cmp",
+    "key": "2015cmp_sf1m2",
+    "match_number": 2,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "adjust_points": 0,
+        "auto_points": 28,
+        "container_count_level1": 0,
+        "container_count_level2": 0,
+        "container_count_level3": 0,
+        "container_count_level4": 0,
+        "container_count_level5": 1,
+        "container_count_level6": 3,
+        "container_points": 92,
+        "container_set": true,
+        "foul_count": 0,
+        "foul_points": 0,
+        "litter_count_container": 4,
+        "litter_count_landfill": 0,
+        "litter_count_unprocessed": 6,
+        "litter_points": 48,
+        "robot_set": false,
+        "teleop_points": 228,
+        "total_points": 256,
+        "tote_count_far": 16,
+        "tote_count_near": 28,
+        "tote_points": 88,
+        "tote_set": false,
+        "tote_stack": true
+      },
+      "coopertition": "Unknown",
+      "coopertition_points": 0,
+      "red": {
+        "adjust_points": 0,
+        "auto_points": 0,
+        "container_count_level1": 0,
+        "container_count_level2": 0,
+        "container_count_level3": 1,
+        "container_count_level4": 0,
+        "container_count_level5": 2,
+        "container_count_level6": 2,
+        "container_points": 100,
+        "container_set": false,
+        "foul_count": 0,
+        "foul_points": 0,
+        "litter_count_container": 3,
+        "litter_count_landfill": 0,
+        "litter_count_unprocessed": 3,
+        "litter_points": 30,
+        "robot_set": false,
+        "teleop_points": 192,
+        "total_points": 192,
+        "tote_count_far": 16,
+        "tote_count_near": 15,
+        "tote_points": 62,
+        "tote_set": false,
+        "tote_stack": false
+      }
+    },
+    "set_number": 1,
+    "time": 1429993440,
+    "videos": [
+      {
+        "key": "lM8_F-I0ASU",
+        "type": "youtube"
+      },
+      {
+        "key": "8XvYLZmIlQM",
+        "type": "youtube"
+      },
+      {
+        "key": "uwwh7JmSW8Q",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": ""
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 271,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc987",
+          "frc2826",
+          "frc2512"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 190,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1114",
+          "frc148",
+          "frc1923"
+        ]
+      }
+    },
+    "comp_level": "sf",
+    "event_key": "2015cmp",
+    "key": "2015cmp_sf1m3",
+    "match_number": 3,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "adjust_points": 0,
+        "auto_points": 28,
+        "container_count_level1": 0,
+        "container_count_level2": 0,
+        "container_count_level3": 0,
+        "container_count_level4": 0,
+        "container_count_level5": 0,
+        "container_count_level6": 5,
+        "container_points": 120,
+        "container_set": true,
+        "foul_count": 0,
+        "foul_points": 0,
+        "litter_count_container": 4,
+        "litter_count_landfill": 3,
+        "litter_count_unprocessed": 3,
+        "litter_points": 39,
+        "robot_set": false,
+        "teleop_points": 243,
+        "total_points": 271,
+        "tote_count_far": 15,
+        "tote_count_near": 27,
+        "tote_points": 84,
+        "tote_set": false,
+        "tote_stack": true
+      },
+      "coopertition": "Unknown",
+      "coopertition_points": 0,
+      "red": {
+        "adjust_points": 0,
+        "auto_points": 20,
+        "container_count_level1": 0,
+        "container_count_level2": 0,
+        "container_count_level3": 0,
+        "container_count_level4": 0,
+        "container_count_level5": 0,
+        "container_count_level6": 3,
+        "container_points": 72,
+        "container_set": false,
+        "foul_count": 0,
+        "foul_points": 0,
+        "litter_count_container": 2,
+        "litter_count_landfill": 0,
+        "litter_count_unprocessed": 2,
+        "litter_points": 20,
+        "robot_set": false,
+        "teleop_points": 170,
+        "total_points": 190,
+        "tote_count_far": 18,
+        "tote_count_near": 21,
+        "tote_points": 78,
+        "tote_set": false,
+        "tote_stack": true
+      }
+    },
+    "set_number": 1,
+    "time": 1429993800,
+    "videos": [
+      {
+        "key": "GmuFyzOGDec",
+        "type": "youtube"
+      },
+      {
+        "key": "KShJK35vRko",
+        "type": "youtube"
+      },
+      {
+        "key": "0OE_ThmpYBs",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": ""
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 237,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1023",
+          "frc1089",
+          "frc2338"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 245,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1671",
+          "frc118",
+          "frc1678"
+        ]
+      }
+    },
+    "comp_level": "sf",
+    "event_key": "2015cmp",
+    "key": "2015cmp_sf1m4",
+    "match_number": 4,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "adjust_points": 0,
+        "auto_points": 20,
+        "container_count_level1": 0,
+        "container_count_level2": 0,
+        "container_count_level3": 0,
+        "container_count_level4": 0,
+        "container_count_level5": 0,
+        "container_count_level6": 4,
+        "container_points": 96,
+        "container_set": false,
+        "foul_count": 0,
+        "foul_points": 0,
+        "litter_count_container": 3,
+        "litter_count_landfill": 1,
+        "litter_count_unprocessed": 6,
+        "litter_points": 43,
+        "robot_set": false,
+        "teleop_points": 217,
+        "total_points": 237,
+        "tote_count_far": 25,
+        "tote_count_near": 14,
+        "tote_points": 78,
+        "tote_set": false,
+        "tote_stack": true
+      },
+      "coopertition": "Unknown",
+      "coopertition_points": 0,
+      "red": {
+        "adjust_points": 0,
+        "auto_points": 0,
+        "container_count_level1": 0,
+        "container_count_level2": 0,
+        "container_count_level3": 0,
+        "container_count_level4": 0,
+        "container_count_level5": 3,
+        "container_count_level6": 3,
+        "container_points": 132,
+        "container_set": false,
+        "foul_count": 0,
+        "foul_points": 0,
+        "litter_count_container": 3,
+        "litter_count_landfill": 1,
+        "litter_count_unprocessed": 1,
+        "litter_points": 23,
+        "robot_set": false,
+        "teleop_points": 245,
+        "total_points": 245,
+        "tote_count_far": 27,
+        "tote_count_near": 18,
+        "tote_points": 90,
+        "tote_set": false,
+        "tote_stack": false
+      }
+    },
+    "set_number": 1,
+    "time": 1429994160,
+    "videos": [
+      {
+        "key": "-RLX3wAjK5E",
+        "type": "youtube"
+      },
+      {
+        "key": "1hR8IHYtlk8",
+        "type": "youtube"
+      },
+      {
+        "key": "BWswFtpvgAs",
+        "type": "youtube"
+      },
+      {
+        "key": "MIPx7YMgWWA",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": ""
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 215,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1023",
+          "frc3996",
+          "frc2338"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 283,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc987",
+          "frc2826",
+          "frc2512"
+        ]
+      }
+    },
+    "comp_level": "sf",
+    "event_key": "2015cmp",
+    "key": "2015cmp_sf1m5",
+    "match_number": 5,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "adjust_points": 0,
+        "auto_points": 20,
+        "container_count_level1": 0,
+        "container_count_level2": 0,
+        "container_count_level3": 0,
+        "container_count_level4": 0,
+        "container_count_level5": 0,
+        "container_count_level6": 3,
+        "container_points": 72,
+        "container_set": false,
+        "foul_count": 0,
+        "foul_points": 0,
+        "litter_count_container": 3,
+        "litter_count_landfill": 1,
+        "litter_count_unprocessed": 4,
+        "litter_points": 35,
+        "robot_set": false,
+        "teleop_points": 195,
+        "total_points": 215,
+        "tote_count_far": 24,
+        "tote_count_near": 20,
+        "tote_points": 88,
+        "tote_set": false,
+        "tote_stack": true
+      },
+      "coopertition": "Unknown",
+      "coopertition_points": 0,
+      "red": {
+        "adjust_points": 0,
+        "auto_points": 28,
+        "container_count_level1": 0,
+        "container_count_level2": 0,
+        "container_count_level3": 0,
+        "container_count_level4": 0,
+        "container_count_level5": 0,
+        "container_count_level6": 6,
+        "container_points": 144,
+        "container_set": true,
+        "foul_count": 1,
+        "foul_points": 6,
+        "litter_count_container": 4,
+        "litter_count_landfill": 1,
+        "litter_count_unprocessed": 2,
+        "litter_points": 33,
+        "robot_set": false,
+        "teleop_points": 261,
+        "total_points": 283,
+        "tote_count_far": 24,
+        "tote_count_near": 18,
+        "tote_points": 84,
+        "tote_set": false,
+        "tote_stack": true
+      }
+    },
+    "set_number": 1,
+    "time": 1429994520,
+    "videos": [
+      {
+        "key": "BYFjqaID0A8",
+        "type": "youtube"
+      },
+      {
+        "key": "m3xmXGt7u1s",
+        "type": "youtube"
+      },
+      {
+        "key": "Z-EYEDetPhU",
+        "type": "youtube"
+      },
+      {
+        "key": "ssRfFHOz2tM",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": ""
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 210,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1114",
+          "frc148",
+          "frc1923"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 240,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1671",
+          "frc118",
+          "frc1678"
+        ]
+      }
+    },
+    "comp_level": "sf",
+    "event_key": "2015cmp",
+    "key": "2015cmp_sf1m6",
+    "match_number": 6,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "adjust_points": 0,
+        "auto_points": 0,
+        "container_count_level1": 0,
+        "container_count_level2": 0,
+        "container_count_level3": 0,
+        "container_count_level4": 0,
+        "container_count_level5": 0,
+        "container_count_level6": 4,
+        "container_points": 96,
+        "container_set": false,
+        "foul_count": 0,
+        "foul_points": 0,
+        "litter_count_container": 4,
+        "litter_count_landfill": 2,
+        "litter_count_unprocessed": 3,
+        "litter_points": 38,
+        "robot_set": false,
+        "teleop_points": 210,
+        "total_points": 210,
+        "tote_count_far": 8,
+        "tote_count_near": 30,
+        "tote_points": 76,
+        "tote_set": false,
+        "tote_stack": false
+      },
+      "coopertition": "Unknown",
+      "coopertition_points": 0,
+      "red": {
+        "adjust_points": 0,
+        "auto_points": 0,
+        "container_count_level1": 0,
+        "container_count_level2": 0,
+        "container_count_level3": 0,
+        "container_count_level4": 0,
+        "container_count_level5": 3,
+        "container_count_level6": 3,
+        "container_points": 132,
+        "container_set": false,
+        "foul_count": 0,
+        "foul_points": 0,
+        "litter_count_container": 4,
+        "litter_count_landfill": 4,
+        "litter_count_unprocessed": 0,
+        "litter_points": 28,
+        "robot_set": false,
+        "teleop_points": 240,
+        "total_points": 240,
+        "tote_count_far": 26,
+        "tote_count_near": 14,
+        "tote_points": 80,
+        "tote_set": false,
+        "tote_stack": false
+      }
+    },
+    "set_number": 1,
+    "time": 1429994880,
+    "videos": [
+      {
+        "key": "FMHQVwCFzHY",
+        "type": "youtube"
+      },
+      {
+        "key": "X9Yld0gCT3k",
+        "type": "youtube"
+      },
+      {
+        "key": "VUlNw6XxC1c",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": ""
+  }
+]

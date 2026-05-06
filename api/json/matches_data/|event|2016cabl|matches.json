@@ -1,0 +1,6680 @@
+[
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 182,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5802",
+          "frc330B",
+          "frc2493"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 194,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc330",
+          "frc3309",
+          "frc5835"
+        ]
+      }
+    },
+    "comp_level": "f",
+    "event_key": "2016cabl",
+    "key": "2016cabl_f1m1",
+    "match_number": 1,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 30,
+        "autoPoints": 30,
+        "autoReachPoints": 0,
+        "breachPoints": 20,
+        "capturePoints": 25,
+        "foulPoints": 15,
+        "position1crossings": 2,
+        "position2": "",
+        "position2crossings": 0,
+        "position3": "",
+        "position3crossings": 2,
+        "position4": "",
+        "position4crossings": 2,
+        "position5": "",
+        "position5crossings": 2,
+        "tba_rpEarned": null,
+        "teleopBoulderPoints": 52,
+        "teleopBouldersHigh": 10,
+        "teleopBouldersLow": 1,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 25,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": true,
+        "totalPoints": 182
+      },
+      "red": {
+        "autoBoulderPoints": 10,
+        "autoCrossingPoints": 20,
+        "autoPoints": 32,
+        "autoReachPoints": 2,
+        "breachPoints": 20,
+        "capturePoints": 25,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "",
+        "position2crossings": 2,
+        "position3": "",
+        "position3crossings": 2,
+        "position4": "",
+        "position4crossings": 2,
+        "position5": "",
+        "position5crossings": 2,
+        "tba_rpEarned": null,
+        "teleopBoulderPoints": 62,
+        "teleopBouldersHigh": 12,
+        "teleopBouldersLow": 1,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 40,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": true,
+        "totalPoints": 194
+      }
+    },
+    "set_number": 1,
+    "time": 1476053696,
+    "videos": [
+      {
+        "key": "xSitpxLN_bM",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 205,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5802",
+          "frc330B",
+          "frc2493"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 212,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc330",
+          "frc3309",
+          "frc5835"
+        ]
+      }
+    },
+    "comp_level": "f",
+    "event_key": "2016cabl",
+    "key": "2016cabl_f1m2",
+    "match_number": 2,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 30,
+        "autoPoints": 30,
+        "autoReachPoints": 0,
+        "breachPoints": 20,
+        "capturePoints": 25,
+        "foulPoints": 10,
+        "position1crossings": 2,
+        "position2": "",
+        "position2crossings": 2,
+        "position3": "",
+        "position3crossings": 2,
+        "position4": "",
+        "position4crossings": 2,
+        "position5": "",
+        "position5crossings": 2,
+        "tba_rpEarned": null,
+        "teleopBoulderPoints": 70,
+        "teleopBouldersHigh": 14,
+        "teleopBouldersLow": 0,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 35,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": true,
+        "totalPoints": 205
+      },
+      "red": {
+        "autoBoulderPoints": 10,
+        "autoCrossingPoints": 20,
+        "autoPoints": 32,
+        "autoReachPoints": 2,
+        "breachPoints": 20,
+        "capturePoints": 25,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "",
+        "position2crossings": 2,
+        "position3": "",
+        "position3crossings": 2,
+        "position4": "",
+        "position4crossings": 2,
+        "position5": "",
+        "position5crossings": 2,
+        "tba_rpEarned": null,
+        "teleopBoulderPoints": 80,
+        "teleopBouldersHigh": 16,
+        "teleopBouldersLow": 0,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 40,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": true,
+        "totalPoints": 212
+      }
+    },
+    "set_number": 1,
+    "time": 1476055536,
+    "videos": [
+      {
+        "key": "spyUmWr_OZM",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 102,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc980",
+          "frc687",
+          "frc9696"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 242,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc330",
+          "frc3309",
+          "frc5835"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qf1m1",
+    "match_number": 1,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 20,
+        "autoPoints": 22,
+        "autoReachPoints": 2,
+        "breachPoints": 20,
+        "capturePoints": 0,
+        "foulPoints": 5,
+        "position1crossings": 2,
+        "position2": "B_Ramparts",
+        "position2crossings": 2,
+        "position3": "A_ChevalDeFrise",
+        "position3crossings": 2,
+        "position4": "D_RockWall",
+        "position4crossings": 2,
+        "position5": "B_Moat",
+        "position5crossings": 1,
+        "tba_rpEarned": null,
+        "teleopBoulderPoints": 10,
+        "teleopBouldersHigh": 0,
+        "teleopBouldersLow": 5,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 35,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 102
+      },
+      "red": {
+        "autoBoulderPoints": 30,
+        "autoCrossingPoints": 20,
+        "autoPoints": 52,
+        "autoReachPoints": 2,
+        "breachPoints": 20,
+        "capturePoints": 25,
+        "foulPoints": 35,
+        "position1crossings": 2,
+        "position2": "B_Moat",
+        "position2crossings": 2,
+        "position3": "D_RockWall",
+        "position3crossings": 2,
+        "position4": "B_Ramparts",
+        "position4crossings": 2,
+        "position5": "A_ChevalDeFrise",
+        "position5crossings": 2,
+        "tba_rpEarned": null,
+        "teleopBoulderPoints": 45,
+        "teleopBouldersHigh": 9,
+        "teleopBouldersLow": 0,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 40,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 15,
+        "teleopTowerCaptured": true,
+        "totalPoints": 242
+      }
+    },
+    "set_number": 1,
+    "time": 1476043200,
+    "videos": [
+      {
+        "key": "PoBc2CqGWuE",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 117,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc980",
+          "frc687",
+          "frc9696"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 187,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc330",
+          "frc3309",
+          "frc5835"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qf1m2",
+    "match_number": 2,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 30,
+        "autoPoints": 30,
+        "autoReachPoints": 0,
+        "breachPoints": 20,
+        "capturePoints": 0,
+        "foulPoints": 10,
+        "position1crossings": 1,
+        "position2": "B_Ramparts",
+        "position2crossings": 2,
+        "position3": "A_ChevalDeFrise",
+        "position3crossings": 2,
+        "position4": "D_RockWall",
+        "position4crossings": 2,
+        "position5": "B_Moat",
+        "position5crossings": 2,
+        "tba_rpEarned": null,
+        "teleopBoulderPoints": 12,
+        "teleopBouldersHigh": 0,
+        "teleopBouldersLow": 6,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 30,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 117
+      },
+      "red": {
+        "autoBoulderPoints": 10,
+        "autoCrossingPoints": 10,
+        "autoPoints": 22,
+        "autoReachPoints": 2,
+        "breachPoints": 20,
+        "capturePoints": 25,
+        "foulPoints": 5,
+        "position1crossings": 2,
+        "position2": "B_Moat",
+        "position2crossings": 2,
+        "position3": "D_RockWall",
+        "position3crossings": 2,
+        "position4": "B_Ramparts",
+        "position4crossings": 2,
+        "position5": "A_ChevalDeFrise",
+        "position5crossings": 2,
+        "tba_rpEarned": null,
+        "teleopBoulderPoints": 55,
+        "teleopBouldersHigh": 11,
+        "teleopBouldersLow": 0,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 45,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": true,
+        "totalPoints": 187
+      }
+    },
+    "set_number": 1,
+    "time": 1476047721,
+    "videos": [
+      {
+        "key": "pibj3rO0ufE",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 154,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc294",
+          "frc5810",
+          "frc4501"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 81,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc968",
+          "frc696",
+          "frc4999"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qf2m1",
+    "match_number": 1,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 30,
+        "autoPoints": 30,
+        "autoReachPoints": 0,
+        "breachPoints": 20,
+        "capturePoints": 25,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 2,
+        "position3": "D_RockWall",
+        "position3crossings": 2,
+        "position4": "B_Ramparts",
+        "position4crossings": 2,
+        "position5": "B_Moat",
+        "position5crossings": 2,
+        "tba_rpEarned": null,
+        "teleopBoulderPoints": 29,
+        "teleopBouldersHigh": 3,
+        "teleopBouldersLow": 7,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 35,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": true,
+        "totalPoints": 154
+      },
+      "red": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 20,
+        "autoPoints": 20,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "D_RockWall",
+        "position2crossings": 1,
+        "position3": "B_Ramparts",
+        "position3crossings": 0,
+        "position4": "B_Moat",
+        "position4crossings": 2,
+        "position5": "A_ChevalDeFrise",
+        "position5crossings": 2,
+        "tba_rpEarned": null,
+        "teleopBoulderPoints": 21,
+        "teleopBouldersHigh": 1,
+        "teleopBouldersLow": 8,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 25,
+        "teleopDefensesBreached": false,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 81
+      }
+    },
+    "set_number": 2,
+    "time": 1476045923,
+    "videos": [
+      {
+        "key": "zZEZsMIJduU",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 119,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc294",
+          "frc5810",
+          "frc4501"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 155,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc968",
+          "frc696",
+          "frc4999"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qf2m2",
+    "match_number": 2,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 30,
+        "autoPoints": 30,
+        "autoReachPoints": 0,
+        "breachPoints": 20,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 2,
+        "position3": "B_Moat",
+        "position3crossings": 2,
+        "position4": "D_RockWall",
+        "position4crossings": 2,
+        "position5": "B_Ramparts",
+        "position5crossings": 2,
+        "tba_rpEarned": null,
+        "teleopBoulderPoints": 19,
+        "teleopBouldersHigh": 1,
+        "teleopBouldersLow": 7,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 35,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 119
+      },
+      "red": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 20,
+        "autoPoints": 20,
+        "autoReachPoints": 0,
+        "breachPoints": 20,
+        "capturePoints": 25,
+        "foulPoints": 5,
+        "position1crossings": 2,
+        "position2": "D_RockWall",
+        "position2crossings": 2,
+        "position3": "B_Ramparts",
+        "position3crossings": 2,
+        "position4": "B_Moat",
+        "position4crossings": 2,
+        "position5": "A_ChevalDeFrise",
+        "position5crossings": 1,
+        "tba_rpEarned": null,
+        "teleopBoulderPoints": 35,
+        "teleopBouldersHigh": 5,
+        "teleopBouldersLow": 5,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 35,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": true,
+        "totalPoints": 155
+      }
+    },
+    "set_number": 2,
+    "time": 1476048728,
+    "videos": [
+      {
+        "key": "JiyRa6bHnP0",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 123,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc294",
+          "frc5810",
+          "frc4501"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 93,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc968",
+          "frc696",
+          "frc4999"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qf2m3",
+    "match_number": 3,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 30,
+        "autoPoints": 30,
+        "autoReachPoints": 0,
+        "breachPoints": 20,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 2,
+        "position3": "D_RockWall",
+        "position3crossings": 2,
+        "position4": "B_Moat",
+        "position4crossings": 2,
+        "position5": "B_Ramparts",
+        "position5crossings": 2,
+        "tba_rpEarned": null,
+        "teleopBoulderPoints": 23,
+        "teleopBouldersHigh": 3,
+        "teleopBouldersLow": 4,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 35,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 123
+      },
+      "red": {
+        "autoBoulderPoints": 5,
+        "autoCrossingPoints": 20,
+        "autoPoints": 27,
+        "autoReachPoints": 2,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 10,
+        "position1crossings": 2,
+        "position2": "D_RockWall",
+        "position2crossings": 1,
+        "position3": "B_Ramparts",
+        "position3crossings": 1,
+        "position4": "B_Moat",
+        "position4crossings": 2,
+        "position5": "A_ChevalDeFrise",
+        "position5crossings": 2,
+        "tba_rpEarned": null,
+        "teleopBoulderPoints": 21,
+        "teleopBouldersHigh": 3,
+        "teleopBouldersLow": 3,
+        "teleopChallengePoints": 5,
+        "teleopCrossingPoints": 30,
+        "teleopDefensesBreached": false,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 93
+      }
+    },
+    "set_number": 2,
+    "time": 1476050199,
+    "videos": [
+      {
+        "key": "qG5eodtK_JM",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 108,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4276",
+          "frc4763",
+          "frc9322"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 177,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3476",
+          "frc5124",
+          "frc4322"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qf3m1",
+    "match_number": 1,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 20,
+        "autoPoints": 22,
+        "autoReachPoints": 2,
+        "breachPoints": 20,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 2,
+        "position3": "B_Moat",
+        "position3crossings": 2,
+        "position4": "D_RockWall",
+        "position4crossings": 2,
+        "position5": "D_RoughTerrain",
+        "position5crossings": 2,
+        "tba_rpEarned": null,
+        "teleopBoulderPoints": 16,
+        "teleopBouldersHigh": 2,
+        "teleopBouldersLow": 3,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 40,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 108
+      },
+      "red": {
+        "autoBoulderPoints": 10,
+        "autoCrossingPoints": 30,
+        "autoPoints": 40,
+        "autoReachPoints": 0,
+        "breachPoints": 20,
+        "capturePoints": 25,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "B_Moat",
+        "position2crossings": 2,
+        "position3": "B_Ramparts",
+        "position3crossings": 1,
+        "position4": "A_ChevalDeFrise",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": null,
+        "teleopBoulderPoints": 47,
+        "teleopBouldersHigh": 9,
+        "teleopBouldersLow": 1,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 30,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": true,
+        "totalPoints": 177
+      }
+    },
+    "set_number": 3,
+    "time": 1476046470,
+    "videos": [
+      {
+        "key": "K4JCBcT97nw",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 97,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4276",
+          "frc4763",
+          "frc9322"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 119,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3476",
+          "frc5124",
+          "frc4322"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qf3m2",
+    "match_number": 2,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 10,
+        "autoPoints": 14,
+        "autoReachPoints": 4,
+        "breachPoints": 20,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "B_Moat",
+        "position2crossings": 2,
+        "position3": "B_Ramparts",
+        "position3crossings": 2,
+        "position4": "A_ChevalDeFrise",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": null,
+        "teleopBoulderPoints": 13,
+        "teleopBouldersHigh": 1,
+        "teleopBouldersLow": 4,
+        "teleopChallengePoints": 5,
+        "teleopCrossingPoints": 45,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 97
+      },
+      "red": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 20,
+        "autoPoints": 22,
+        "autoReachPoints": 2,
+        "breachPoints": 20,
+        "capturePoints": 0,
+        "foulPoints": 5,
+        "position1crossings": 2,
+        "position2": "D_RockWall",
+        "position2crossings": 2,
+        "position3": "A_ChevalDeFrise",
+        "position3crossings": 2,
+        "position4": "B_Ramparts",
+        "position4crossings": 1,
+        "position5": "B_Moat",
+        "position5crossings": 2,
+        "tba_rpEarned": null,
+        "teleopBoulderPoints": 27,
+        "teleopBouldersHigh": 5,
+        "teleopBouldersLow": 1,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 35,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 119
+      }
+    },
+    "set_number": 3,
+    "time": 1476049111,
+    "videos": [
+      {
+        "key": "hYS_vYUSV10",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 124,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5136",
+          "frc5199",
+          "frc4619"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 190,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5802",
+          "frc330B",
+          "frc2493"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qf4m1",
+    "match_number": 1,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 10,
+        "autoCrossingPoints": 20,
+        "autoPoints": 32,
+        "autoReachPoints": 2,
+        "breachPoints": 20,
+        "capturePoints": 0,
+        "foulPoints": 5,
+        "position1crossings": 2,
+        "position2": "B_Ramparts",
+        "position2crossings": 2,
+        "position3": "B_Moat",
+        "position3crossings": 2,
+        "position4": "D_RockWall",
+        "position4crossings": 2,
+        "position5": "A_ChevalDeFrise",
+        "position5crossings": 0,
+        "tba_rpEarned": null,
+        "teleopBoulderPoints": 22,
+        "teleopBouldersHigh": 2,
+        "teleopBouldersLow": 6,
+        "teleopChallengePoints": 0,
+        "teleopCrossingPoints": 30,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 15,
+        "teleopTowerCaptured": false,
+        "totalPoints": 124
+      },
+      "red": {
+        "autoBoulderPoints": 10,
+        "autoCrossingPoints": 30,
+        "autoPoints": 40,
+        "autoReachPoints": 0,
+        "breachPoints": 20,
+        "capturePoints": 25,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "B_Moat",
+        "position2crossings": 2,
+        "position3": "D_RockWall",
+        "position3crossings": 2,
+        "position4": "B_Ramparts",
+        "position4crossings": 2,
+        "position5": "A_ChevalDeFrise",
+        "position5crossings": 2,
+        "tba_rpEarned": null,
+        "teleopBoulderPoints": 55,
+        "teleopBouldersHigh": 11,
+        "teleopBouldersLow": 0,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 35,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": true,
+        "totalPoints": 190
+      }
+    },
+    "set_number": 4,
+    "time": 1476047189,
+    "videos": [
+      {
+        "key": "GOafg__MrgM",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 98,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5136",
+          "frc5199",
+          "frc4619"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 177,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5802",
+          "frc330B",
+          "frc2493"
+        ]
+      }
+    },
+    "comp_level": "qf",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qf4m2",
+    "match_number": 2,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 20,
+        "autoPoints": 22,
+        "autoReachPoints": 2,
+        "breachPoints": 20,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "B_Moat",
+        "position2crossings": 2,
+        "position3": "A_ChevalDeFrise",
+        "position3crossings": 2,
+        "position4": "D_RockWall",
+        "position4crossings": 2,
+        "position5": "B_Ramparts",
+        "position5crossings": 0,
+        "tba_rpEarned": null,
+        "teleopBoulderPoints": 21,
+        "teleopBouldersHigh": 3,
+        "teleopBouldersLow": 3,
+        "teleopChallengePoints": 5,
+        "teleopCrossingPoints": 30,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 98
+      },
+      "red": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 30,
+        "autoPoints": 30,
+        "autoReachPoints": 0,
+        "breachPoints": 20,
+        "capturePoints": 25,
+        "foulPoints": 5,
+        "position1crossings": 2,
+        "position2": "B_Moat",
+        "position2crossings": 2,
+        "position3": "B_Ramparts",
+        "position3crossings": 2,
+        "position4": "D_RockWall",
+        "position4crossings": 2,
+        "position5": "A_ChevalDeFrise",
+        "position5crossings": 2,
+        "tba_rpEarned": null,
+        "teleopBoulderPoints": 47,
+        "teleopBouldersHigh": 9,
+        "teleopBouldersLow": 1,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 35,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": true,
+        "totalPoints": 177
+      }
+    },
+    "set_number": 4,
+    "time": 1476049640,
+    "videos": [
+      {
+        "key": "ZJtNnW4hPPo",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 70,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4763",
+          "frc5835",
+          "frc4999"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 149,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3476",
+          "frc4619",
+          "frc330"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm1",
+    "match_number": 1,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 20,
+        "autoPoints": 20,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 5,
+        "position1crossings": 2,
+        "position2": "D_RockWall",
+        "position2crossings": 2,
+        "position3": "A_ChevalDeFrise",
+        "position3crossings": 2,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "B_Moat",
+        "position5crossings": 2,
+        "tba_rpEarned": 1,
+        "teleopBoulderPoints": 0,
+        "teleopBouldersHigh": 0,
+        "teleopBouldersLow": 0,
+        "teleopChallengePoints": 5,
+        "teleopCrossingPoints": 40,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 70
+      },
+      "red": {
+        "autoBoulderPoints": 20,
+        "autoCrossingPoints": 20,
+        "autoPoints": 44,
+        "autoReachPoints": 4,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "D_RockWall",
+        "position2crossings": 2,
+        "position3": "A_ChevalDeFrise",
+        "position3crossings": 2,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "B_Moat",
+        "position5crossings": 2,
+        "tba_rpEarned": 3,
+        "teleopBoulderPoints": 55,
+        "teleopBouldersHigh": 11,
+        "teleopBouldersLow": 0,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 40,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 149
+      }
+    },
+    "set_number": 1,
+    "time": 1475947800,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 46,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc696",
+          "frc1661",
+          "frc9322"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 142,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3309",
+          "frc5835",
+          "frc294"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm10",
+    "match_number": 10,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 5,
+        "autoCrossingPoints": 20,
+        "autoPoints": 25,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "B_Moat",
+        "position2crossings": 1,
+        "position3": "D_RoughTerrain",
+        "position3crossings": 2,
+        "position4": "A_ChevalDeFrise",
+        "position4crossings": 0,
+        "position5": "B_Ramparts",
+        "position5crossings": 0,
+        "tba_rpEarned": 0,
+        "teleopBoulderPoints": 6,
+        "teleopBouldersHigh": 0,
+        "teleopBouldersLow": 3,
+        "teleopChallengePoints": 0,
+        "teleopCrossingPoints": 15,
+        "teleopDefensesBreached": false,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 46
+      },
+      "red": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 20,
+        "autoPoints": 26,
+        "autoReachPoints": 6,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "B_Moat",
+        "position2crossings": 2,
+        "position3": "D_RoughTerrain",
+        "position3crossings": 2,
+        "position4": "A_ChevalDeFrise",
+        "position4crossings": 2,
+        "position5": "B_Ramparts",
+        "position5crossings": 2,
+        "tba_rpEarned": 4,
+        "teleopBoulderPoints": 61,
+        "teleopBouldersHigh": 11,
+        "teleopBouldersLow": 3,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 40,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": true,
+        "totalPoints": 142
+      }
+    },
+    "set_number": 1,
+    "time": 1475951580,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 92,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3759",
+          "frc3476",
+          "frc4999"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 129,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc687",
+          "frc330B",
+          "frc968"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm11",
+    "match_number": 11,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 10,
+        "autoCrossingPoints": 10,
+        "autoPoints": 20,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 0,
+        "position2": "B_Moat",
+        "position2crossings": 2,
+        "position3": "D_RoughTerrain",
+        "position3crossings": 2,
+        "position4": "A_ChevalDeFrise",
+        "position4crossings": 2,
+        "position5": "B_Ramparts",
+        "position5crossings": 2,
+        "tba_rpEarned": 1,
+        "teleopBoulderPoints": 27,
+        "teleopBouldersHigh": 5,
+        "teleopBouldersLow": 1,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 35,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 92
+      },
+      "red": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 20,
+        "autoPoints": 24,
+        "autoReachPoints": 4,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 10,
+        "position1crossings": 2,
+        "position2": "B_Moat",
+        "position2crossings": 2,
+        "position3": "D_RoughTerrain",
+        "position3crossings": 2,
+        "position4": "A_ChevalDeFrise",
+        "position4crossings": 0,
+        "position5": "B_Ramparts",
+        "position5crossings": 2,
+        "tba_rpEarned": 3,
+        "teleopBoulderPoints": 55,
+        "teleopBouldersHigh": 11,
+        "teleopBouldersLow": 0,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 30,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 129
+      }
+    },
+    "set_number": 1,
+    "time": 1475952000,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 71,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc980",
+          "frc4501",
+          "frc3473"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 127,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5199",
+          "frc4763",
+          "frc5810"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm12",
+    "match_number": 12,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 20,
+        "autoPoints": 20,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 3,
+        "position2": "B_Moat",
+        "position2crossings": 2,
+        "position3": "D_RoughTerrain",
+        "position3crossings": 3,
+        "position4": "A_ChevalDeFrise",
+        "position4crossings": 0,
+        "position5": "B_Ramparts",
+        "position5crossings": 2,
+        "tba_rpEarned": 0,
+        "teleopBoulderPoints": 6,
+        "teleopBouldersHigh": 0,
+        "teleopBouldersLow": 3,
+        "teleopChallengePoints": 5,
+        "teleopCrossingPoints": 40,
+        "teleopDefensesBreached": false,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 71
+      },
+      "red": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 30,
+        "autoPoints": 36,
+        "autoReachPoints": 6,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 10,
+        "position1crossings": 2,
+        "position2": "B_Moat",
+        "position2crossings": 2,
+        "position3": "D_RoughTerrain",
+        "position3crossings": 2,
+        "position4": "A_ChevalDeFrise",
+        "position4crossings": 2,
+        "position5": "B_Ramparts",
+        "position5crossings": 2,
+        "tba_rpEarned": 3,
+        "teleopBoulderPoints": 16,
+        "teleopBouldersHigh": 0,
+        "teleopBouldersLow": 8,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 35,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 15,
+        "teleopTowerCaptured": false,
+        "totalPoints": 127
+      }
+    },
+    "set_number": 1,
+    "time": 1475952420,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 158,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5124",
+          "frc330",
+          "frc4276"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 104,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3309",
+          "frc2493",
+          "frc5678"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm13",
+    "match_number": 13,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 10,
+        "autoCrossingPoints": 30,
+        "autoPoints": 40,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 5,
+        "position1crossings": 2,
+        "position2": "B_Ramparts",
+        "position2crossings": 2,
+        "position3": "D_RoughTerrain",
+        "position3crossings": 2,
+        "position4": "D_RockWall",
+        "position4crossings": 2,
+        "position5": "A_ChevalDeFrise",
+        "position5crossings": 2,
+        "tba_rpEarned": 4,
+        "teleopBoulderPoints": 53,
+        "teleopBouldersHigh": 9,
+        "teleopBouldersLow": 4,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 35,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 15,
+        "teleopTowerCaptured": true,
+        "totalPoints": 158
+      },
+      "red": {
+        "autoBoulderPoints": 10,
+        "autoCrossingPoints": 10,
+        "autoPoints": 24,
+        "autoReachPoints": 4,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "B_Ramparts",
+        "position2crossings": 2,
+        "position3": "D_RoughTerrain",
+        "position3crossings": 2,
+        "position4": "D_RockWall",
+        "position4crossings": 2,
+        "position5": "A_ChevalDeFrise",
+        "position5crossings": 2,
+        "tba_rpEarned": 1,
+        "teleopBoulderPoints": 25,
+        "teleopBouldersHigh": 5,
+        "teleopBouldersLow": 0,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 45,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 104
+      }
+    },
+    "set_number": 1,
+    "time": 1475956800,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 123,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5802",
+          "frc696",
+          "frc9696"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 87,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4322",
+          "frc5136",
+          "frc4619"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm14",
+    "match_number": 14,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 5,
+        "autoCrossingPoints": 30,
+        "autoPoints": 35,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "B_Ramparts",
+        "position2crossings": 2,
+        "position3": "D_RoughTerrain",
+        "position3crossings": 2,
+        "position4": "D_RockWall",
+        "position4crossings": 2,
+        "position5": "A_ChevalDeFrise",
+        "position5crossings": 2,
+        "tba_rpEarned": 3,
+        "teleopBoulderPoints": 48,
+        "teleopBouldersHigh": 6,
+        "teleopBouldersLow": 9,
+        "teleopChallengePoints": 5,
+        "teleopCrossingPoints": 35,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 123
+      },
+      "red": {
+        "autoBoulderPoints": 10,
+        "autoCrossingPoints": 20,
+        "autoPoints": 36,
+        "autoReachPoints": 6,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "B_Ramparts",
+        "position2crossings": 2,
+        "position3": "D_RoughTerrain",
+        "position3crossings": 2,
+        "position4": "D_RockWall",
+        "position4crossings": 2,
+        "position5": "A_ChevalDeFrise",
+        "position5crossings": 0,
+        "tba_rpEarned": 1,
+        "teleopBoulderPoints": 6,
+        "teleopBouldersHigh": 0,
+        "teleopBouldersLow": 3,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 30,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 87
+      }
+    },
+    "set_number": 1,
+    "time": 1475957220,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 62,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1661",
+          "frc687",
+          "frc5835"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 91,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc980",
+          "frc294",
+          "frc5124"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm15",
+    "match_number": 15,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 10,
+        "autoPoints": 12,
+        "autoReachPoints": 2,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 5,
+        "position1crossings": 2,
+        "position2": "B_Ramparts",
+        "position2crossings": 2,
+        "position3": "D_RoughTerrain",
+        "position3crossings": 2,
+        "position4": "D_RockWall",
+        "position4crossings": 2,
+        "position5": "A_ChevalDeFrise",
+        "position5crossings": 1,
+        "tba_rpEarned": 1,
+        "teleopBoulderPoints": 0,
+        "teleopBouldersHigh": 0,
+        "teleopBouldersLow": 0,
+        "teleopChallengePoints": 5,
+        "teleopCrossingPoints": 40,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 62
+      },
+      "red": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 20,
+        "autoPoints": 26,
+        "autoReachPoints": 6,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "B_Ramparts",
+        "position2crossings": 2,
+        "position3": "D_RoughTerrain",
+        "position3crossings": 2,
+        "position4": "D_RockWall",
+        "position4crossings": 2,
+        "position5": "A_ChevalDeFrise",
+        "position5crossings": 1,
+        "tba_rpEarned": 3,
+        "teleopBoulderPoints": 20,
+        "teleopBouldersHigh": 4,
+        "teleopBouldersLow": 0,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 35,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 91
+      }
+    },
+    "set_number": 1,
+    "time": 1475957640,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 121,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4322",
+          "frc330B",
+          "frc5810"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 119,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3759",
+          "frc3476",
+          "frc696"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm16",
+    "match_number": 16,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 30,
+        "autoPoints": 30,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 5,
+        "position1crossings": 2,
+        "position2": "B_Ramparts",
+        "position2crossings": 2,
+        "position3": "D_RoughTerrain",
+        "position3crossings": 2,
+        "position4": "D_RockWall",
+        "position4crossings": 2,
+        "position5": "A_ChevalDeFrise",
+        "position5crossings": 2,
+        "tba_rpEarned": 3,
+        "teleopBoulderPoints": 36,
+        "teleopBouldersHigh": 6,
+        "teleopBouldersLow": 3,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 35,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 121
+      },
+      "red": {
+        "autoBoulderPoints": 5,
+        "autoCrossingPoints": 20,
+        "autoPoints": 29,
+        "autoReachPoints": 4,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 10,
+        "position1crossings": 2,
+        "position2": "B_Ramparts",
+        "position2crossings": 2,
+        "position3": "D_RoughTerrain",
+        "position3crossings": 2,
+        "position4": "D_RockWall",
+        "position4crossings": 2,
+        "position5": "A_ChevalDeFrise",
+        "position5crossings": 2,
+        "tba_rpEarned": 1,
+        "teleopBoulderPoints": 25,
+        "teleopBouldersHigh": 3,
+        "teleopBouldersLow": 5,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 40,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 119
+      }
+    },
+    "set_number": 1,
+    "time": 1475958060,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 87,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4619",
+          "frc4276",
+          "frc3473"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 99,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5678",
+          "frc4763",
+          "frc5136"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm17",
+    "match_number": 17,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 20,
+        "autoPoints": 20,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "B_Ramparts",
+        "position2crossings": 2,
+        "position3": "B_Moat",
+        "position3crossings": 2,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 1,
+        "teleopBoulderPoints": 17,
+        "teleopBouldersHigh": 3,
+        "teleopBouldersLow": 1,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 40,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 87
+      },
+      "red": {
+        "autoBoulderPoints": 10,
+        "autoCrossingPoints": 10,
+        "autoPoints": 22,
+        "autoReachPoints": 2,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "B_Ramparts",
+        "position2crossings": 2,
+        "position3": "B_Moat",
+        "position3crossings": 2,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 3,
+        "teleopBoulderPoints": 17,
+        "teleopBouldersHigh": 3,
+        "teleopBouldersLow": 1,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 45,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 99
+      }
+    },
+    "set_number": 1,
+    "time": 1475958480,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 119,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc9696",
+          "frc2493",
+          "frc968"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 149,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc330",
+          "frc4501",
+          "frc5802"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm18",
+    "match_number": 18,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 20,
+        "autoPoints": 20,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 10,
+        "position1crossings": 2,
+        "position2": "B_Ramparts",
+        "position2crossings": 2,
+        "position3": "B_Moat",
+        "position3crossings": 2,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 1,
+        "teleopBoulderPoints": 34,
+        "teleopBouldersHigh": 6,
+        "teleopBouldersLow": 2,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 40,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 119
+      },
+      "red": {
+        "autoBoulderPoints": 20,
+        "autoCrossingPoints": 20,
+        "autoPoints": 42,
+        "autoReachPoints": 2,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 5,
+        "position1crossings": 2,
+        "position2": "B_Ramparts",
+        "position2crossings": 0,
+        "position3": "B_Moat",
+        "position3crossings": 2,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 3,
+        "teleopBoulderPoints": 62,
+        "teleopBouldersHigh": 12,
+        "teleopBouldersLow": 1,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 30,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 149
+      }
+    },
+    "set_number": 1,
+    "time": 1475958900,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 128,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3309",
+          "frc5199",
+          "frc687"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 52,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc9322",
+          "frc4999",
+          "frc5678"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm19",
+    "match_number": 19,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 30,
+        "autoPoints": 30,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 10,
+        "position1crossings": 2,
+        "position2": "B_Ramparts",
+        "position2crossings": 2,
+        "position3": "B_Moat",
+        "position3crossings": 2,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 3,
+        "teleopBoulderPoints": 28,
+        "teleopBouldersHigh": 4,
+        "teleopBouldersLow": 4,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 35,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 15,
+        "teleopTowerCaptured": false,
+        "totalPoints": 128
+      },
+      "red": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 0,
+        "autoPoints": 2,
+        "autoReachPoints": 2,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "B_Ramparts",
+        "position2crossings": 0,
+        "position3": "B_Moat",
+        "position3crossings": 2,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 1,
+        "teleopBoulderPoints": 0,
+        "teleopBouldersHigh": 0,
+        "teleopBouldersLow": 0,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 40,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 52
+      }
+    },
+    "set_number": 1,
+    "time": 1475959320,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 112,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4276",
+          "frc5810",
+          "frc696"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 79,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3473",
+          "frc687",
+          "frc5124"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm2",
+    "match_number": 2,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 5,
+        "autoCrossingPoints": 30,
+        "autoPoints": 35,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "D_RockWall",
+        "position2crossings": 2,
+        "position3": "A_ChevalDeFrise",
+        "position3crossings": 2,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "B_Moat",
+        "position5crossings": 2,
+        "tba_rpEarned": 3,
+        "teleopBoulderPoints": 32,
+        "teleopBouldersHigh": 2,
+        "teleopBouldersLow": 11,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 35,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 112
+      },
+      "red": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 20,
+        "autoPoints": 24,
+        "autoReachPoints": 4,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "D_RockWall",
+        "position2crossings": 2,
+        "position3": "A_ChevalDeFrise",
+        "position3crossings": 2,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "B_Moat",
+        "position5crossings": 2,
+        "tba_rpEarned": 1,
+        "teleopBoulderPoints": 10,
+        "teleopBouldersHigh": 2,
+        "teleopBouldersLow": 0,
+        "teleopChallengePoints": 5,
+        "teleopCrossingPoints": 40,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 79
+      }
+    },
+    "set_number": 1,
+    "time": 1475948220,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 117,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3473",
+          "frc968",
+          "frc696"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 90,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4322",
+          "frc3759",
+          "frc4276"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm20",
+    "match_number": 20,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 5,
+        "autoCrossingPoints": 20,
+        "autoPoints": 25,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "B_Ramparts",
+        "position2crossings": 2,
+        "position3": "B_Moat",
+        "position3crossings": 2,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 3,
+        "teleopBoulderPoints": 42,
+        "teleopBouldersHigh": 6,
+        "teleopBouldersLow": 6,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 40,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 117
+      },
+      "red": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 20,
+        "autoPoints": 20,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 10,
+        "position1crossings": 2,
+        "position2": "B_Ramparts",
+        "position2crossings": 2,
+        "position3": "B_Moat",
+        "position3crossings": 1,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 1,
+        "teleopBoulderPoints": 15,
+        "teleopBouldersHigh": 1,
+        "teleopBouldersLow": 5,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 35,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 90
+      }
+    },
+    "set_number": 1,
+    "time": 1475959740,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 83,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1661",
+          "frc5199",
+          "frc294"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 95,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5835",
+          "frc5136",
+          "frc9696"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm21",
+    "match_number": 21,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 20,
+        "autoPoints": 20,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 0,
+        "position2": "B_Moat",
+        "position2crossings": 2,
+        "position3": "D_RoughTerrain",
+        "position3crossings": 2,
+        "position4": "A_ChevalDeFrise",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 1,
+        "teleopBoulderPoints": 13,
+        "teleopBouldersHigh": 1,
+        "teleopBouldersLow": 4,
+        "teleopChallengePoints": 5,
+        "teleopCrossingPoints": 30,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 15,
+        "teleopTowerCaptured": false,
+        "totalPoints": 83
+      },
+      "red": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 30,
+        "autoPoints": 30,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "B_Moat",
+        "position2crossings": 2,
+        "position3": "D_RoughTerrain",
+        "position3crossings": 2,
+        "position4": "A_ChevalDeFrise",
+        "position4crossings": 0,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 3,
+        "teleopBoulderPoints": 25,
+        "teleopBouldersHigh": 3,
+        "teleopBouldersLow": 5,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 25,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 95
+      }
+    },
+    "set_number": 1,
+    "time": 1475960160,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 127,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5810",
+          "frc5124",
+          "frc4501"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 130,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4763",
+          "frc330",
+          "frc330B"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm22",
+    "match_number": 22,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 30,
+        "autoPoints": 30,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 10,
+        "position1crossings": 2,
+        "position2": "B_Moat",
+        "position2crossings": 2,
+        "position3": "D_RoughTerrain",
+        "position3crossings": 2,
+        "position4": "A_ChevalDeFrise",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 1,
+        "teleopBoulderPoints": 37,
+        "teleopBouldersHigh": 5,
+        "teleopBouldersLow": 6,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 35,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 127
+      },
+      "red": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 20,
+        "autoPoints": 20,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 10,
+        "position1crossings": 2,
+        "position2": "B_Moat",
+        "position2crossings": 2,
+        "position3": "D_RoughTerrain",
+        "position3crossings": 2,
+        "position4": "A_ChevalDeFrise",
+        "position4crossings": 0,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 3,
+        "teleopBoulderPoints": 60,
+        "teleopBouldersHigh": 12,
+        "teleopBouldersLow": 0,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 30,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 130
+      }
+    },
+    "set_number": 1,
+    "time": 1475960580,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 127,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4999",
+          "frc4619",
+          "frc3309"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 75,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc9322",
+          "frc2493",
+          "frc980"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm23",
+    "match_number": 23,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 10,
+        "autoPoints": 14,
+        "autoReachPoints": 4,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 15,
+        "position1crossings": 2,
+        "position2": "B_Moat",
+        "position2crossings": 2,
+        "position3": "D_RoughTerrain",
+        "position3crossings": 2,
+        "position4": "A_ChevalDeFrise",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 0,
+        "tba_rpEarned": 4,
+        "teleopBoulderPoints": 48,
+        "teleopBouldersHigh": 8,
+        "teleopBouldersLow": 4,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 35,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": true,
+        "totalPoints": 127
+      },
+      "red": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 20,
+        "autoPoints": 20,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 5,
+        "position1crossings": 0,
+        "position2": "B_Moat",
+        "position2crossings": 2,
+        "position3": "D_RoughTerrain",
+        "position3crossings": 2,
+        "position4": "A_ChevalDeFrise",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 1,
+        "teleopBoulderPoints": 5,
+        "teleopBouldersHigh": 1,
+        "teleopBouldersLow": 0,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 30,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 75
+      }
+    },
+    "set_number": 1,
+    "time": 1475961000,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 129,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3476",
+          "frc5136",
+          "frc5124"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 113,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5802",
+          "frc696",
+          "frc4322"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm24",
+    "match_number": 24,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 10,
+        "autoCrossingPoints": 30,
+        "autoPoints": 40,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 5,
+        "position1crossings": 2,
+        "position2": "B_Moat",
+        "position2crossings": 2,
+        "position3": "D_RoughTerrain",
+        "position3crossings": 2,
+        "position4": "A_ChevalDeFrise",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 3,
+        "teleopBoulderPoints": 24,
+        "teleopBouldersHigh": 4,
+        "teleopBouldersLow": 2,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 35,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 15,
+        "teleopTowerCaptured": false,
+        "totalPoints": 129
+      },
+      "red": {
+        "autoBoulderPoints": 10,
+        "autoCrossingPoints": 20,
+        "autoPoints": 32,
+        "autoReachPoints": 2,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "B_Moat",
+        "position2crossings": 2,
+        "position3": "D_RoughTerrain",
+        "position3crossings": 2,
+        "position4": "A_ChevalDeFrise",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 2,
+        "teleopBoulderPoints": 26,
+        "teleopBouldersHigh": 0,
+        "teleopBouldersLow": 13,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 40,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": true,
+        "totalPoints": 113
+      }
+    },
+    "set_number": 1,
+    "time": 1475961420,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 120,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5199",
+          "frc9322",
+          "frc330"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 99,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4999",
+          "frc330B",
+          "frc3473"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm25",
+    "match_number": 25,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 30,
+        "autoPoints": 30,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 0,
+        "position3": "D_RoughTerrain",
+        "position3crossings": 2,
+        "position4": "B_Moat",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 3,
+        "teleopBoulderPoints": 45,
+        "teleopBouldersHigh": 7,
+        "teleopBouldersLow": 5,
+        "teleopChallengePoints": 5,
+        "teleopCrossingPoints": 25,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 15,
+        "teleopTowerCaptured": false,
+        "totalPoints": 120
+      },
+      "red": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 10,
+        "autoPoints": 10,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 2,
+        "position3": "D_RoughTerrain",
+        "position3crossings": 2,
+        "position4": "B_Moat",
+        "position4crossings": 1,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 1,
+        "teleopBoulderPoints": 39,
+        "teleopBouldersHigh": 7,
+        "teleopBouldersLow": 2,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 40,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 99
+      }
+    },
+    "set_number": 1,
+    "time": 1475961840,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 130,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4763",
+          "frc687",
+          "frc5802"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 105,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3309",
+          "frc4501",
+          "frc5678"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm26",
+    "match_number": 26,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 10,
+        "autoCrossingPoints": 30,
+        "autoPoints": 40,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 0,
+        "position3": "D_RoughTerrain",
+        "position3crossings": 2,
+        "position4": "B_Moat",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 3,
+        "teleopBoulderPoints": 30,
+        "teleopBouldersHigh": 6,
+        "teleopBouldersLow": 0,
+        "teleopChallengePoints": 5,
+        "teleopCrossingPoints": 25,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 30,
+        "teleopTowerCaptured": false,
+        "totalPoints": 130
+      },
+      "red": {
+        "autoBoulderPoints": 10,
+        "autoCrossingPoints": 10,
+        "autoPoints": 20,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 2,
+        "position3": "D_RoughTerrain",
+        "position3crossings": 2,
+        "position4": "B_Moat",
+        "position4crossings": 0,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 1,
+        "teleopBoulderPoints": 40,
+        "teleopBouldersHigh": 8,
+        "teleopBouldersLow": 0,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 35,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 105
+      }
+    },
+    "set_number": 1,
+    "time": 1475962260,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 117,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc294",
+          "frc5810",
+          "frc4276"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 105,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3476",
+          "frc968",
+          "frc1661"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm27",
+    "match_number": 27,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 10,
+        "autoCrossingPoints": 30,
+        "autoPoints": 40,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 2,
+        "position3": "D_RoughTerrain",
+        "position3crossings": 2,
+        "position4": "B_Moat",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 3,
+        "teleopBoulderPoints": 32,
+        "teleopBouldersHigh": 4,
+        "teleopBouldersLow": 6,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 35,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 117
+      },
+      "red": {
+        "autoBoulderPoints": 10,
+        "autoCrossingPoints": 20,
+        "autoPoints": 30,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 1,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 1,
+        "position3": "D_RoughTerrain",
+        "position3crossings": 2,
+        "position4": "B_Moat",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 0,
+        "teleopBoulderPoints": 25,
+        "teleopBouldersHigh": 5,
+        "teleopBouldersLow": 0,
+        "teleopChallengePoints": 5,
+        "teleopCrossingPoints": 30,
+        "teleopDefensesBreached": false,
+        "teleopScalePoints": 15,
+        "teleopTowerCaptured": false,
+        "totalPoints": 105
+      }
+    },
+    "set_number": 1,
+    "time": 1475962680,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 71,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5835",
+          "frc980",
+          "frc2493"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 81,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc9696",
+          "frc4619",
+          "frc3759"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm28",
+    "match_number": 28,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 20,
+        "autoPoints": 20,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 1,
+        "position3": "D_RoughTerrain",
+        "position3crossings": 2,
+        "position4": "B_Moat",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 1,
+        "teleopBoulderPoints": 6,
+        "teleopBouldersHigh": 0,
+        "teleopBouldersLow": 3,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 35,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 71
+      },
+      "red": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 10,
+        "autoPoints": 12,
+        "autoReachPoints": 2,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 1,
+        "position3": "D_RoughTerrain",
+        "position3crossings": 2,
+        "position4": "B_Moat",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 1,
+        "tba_rpEarned": 2,
+        "teleopBoulderPoints": 19,
+        "teleopBouldersHigh": 1,
+        "teleopBouldersLow": 7,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 35,
+        "teleopDefensesBreached": false,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 81
+      }
+    },
+    "set_number": 1,
+    "time": 1475963100,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 83,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc330",
+          "frc4322",
+          "frc5199"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 86,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc687",
+          "frc5810",
+          "frc9322"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm29",
+    "match_number": 29,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 20,
+        "autoPoints": 20,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 0,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 1,
+        "position3": "B_Ramparts",
+        "position3crossings": 2,
+        "position4": "B_Moat",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 0,
+        "teleopBoulderPoints": 13,
+        "teleopBouldersHigh": 1,
+        "teleopBouldersLow": 4,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 25,
+        "teleopDefensesBreached": false,
+        "teleopScalePoints": 15,
+        "teleopTowerCaptured": false,
+        "totalPoints": 83
+      },
+      "red": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 10,
+        "autoPoints": 14,
+        "autoReachPoints": 4,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 5,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 2,
+        "position3": "B_Ramparts",
+        "position3crossings": 2,
+        "position4": "B_Moat",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 3,
+        "teleopBoulderPoints": 7,
+        "teleopBouldersHigh": 1,
+        "teleopBouldersLow": 1,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 45,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 86
+      }
+    },
+    "set_number": 1,
+    "time": 1475963520,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 52,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5678",
+          "frc9322",
+          "frc3759"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 41,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc980",
+          "frc4322",
+          "frc1661"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm3",
+    "match_number": 3,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 20,
+        "autoPoints": 22,
+        "autoReachPoints": 2,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "D_RockWall",
+        "position2crossings": 2,
+        "position3": "A_ChevalDeFrise",
+        "position3crossings": 1,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "B_Moat",
+        "position5crossings": 0,
+        "tba_rpEarned": 2,
+        "teleopBoulderPoints": 0,
+        "teleopBouldersHigh": 0,
+        "teleopBouldersLow": 0,
+        "teleopChallengePoints": 5,
+        "teleopCrossingPoints": 25,
+        "teleopDefensesBreached": false,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 52
+      },
+      "red": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 10,
+        "autoPoints": 14,
+        "autoReachPoints": 4,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "D_RockWall",
+        "position2crossings": 1,
+        "position3": "A_ChevalDeFrise",
+        "position3crossings": 0,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "B_Moat",
+        "position5crossings": 1,
+        "tba_rpEarned": 0,
+        "teleopBoulderPoints": 2,
+        "teleopBouldersHigh": 0,
+        "teleopBouldersLow": 1,
+        "teleopChallengePoints": 0,
+        "teleopCrossingPoints": 25,
+        "teleopDefensesBreached": false,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 41
+      }
+    },
+    "set_number": 1,
+    "time": 1475948640,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 96,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc980",
+          "frc968",
+          "frc5678"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 98,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc696",
+          "frc5124",
+          "frc4999"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm30",
+    "match_number": 30,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 20,
+        "autoPoints": 20,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 5,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 0,
+        "position3": "B_Ramparts",
+        "position3crossings": 2,
+        "position4": "B_Moat",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 1,
+        "teleopBoulderPoints": 6,
+        "teleopBouldersHigh": 0,
+        "teleopBouldersLow": 3,
+        "teleopChallengePoints": 5,
+        "teleopCrossingPoints": 30,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 30,
+        "teleopTowerCaptured": false,
+        "totalPoints": 96
+      },
+      "red": {
+        "autoBoulderPoints": 5,
+        "autoCrossingPoints": 10,
+        "autoPoints": 15,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 10,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 2,
+        "position3": "B_Ramparts",
+        "position3crossings": 2,
+        "position4": "B_Moat",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 3,
+        "teleopBoulderPoints": 18,
+        "teleopBouldersHigh": 2,
+        "teleopBouldersLow": 4,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 45,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 98
+      }
+    },
+    "set_number": 1,
+    "time": 1475963940,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 94,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3759",
+          "frc5802",
+          "frc5136"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 145,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc9696",
+          "frc3309",
+          "frc3473"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm31",
+    "match_number": 31,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 10,
+        "autoPoints": 12,
+        "autoReachPoints": 2,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 0,
+        "position3": "B_Ramparts",
+        "position3crossings": 2,
+        "position4": "B_Moat",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 1,
+        "tba_rpEarned": 0,
+        "teleopBoulderPoints": 42,
+        "teleopBouldersHigh": 8,
+        "teleopBouldersLow": 1,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 30,
+        "teleopDefensesBreached": false,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 94
+      },
+      "red": {
+        "autoBoulderPoints": 10,
+        "autoCrossingPoints": 20,
+        "autoPoints": 30,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 2,
+        "position3": "B_Ramparts",
+        "position3crossings": 2,
+        "position4": "B_Moat",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 4,
+        "teleopBoulderPoints": 60,
+        "teleopBouldersHigh": 10,
+        "teleopBouldersLow": 5,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 40,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": true,
+        "totalPoints": 145
+      }
+    },
+    "set_number": 1,
+    "time": 1475964360,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 100,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4763",
+          "frc330B",
+          "frc4501"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 89,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc294",
+          "frc4619",
+          "frc2493"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm32",
+    "match_number": 32,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 10,
+        "autoCrossingPoints": 20,
+        "autoPoints": 30,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 10,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 0,
+        "position3": "B_Ramparts",
+        "position3crossings": 2,
+        "position4": "B_Moat",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 3,
+        "teleopBoulderPoints": 25,
+        "teleopBouldersHigh": 5,
+        "teleopBouldersLow": 0,
+        "teleopChallengePoints": 5,
+        "teleopCrossingPoints": 30,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 100
+      },
+      "red": {
+        "autoBoulderPoints": 5,
+        "autoCrossingPoints": 20,
+        "autoPoints": 27,
+        "autoReachPoints": 2,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 2,
+        "position3": "B_Ramparts",
+        "position3crossings": 2,
+        "position4": "B_Moat",
+        "position4crossings": 1,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 1,
+        "teleopBoulderPoints": 12,
+        "teleopBouldersHigh": 2,
+        "teleopBouldersLow": 1,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 35,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 89
+      }
+    },
+    "set_number": 1,
+    "time": 1475964780,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 61,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1661",
+          "frc4276",
+          "frc5678"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 145,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3476",
+          "frc5835",
+          "frc330"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm33",
+    "match_number": 33,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 0,
+        "autoPoints": 0,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 2,
+        "position3": "B_Moat",
+        "position3crossings": 0,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 1,
+        "teleopBoulderPoints": 11,
+        "teleopBouldersHigh": 1,
+        "teleopBouldersLow": 3,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 40,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 61
+      },
+      "red": {
+        "autoBoulderPoints": 20,
+        "autoCrossingPoints": 30,
+        "autoPoints": 50,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 0,
+        "position3": "B_Moat",
+        "position3crossings": 2,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 4,
+        "teleopBoulderPoints": 55,
+        "teleopBouldersHigh": 11,
+        "teleopBouldersLow": 0,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 25,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": true,
+        "totalPoints": 145
+      }
+    },
+    "set_number": 1,
+    "time": 1475965200,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 58,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4999",
+          "frc9322",
+          "frc9696"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 108,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc968",
+          "frc3759",
+          "frc5124"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm34",
+    "match_number": 34,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 20,
+        "autoPoints": 20,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 1,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 2,
+        "position3": "B_Moat",
+        "position3crossings": 1,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 0,
+        "teleopBoulderPoints": 8,
+        "teleopBouldersHigh": 0,
+        "teleopBouldersLow": 4,
+        "teleopChallengePoints": 0,
+        "teleopCrossingPoints": 30,
+        "teleopDefensesBreached": false,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 58
+      },
+      "red": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 30,
+        "autoPoints": 30,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 5,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 1,
+        "position3": "B_Moat",
+        "position3crossings": 2,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 3,
+        "teleopBoulderPoints": 33,
+        "teleopBouldersHigh": 5,
+        "teleopBouldersLow": 4,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 30,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 108
+      }
+    },
+    "set_number": 1,
+    "time": 1475965620,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 82,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4322",
+          "frc4501",
+          "frc2493"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 76,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5835",
+          "frc330B",
+          "frc4276"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm35",
+    "match_number": 35,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 30,
+        "autoPoints": 30,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 2,
+        "position3": "B_Moat",
+        "position3crossings": 2,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 3,
+        "teleopBoulderPoints": 2,
+        "teleopBouldersHigh": 0,
+        "teleopBouldersLow": 1,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 35,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 82
+      },
+      "red": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 10,
+        "autoPoints": 12,
+        "autoReachPoints": 2,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 5,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 2,
+        "position3": "B_Moat",
+        "position3crossings": 2,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 1,
+        "teleopBoulderPoints": 4,
+        "teleopBouldersHigh": 0,
+        "teleopBouldersLow": 2,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 45,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 76
+      }
+    },
+    "set_number": 1,
+    "time": 1475966040,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 145,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5802",
+          "frc294",
+          "frc687"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 87,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5199",
+          "frc5810",
+          "frc5136"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm36",
+    "match_number": 36,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 10,
+        "autoCrossingPoints": 40,
+        "autoPoints": 50,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 2,
+        "position3": "B_Moat",
+        "position3crossings": 2,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 3,
+        "teleopBoulderPoints": 55,
+        "teleopBouldersHigh": 11,
+        "teleopBouldersLow": 0,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 30,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 145
+      },
+      "red": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 30,
+        "autoPoints": 30,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 2,
+        "position3": "B_Moat",
+        "position3crossings": 2,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 1,
+        "teleopBoulderPoints": 12,
+        "teleopBouldersHigh": 0,
+        "teleopBouldersLow": 6,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 35,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 87
+      }
+    },
+    "set_number": 1,
+    "time": 1475966460,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 94,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc696",
+          "frc980",
+          "frc4763"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 80,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3476",
+          "frc3473",
+          "frc1661"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm37",
+    "match_number": 37,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 5,
+        "autoCrossingPoints": 30,
+        "autoPoints": 35,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 2,
+        "position3": "D_RockWall",
+        "position3crossings": 2,
+        "position4": "B_Moat",
+        "position4crossings": 2,
+        "position5": "D_RoughTerrain",
+        "position5crossings": 2,
+        "tba_rpEarned": 3,
+        "teleopBoulderPoints": 14,
+        "teleopBouldersHigh": 0,
+        "teleopBouldersLow": 7,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 35,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 94
+      },
+      "red": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 10,
+        "autoPoints": 10,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 5,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 1,
+        "position3": "D_RockWall",
+        "position3crossings": 2,
+        "position4": "B_Moat",
+        "position4crossings": 2,
+        "position5": "D_RoughTerrain",
+        "position5crossings": 2,
+        "tba_rpEarned": 1,
+        "teleopBoulderPoints": 20,
+        "teleopBouldersHigh": 4,
+        "teleopBouldersLow": 0,
+        "teleopChallengePoints": 5,
+        "teleopCrossingPoints": 40,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 80
+      }
+    },
+    "set_number": 1,
+    "time": 1476028800,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 107,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4619",
+          "frc968",
+          "frc5835"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 140,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3309",
+          "frc4322",
+          "frc5124"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm38",
+    "match_number": 38,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 20,
+        "autoPoints": 22,
+        "autoReachPoints": 2,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 5,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 0,
+        "position3": "D_RockWall",
+        "position3crossings": 2,
+        "position4": "B_Moat",
+        "position4crossings": 2,
+        "position5": "D_RoughTerrain",
+        "position5crossings": 2,
+        "tba_rpEarned": 2,
+        "teleopBoulderPoints": 35,
+        "teleopBouldersHigh": 5,
+        "teleopBouldersLow": 5,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 30,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": true,
+        "totalPoints": 107
+      },
+      "red": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 40,
+        "autoPoints": 40,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 1,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 2,
+        "position3": "D_RockWall",
+        "position3crossings": 2,
+        "position4": "B_Moat",
+        "position4crossings": 2,
+        "position5": "D_RoughTerrain",
+        "position5crossings": 2,
+        "tba_rpEarned": 4,
+        "teleopBoulderPoints": 60,
+        "teleopBouldersHigh": 12,
+        "teleopBouldersLow": 0,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 25,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": true,
+        "totalPoints": 140
+      }
+    },
+    "set_number": 1,
+    "time": 1476029220,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 102,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3476",
+          "frc4501",
+          "frc687"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 127,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1661",
+          "frc330B",
+          "frc5136"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm39",
+    "match_number": 39,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 20,
+        "autoPoints": 22,
+        "autoReachPoints": 2,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 2,
+        "position3": "D_RockWall",
+        "position3crossings": 1,
+        "position4": "B_Moat",
+        "position4crossings": 2,
+        "position5": "D_RoughTerrain",
+        "position5crossings": 2,
+        "tba_rpEarned": 1,
+        "teleopBoulderPoints": 30,
+        "teleopBouldersHigh": 6,
+        "teleopBouldersLow": 0,
+        "teleopChallengePoints": 0,
+        "teleopCrossingPoints": 35,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 15,
+        "teleopTowerCaptured": false,
+        "totalPoints": 102
+      },
+      "red": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 20,
+        "autoPoints": 20,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 5,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 2,
+        "position3": "D_RockWall",
+        "position3crossings": 2,
+        "position4": "B_Moat",
+        "position4crossings": 2,
+        "position5": "D_RoughTerrain",
+        "position5crossings": 2,
+        "tba_rpEarned": 3,
+        "teleopBoulderPoints": 52,
+        "teleopBouldersHigh": 10,
+        "teleopBouldersLow": 1,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 40,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 127
+      }
+    },
+    "set_number": 1,
+    "time": 1476029640,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 75,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5136",
+          "frc3309",
+          "frc968"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 51,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc9696",
+          "frc4501",
+          "frc294"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm4",
+    "match_number": 4,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 0,
+        "autoPoints": 4,
+        "autoReachPoints": 4,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "D_RockWall",
+        "position2crossings": 2,
+        "position3": "A_ChevalDeFrise",
+        "position3crossings": 0,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "B_Moat",
+        "position5crossings": 2,
+        "tba_rpEarned": 3,
+        "teleopBoulderPoints": 26,
+        "teleopBouldersHigh": 4,
+        "teleopBouldersLow": 3,
+        "teleopChallengePoints": 5,
+        "teleopCrossingPoints": 40,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 75
+      },
+      "red": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 10,
+        "autoPoints": 14,
+        "autoReachPoints": 4,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "D_RockWall",
+        "position2crossings": 1,
+        "position3": "A_ChevalDeFrise",
+        "position3crossings": 2,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 1,
+        "position5": "B_Moat",
+        "position5crossings": 0,
+        "tba_rpEarned": 0,
+        "teleopBoulderPoints": 12,
+        "teleopBouldersHigh": 2,
+        "teleopBouldersLow": 1,
+        "teleopChallengePoints": 0,
+        "teleopCrossingPoints": 25,
+        "teleopDefensesBreached": false,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 51
+      }
+    },
+    "set_number": 1,
+    "time": 1475949060,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 71,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4763",
+          "frc4276",
+          "frc9696"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 124,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5810",
+          "frc4999",
+          "frc3309"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm40",
+    "match_number": 40,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 20,
+        "autoPoints": 20,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 2,
+        "position3": "D_RockWall",
+        "position3crossings": 2,
+        "position4": "B_Moat",
+        "position4crossings": 0,
+        "position5": "D_RoughTerrain",
+        "position5crossings": 2,
+        "tba_rpEarned": 1,
+        "teleopBoulderPoints": 16,
+        "teleopBouldersHigh": 0,
+        "teleopBouldersLow": 8,
+        "teleopChallengePoints": 5,
+        "teleopCrossingPoints": 30,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 71
+      },
+      "red": {
+        "autoBoulderPoints": 10,
+        "autoCrossingPoints": 20,
+        "autoPoints": 30,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 2,
+        "position3": "D_RockWall",
+        "position3crossings": 2,
+        "position4": "B_Moat",
+        "position4crossings": 2,
+        "position5": "D_RoughTerrain",
+        "position5crossings": 2,
+        "tba_rpEarned": 4,
+        "teleopBoulderPoints": 39,
+        "teleopBouldersHigh": 7,
+        "teleopBouldersLow": 2,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 40,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": true,
+        "totalPoints": 124
+      }
+    },
+    "set_number": 1,
+    "time": 1476030060,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 66,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc294",
+          "frc3759",
+          "frc980"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 90,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5678",
+          "frc4619",
+          "frc5199"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm41",
+    "match_number": 41,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 0,
+        "autoPoints": 4,
+        "autoReachPoints": 4,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 0,
+        "position2": "B_Ramparts",
+        "position2crossings": 2,
+        "position3": "B_Moat",
+        "position3crossings": 2,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 1,
+        "teleopBoulderPoints": 12,
+        "teleopBouldersHigh": 2,
+        "teleopBouldersLow": 1,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 40,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 66
+      },
+      "red": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 10,
+        "autoPoints": 12,
+        "autoReachPoints": 2,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "B_Ramparts",
+        "position2crossings": 2,
+        "position3": "B_Moat",
+        "position3crossings": 2,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 3,
+        "teleopBoulderPoints": 8,
+        "teleopBouldersHigh": 0,
+        "teleopBouldersLow": 4,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 45,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 15,
+        "teleopTowerCaptured": false,
+        "totalPoints": 90
+      }
+    },
+    "set_number": 1,
+    "time": 1476030480,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 115,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5802",
+          "frc3473",
+          "frc9322"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 134,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc330",
+          "frc2493",
+          "frc696"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm42",
+    "match_number": 42,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 10,
+        "autoCrossingPoints": 20,
+        "autoPoints": 30,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "B_Ramparts",
+        "position2crossings": 0,
+        "position3": "B_Moat",
+        "position3crossings": 2,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 1,
+        "teleopBoulderPoints": 45,
+        "teleopBouldersHigh": 9,
+        "teleopBouldersLow": 0,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 30,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 115
+      },
+      "red": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 20,
+        "autoPoints": 20,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 5,
+        "position1crossings": 2,
+        "position2": "B_Ramparts",
+        "position2crossings": 2,
+        "position3": "B_Moat",
+        "position3crossings": 2,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 4,
+        "teleopBoulderPoints": 54,
+        "teleopBouldersHigh": 8,
+        "teleopBouldersLow": 7,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 40,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": true,
+        "totalPoints": 134
+      }
+    },
+    "set_number": 1,
+    "time": 1476030900,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 38,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3759",
+          "frc1661",
+          "frc4501"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 109,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc980",
+          "frc5136",
+          "frc3309"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm43",
+    "match_number": 43,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 10,
+        "autoPoints": 10,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 5,
+        "position1crossings": 2,
+        "position2": "B_Ramparts",
+        "position2crossings": 0,
+        "position3": "B_Moat",
+        "position3crossings": 0,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 0,
+        "position5": "D_RockWall",
+        "position5crossings": 0,
+        "tba_rpEarned": 0,
+        "teleopBoulderPoints": 8,
+        "teleopBouldersHigh": 0,
+        "teleopBouldersLow": 4,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 5,
+        "teleopDefensesBreached": false,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 38
+      },
+      "red": {
+        "autoBoulderPoints": 10,
+        "autoCrossingPoints": 10,
+        "autoPoints": 20,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 5,
+        "position1crossings": 2,
+        "position2": "B_Ramparts",
+        "position2crossings": 2,
+        "position3": "B_Moat",
+        "position3crossings": 2,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 3,
+        "teleopBoulderPoints": 24,
+        "teleopBouldersHigh": 4,
+        "teleopBouldersLow": 2,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 45,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 109
+      }
+    },
+    "set_number": 1,
+    "time": 1476031320,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 86,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4322",
+          "frc687",
+          "frc4999"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 119,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc968",
+          "frc5835",
+          "frc5802"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm44",
+    "match_number": 44,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 20,
+        "autoPoints": 20,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 5,
+        "position1crossings": 2,
+        "position2": "B_Ramparts",
+        "position2crossings": 2,
+        "position3": "B_Moat",
+        "position3crossings": 2,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 1,
+        "teleopBoulderPoints": 6,
+        "teleopBouldersHigh": 0,
+        "teleopBouldersLow": 3,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 40,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 86
+      },
+      "red": {
+        "autoBoulderPoints": 10,
+        "autoCrossingPoints": 30,
+        "autoPoints": 40,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 5,
+        "position1crossings": 2,
+        "position2": "B_Ramparts",
+        "position2crossings": 2,
+        "position3": "B_Moat",
+        "position3crossings": 1,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": 3,
+        "teleopBoulderPoints": 34,
+        "teleopBouldersHigh": 6,
+        "teleopBouldersLow": 2,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 30,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 119
+      }
+    },
+    "set_number": 1,
+    "time": 1476031740,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 100,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4763",
+          "frc2493",
+          "frc3476"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 131,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc9696",
+          "frc5124",
+          "frc5199"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm45",
+    "match_number": 45,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 30,
+        "autoPoints": 30,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 10,
+        "position1crossings": 2,
+        "position2": "D_RoughTerrain",
+        "position2crossings": 2,
+        "position3": "D_RockWall",
+        "position3crossings": 2,
+        "position4": "B_Ramparts",
+        "position4crossings": 2,
+        "position5": "B_Moat",
+        "position5crossings": 2,
+        "tba_rpEarned": 1,
+        "teleopBoulderPoints": 15,
+        "teleopBouldersHigh": 3,
+        "teleopBouldersLow": 0,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 35,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 100
+      },
+      "red": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 20,
+        "autoPoints": 22,
+        "autoReachPoints": 2,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 5,
+        "position1crossings": 2,
+        "position2": "D_RoughTerrain",
+        "position2crossings": 2,
+        "position3": "D_RockWall",
+        "position3crossings": 2,
+        "position4": "B_Ramparts",
+        "position4crossings": 2,
+        "position5": "B_Moat",
+        "position5crossings": 2,
+        "tba_rpEarned": 4,
+        "teleopBoulderPoints": 39,
+        "teleopBouldersHigh": 5,
+        "teleopBouldersLow": 7,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 40,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 15,
+        "teleopTowerCaptured": true,
+        "totalPoints": 131
+      }
+    },
+    "set_number": 1,
+    "time": 1476032160,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 123,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5810",
+          "frc330",
+          "frc5678"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 133,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc330B",
+          "frc696",
+          "frc294"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm46",
+    "match_number": 46,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 10,
+        "autoCrossingPoints": 20,
+        "autoPoints": 30,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "D_RoughTerrain",
+        "position2crossings": 2,
+        "position3": "D_RockWall",
+        "position3crossings": 2,
+        "position4": "B_Ramparts",
+        "position4crossings": 2,
+        "position5": "B_Moat",
+        "position5crossings": 2,
+        "tba_rpEarned": 2,
+        "teleopBoulderPoints": 38,
+        "teleopBouldersHigh": 6,
+        "teleopBouldersLow": 4,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 40,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": true,
+        "totalPoints": 123
+      },
+      "red": {
+        "autoBoulderPoints": 10,
+        "autoCrossingPoints": 30,
+        "autoPoints": 40,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "D_RoughTerrain",
+        "position2crossings": 2,
+        "position3": "D_RockWall",
+        "position3crossings": 2,
+        "position4": "B_Ramparts",
+        "position4crossings": 2,
+        "position5": "B_Moat",
+        "position5crossings": 2,
+        "tba_rpEarned": 3,
+        "teleopBoulderPoints": 48,
+        "teleopBouldersHigh": 8,
+        "teleopBouldersLow": 4,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 35,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 133
+      }
+    },
+    "set_number": 1,
+    "time": 1476032580,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 90,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4619",
+          "frc9322",
+          "frc4501"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 87,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3473",
+          "frc4276",
+          "frc5136"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm47",
+    "match_number": 47,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 10,
+        "autoPoints": 12,
+        "autoReachPoints": 2,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 5,
+        "position1crossings": 2,
+        "position2": "D_RoughTerrain",
+        "position2crossings": 2,
+        "position3": "D_RockWall",
+        "position3crossings": 2,
+        "position4": "B_Ramparts",
+        "position4crossings": 2,
+        "position5": "B_Moat",
+        "position5crossings": 2,
+        "tba_rpEarned": 3,
+        "teleopBoulderPoints": 18,
+        "teleopBouldersHigh": 2,
+        "teleopBouldersLow": 4,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 45,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 90
+      },
+      "red": {
+        "autoBoulderPoints": 10,
+        "autoCrossingPoints": 20,
+        "autoPoints": 30,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "D_RoughTerrain",
+        "position2crossings": 2,
+        "position3": "D_RockWall",
+        "position3crossings": 2,
+        "position4": "B_Ramparts",
+        "position4crossings": 2,
+        "position5": "B_Moat",
+        "position5crossings": 1,
+        "tba_rpEarned": 1,
+        "teleopBoulderPoints": 17,
+        "teleopBouldersHigh": 1,
+        "teleopBouldersLow": 6,
+        "teleopChallengePoints": 5,
+        "teleopCrossingPoints": 35,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 87
+      }
+    },
+    "set_number": 1,
+    "time": 1476033000,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 103,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc9696",
+          "frc687",
+          "frc330B"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 99,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc696",
+          "frc5678",
+          "frc294"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm48",
+    "match_number": 48,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 30,
+        "autoPoints": 30,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "D_RoughTerrain",
+        "position2crossings": 2,
+        "position3": "D_RockWall",
+        "position3crossings": 2,
+        "position4": "B_Ramparts",
+        "position4crossings": 2,
+        "position5": "B_Moat",
+        "position5crossings": 2,
+        "tba_rpEarned": 3,
+        "teleopBoulderPoints": 28,
+        "teleopBouldersHigh": 4,
+        "teleopBouldersLow": 4,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 35,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 103
+      },
+      "red": {
+        "autoBoulderPoints": 10,
+        "autoCrossingPoints": 20,
+        "autoPoints": 30,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "D_RoughTerrain",
+        "position2crossings": 2,
+        "position3": "D_RockWall",
+        "position3crossings": 2,
+        "position4": "B_Ramparts",
+        "position4crossings": 2,
+        "position5": "B_Moat",
+        "position5crossings": 2,
+        "tba_rpEarned": 1,
+        "teleopBoulderPoints": 19,
+        "teleopBouldersHigh": 1,
+        "teleopBouldersLow": 7,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 40,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 99
+      }
+    },
+    "set_number": 1,
+    "time": 1476033420,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 135,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc1661",
+          "frc5124",
+          "frc330"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 104,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5199",
+          "frc4999",
+          "frc5802"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm49",
+    "match_number": 49,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 10,
+        "autoCrossingPoints": 20,
+        "autoPoints": 30,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 5,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 2,
+        "position3": "B_Ramparts",
+        "position3crossings": 1,
+        "position4": "B_Moat",
+        "position4crossings": 2,
+        "position5": "D_RoughTerrain",
+        "position5crossings": 3,
+        "tba_rpEarned": 2,
+        "teleopBoulderPoints": 50,
+        "teleopBouldersHigh": 10,
+        "teleopBouldersLow": 0,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 40,
+        "teleopDefensesBreached": false,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 135
+      },
+      "red": {
+        "autoBoulderPoints": 10,
+        "autoCrossingPoints": 30,
+        "autoPoints": 40,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 0,
+        "position3": "B_Ramparts",
+        "position3crossings": 0,
+        "position4": "B_Moat",
+        "position4crossings": 2,
+        "position5": "D_RoughTerrain",
+        "position5crossings": 2,
+        "tba_rpEarned": 0,
+        "teleopBoulderPoints": 44,
+        "teleopBouldersHigh": 8,
+        "teleopBouldersLow": 2,
+        "teleopChallengePoints": 5,
+        "teleopCrossingPoints": 15,
+        "teleopDefensesBreached": false,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 104
+      }
+    },
+    "set_number": 1,
+    "time": 1476033840,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 130,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc330B",
+          "frc5199",
+          "frc980"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 79,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2493",
+          "frc5802",
+          "frc1661"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm5",
+    "match_number": 5,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 30,
+        "autoPoints": 30,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 2,
+        "position3": "B_Moat",
+        "position3crossings": 2,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "B_Ramparts",
+        "position5crossings": 2,
+        "tba_rpEarned": 4,
+        "teleopBoulderPoints": 40,
+        "teleopBouldersHigh": 6,
+        "teleopBouldersLow": 5,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 35,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 15,
+        "teleopTowerCaptured": true,
+        "totalPoints": 130
+      },
+      "red": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 10,
+        "autoPoints": 14,
+        "autoReachPoints": 4,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 5,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 0,
+        "position3": "B_Moat",
+        "position3crossings": 1,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "B_Ramparts",
+        "position5crossings": 2,
+        "tba_rpEarned": 0,
+        "teleopBoulderPoints": 25,
+        "teleopBouldersHigh": 5,
+        "teleopBouldersLow": 0,
+        "teleopChallengePoints": 5,
+        "teleopCrossingPoints": 30,
+        "teleopDefensesBreached": false,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 79
+      }
+    },
+    "set_number": 1,
+    "time": 1475949480,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 54,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5835",
+          "frc3473",
+          "frc2493"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 108,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc980",
+          "frc5810",
+          "frc968"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm50",
+    "match_number": 50,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 0,
+        "autoPoints": 0,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 1,
+        "position3": "B_Ramparts",
+        "position3crossings": 2,
+        "position4": "B_Moat",
+        "position4crossings": 2,
+        "position5": "D_RoughTerrain",
+        "position5crossings": 2,
+        "tba_rpEarned": 1,
+        "teleopBoulderPoints": 4,
+        "teleopBouldersHigh": 0,
+        "teleopBouldersLow": 2,
+        "teleopChallengePoints": 5,
+        "teleopCrossingPoints": 45,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 54
+      },
+      "red": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 30,
+        "autoPoints": 30,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 5,
+        "position1crossings": 1,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 2,
+        "position3": "B_Ramparts",
+        "position3crossings": 2,
+        "position4": "B_Moat",
+        "position4crossings": 2,
+        "position5": "D_RoughTerrain",
+        "position5crossings": 2,
+        "tba_rpEarned": 3,
+        "teleopBoulderPoints": 33,
+        "teleopBouldersHigh": 5,
+        "teleopBouldersLow": 4,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 30,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 108
+      }
+    },
+    "set_number": 1,
+    "time": 1476034260,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 127,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4763",
+          "frc3309",
+          "frc3759"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 139,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3476",
+          "frc4276",
+          "frc9322"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm51",
+    "match_number": 51,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 20,
+        "autoPoints": 22,
+        "autoReachPoints": 2,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 2,
+        "position3": "B_Ramparts",
+        "position3crossings": 2,
+        "position4": "B_Moat",
+        "position4crossings": 2,
+        "position5": "D_RoughTerrain",
+        "position5crossings": 2,
+        "tba_rpEarned": 2,
+        "teleopBoulderPoints": 50,
+        "teleopBouldersHigh": 10,
+        "teleopBouldersLow": 0,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 40,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": true,
+        "totalPoints": 127
+      },
+      "red": {
+        "autoBoulderPoints": 10,
+        "autoCrossingPoints": 30,
+        "autoPoints": 40,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 10,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 2,
+        "position3": "B_Ramparts",
+        "position3crossings": 2,
+        "position4": "B_Moat",
+        "position4crossings": 2,
+        "position5": "D_RoughTerrain",
+        "position5crossings": 2,
+        "tba_rpEarned": 4,
+        "teleopBoulderPoints": 39,
+        "teleopBouldersHigh": 7,
+        "teleopBouldersLow": 2,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 35,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": true,
+        "totalPoints": 139
+      }
+    },
+    "set_number": 1,
+    "time": 1476034680,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 74,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4619",
+          "frc5810",
+          "frc1661"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 79,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4322",
+          "frc9696",
+          "frc5678"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm52",
+    "match_number": 52,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 10,
+        "autoCrossingPoints": 20,
+        "autoPoints": 30,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 5,
+        "position1crossings": 0,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 2,
+        "position3": "B_Ramparts",
+        "position3crossings": 2,
+        "position4": "B_Moat",
+        "position4crossings": 2,
+        "position5": "D_RoughTerrain",
+        "position5crossings": 2,
+        "tba_rpEarned": 1,
+        "teleopBoulderPoints": 4,
+        "teleopBouldersHigh": 0,
+        "teleopBouldersLow": 2,
+        "teleopChallengePoints": 5,
+        "teleopCrossingPoints": 30,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 74
+      },
+      "red": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 10,
+        "autoPoints": 12,
+        "autoReachPoints": 2,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 1,
+        "position3": "B_Ramparts",
+        "position3crossings": 2,
+        "position4": "B_Moat",
+        "position4crossings": 2,
+        "position5": "D_RoughTerrain",
+        "position5crossings": 2,
+        "tba_rpEarned": 3,
+        "teleopBoulderPoints": 12,
+        "teleopBouldersHigh": 0,
+        "teleopBouldersLow": 6,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 40,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 79
+      }
+    },
+    "set_number": 1,
+    "time": 1476035100,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 137,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4999",
+          "frc330",
+          "frc5136"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 76,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc2493",
+          "frc687",
+          "frc3759"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm53",
+    "match_number": 53,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 20,
+        "autoPoints": 20,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "B_Moat",
+        "position2crossings": 2,
+        "position3": "B_Ramparts",
+        "position3crossings": 2,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "A_ChevalDeFrise",
+        "position5crossings": 2,
+        "tba_rpEarned": 4,
+        "teleopBoulderPoints": 62,
+        "teleopBouldersHigh": 12,
+        "teleopBouldersLow": 1,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 40,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": true,
+        "totalPoints": 137
+      },
+      "red": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 20,
+        "autoPoints": 22,
+        "autoReachPoints": 2,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 5,
+        "position1crossings": 1,
+        "position2": "B_Moat",
+        "position2crossings": 2,
+        "position3": "B_Ramparts",
+        "position3crossings": 2,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "A_ChevalDeFrise",
+        "position5crossings": 2,
+        "tba_rpEarned": 1,
+        "teleopBoulderPoints": 4,
+        "teleopBouldersHigh": 0,
+        "teleopBouldersLow": 2,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 35,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 76
+      }
+    },
+    "set_number": 1,
+    "time": 1476035520,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 158,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc696",
+          "frc3309",
+          "frc5835"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 147,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5199",
+          "frc3476",
+          "frc330B"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm54",
+    "match_number": 54,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 5,
+        "autoCrossingPoints": 20,
+        "autoPoints": 27,
+        "autoReachPoints": 2,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "B_Moat",
+        "position2crossings": 2,
+        "position3": "B_Ramparts",
+        "position3crossings": 2,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "A_ChevalDeFrise",
+        "position5crossings": 2,
+        "tba_rpEarned": 4,
+        "teleopBoulderPoints": 66,
+        "teleopBouldersHigh": 10,
+        "teleopBouldersLow": 8,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 40,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 15,
+        "teleopTowerCaptured": true,
+        "totalPoints": 158
+      },
+      "red": {
+        "autoBoulderPoints": 10,
+        "autoCrossingPoints": 30,
+        "autoPoints": 40,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 5,
+        "position1crossings": 2,
+        "position2": "B_Moat",
+        "position2crossings": 2,
+        "position3": "B_Ramparts",
+        "position3crossings": 2,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "A_ChevalDeFrise",
+        "position5crossings": 2,
+        "tba_rpEarned": 2,
+        "teleopBoulderPoints": 42,
+        "teleopBouldersHigh": 8,
+        "teleopBouldersLow": 1,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 35,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 15,
+        "teleopTowerCaptured": true,
+        "totalPoints": 147
+      }
+    },
+    "set_number": 1,
+    "time": 1476035940,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 83,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4322",
+          "frc294",
+          "frc3473"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 87,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5124",
+          "frc4763",
+          "frc9322"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm55",
+    "match_number": 55,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 20,
+        "autoPoints": 22,
+        "autoReachPoints": 2,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 5,
+        "position1crossings": 2,
+        "position2": "B_Moat",
+        "position2crossings": 2,
+        "position3": "B_Ramparts",
+        "position3crossings": 0,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "A_ChevalDeFrise",
+        "position5crossings": 2,
+        "tba_rpEarned": 1,
+        "teleopBoulderPoints": 16,
+        "teleopBouldersHigh": 2,
+        "teleopBouldersLow": 3,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 30,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 83
+      },
+      "red": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 20,
+        "autoPoints": 22,
+        "autoReachPoints": 2,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 10,
+        "position1crossings": 2,
+        "position2": "B_Moat",
+        "position2crossings": 2,
+        "position3": "B_Ramparts",
+        "position3crossings": 2,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "A_ChevalDeFrise",
+        "position5crossings": 0,
+        "tba_rpEarned": 3,
+        "teleopBoulderPoints": 15,
+        "teleopBouldersHigh": 3,
+        "teleopBouldersLow": 0,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 30,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 87
+      }
+    },
+    "set_number": 1,
+    "time": 1476036360,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 91,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4619",
+          "frc980",
+          "frc5802"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 101,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc968",
+          "frc4276",
+          "frc4501"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm56",
+    "match_number": 56,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 20,
+        "autoPoints": 22,
+        "autoReachPoints": 2,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "B_Moat",
+        "position2crossings": 2,
+        "position3": "B_Ramparts",
+        "position3crossings": 2,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "A_ChevalDeFrise",
+        "position5crossings": 0,
+        "tba_rpEarned": 1,
+        "teleopBoulderPoints": 29,
+        "teleopBouldersHigh": 5,
+        "teleopBouldersLow": 2,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 30,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 91
+      },
+      "red": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 20,
+        "autoPoints": 22,
+        "autoReachPoints": 2,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "B_Moat",
+        "position2crossings": 0,
+        "position3": "B_Ramparts",
+        "position3crossings": 2,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "A_ChevalDeFrise",
+        "position5crossings": 2,
+        "tba_rpEarned": 4,
+        "teleopBoulderPoints": 34,
+        "teleopBouldersHigh": 4,
+        "teleopBouldersLow": 7,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 30,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": true,
+        "totalPoints": 101
+      }
+    },
+    "set_number": 1,
+    "time": 1476036780,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 82,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5136",
+          "frc294",
+          "frc9322"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 77,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3759",
+          "frc5835",
+          "frc5810"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm6",
+    "match_number": 6,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 30,
+        "autoPoints": 30,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 1,
+        "position3": "B_Moat",
+        "position3crossings": 0,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "B_Ramparts",
+        "position5crossings": 2,
+        "tba_rpEarned": 2,
+        "teleopBoulderPoints": 27,
+        "teleopBouldersHigh": 5,
+        "teleopBouldersLow": 1,
+        "teleopChallengePoints": 5,
+        "teleopCrossingPoints": 20,
+        "teleopDefensesBreached": false,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 82
+      },
+      "red": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 20,
+        "autoPoints": 26,
+        "autoReachPoints": 6,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 0,
+        "position3": "B_Moat",
+        "position3crossings": 2,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "B_Ramparts",
+        "position5crossings": 2,
+        "tba_rpEarned": 1,
+        "teleopBoulderPoints": 11,
+        "teleopBouldersHigh": 1,
+        "teleopBouldersLow": 3,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 30,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 77
+      }
+    },
+    "set_number": 1,
+    "time": 1475949900,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 69,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3476",
+          "frc9696",
+          "frc3473"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 141,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4619",
+          "frc687",
+          "frc330"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm7",
+    "match_number": 7,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 10,
+        "autoCrossingPoints": 10,
+        "autoPoints": 20,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 0,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 2,
+        "position3": "B_Moat",
+        "position3crossings": 1,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "B_Ramparts",
+        "position5crossings": 0,
+        "tba_rpEarned": 0,
+        "teleopBoulderPoints": 24,
+        "teleopBouldersHigh": 4,
+        "teleopBouldersLow": 2,
+        "teleopChallengePoints": 5,
+        "teleopCrossingPoints": 20,
+        "teleopDefensesBreached": false,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 69
+      },
+      "red": {
+        "autoBoulderPoints": 10,
+        "autoCrossingPoints": 10,
+        "autoPoints": 26,
+        "autoReachPoints": 6,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 5,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 2,
+        "position3": "B_Moat",
+        "position3crossings": 2,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "B_Ramparts",
+        "position5crossings": 2,
+        "tba_rpEarned": 4,
+        "teleopBoulderPoints": 50,
+        "teleopBouldersHigh": 10,
+        "teleopBouldersLow": 0,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 45,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": true,
+        "totalPoints": 141
+      }
+    },
+    "set_number": 1,
+    "time": 1475950320,
+    "videos": [],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 100,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5124",
+          "frc5802",
+          "frc5678"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 90,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc4276",
+          "frc4501",
+          "frc4999"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm8",
+    "match_number": 8,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 20,
+        "autoPoints": 20,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 2,
+        "position3": "B_Moat",
+        "position3crossings": 0,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "B_Ramparts",
+        "position5crossings": 2,
+        "tba_rpEarned": 3,
+        "teleopBoulderPoints": 35,
+        "teleopBouldersHigh": 7,
+        "teleopBouldersLow": 0,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 30,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 100
+      },
+      "red": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 20,
+        "autoPoints": 24,
+        "autoReachPoints": 4,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 10,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 2,
+        "position3": "B_Moat",
+        "position3crossings": 2,
+        "position4": "D_RoughTerrain",
+        "position4crossings": 2,
+        "position5": "B_Ramparts",
+        "position5crossings": 0,
+        "tba_rpEarned": 1,
+        "teleopBoulderPoints": 16,
+        "teleopBouldersHigh": 0,
+        "teleopBouldersLow": 8,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 30,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 90
+      }
+    },
+    "set_number": 1,
+    "time": 1475950740,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 123,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc330B",
+          "frc2493",
+          "frc5199"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 86,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc968",
+          "frc4322",
+          "frc4763"
+        ]
+      }
+    },
+    "comp_level": "qm",
+    "event_key": "2016cabl",
+    "key": "2016cabl_qm9",
+    "match_number": 9,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 30,
+        "autoPoints": 30,
+        "autoReachPoints": 0,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "B_Moat",
+        "position2crossings": 2,
+        "position3": "D_RoughTerrain",
+        "position3crossings": 2,
+        "position4": "A_ChevalDeFrise",
+        "position4crossings": 2,
+        "position5": "B_Ramparts",
+        "position5crossings": 2,
+        "tba_rpEarned": 3,
+        "teleopBoulderPoints": 33,
+        "teleopBouldersHigh": 5,
+        "teleopBouldersLow": 4,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 35,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 15,
+        "teleopTowerCaptured": false,
+        "totalPoints": 123
+      },
+      "red": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 20,
+        "autoPoints": 26,
+        "autoReachPoints": 6,
+        "breachPoints": 0,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "B_Moat",
+        "position2crossings": 2,
+        "position3": "D_RoughTerrain",
+        "position3crossings": 2,
+        "position4": "A_ChevalDeFrise",
+        "position4crossings": 1,
+        "position5": "B_Ramparts",
+        "position5crossings": 2,
+        "tba_rpEarned": 1,
+        "teleopBoulderPoints": 20,
+        "teleopBouldersHigh": 4,
+        "teleopBouldersLow": 0,
+        "teleopChallengePoints": 5,
+        "teleopCrossingPoints": 35,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 86
+      }
+    },
+    "set_number": 1,
+    "time": 1475951160,
+    "videos": [],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 117,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc294",
+          "frc5810",
+          "frc4501"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 235,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc330",
+          "frc3309",
+          "frc5835"
+        ]
+      }
+    },
+    "comp_level": "sf",
+    "event_key": "2016cabl",
+    "key": "2016cabl_sf1m1",
+    "match_number": 1,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 30,
+        "autoPoints": 30,
+        "autoReachPoints": 0,
+        "breachPoints": 20,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "",
+        "position2crossings": 1,
+        "position3": "",
+        "position3crossings": 2,
+        "position4": "",
+        "position4crossings": 2,
+        "position5": "",
+        "position5crossings": 2,
+        "tba_rpEarned": null,
+        "teleopBoulderPoints": 27,
+        "teleopBouldersHigh": 3,
+        "teleopBouldersLow": 6,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 30,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 117
+      },
+      "red": {
+        "autoBoulderPoints": 20,
+        "autoCrossingPoints": 20,
+        "autoPoints": 40,
+        "autoReachPoints": 0,
+        "breachPoints": 20,
+        "capturePoints": 25,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "",
+        "position2crossings": 2,
+        "position3": "",
+        "position3crossings": 2,
+        "position4": "",
+        "position4crossings": 2,
+        "position5": "",
+        "position5crossings": 2,
+        "tba_rpEarned": null,
+        "teleopBoulderPoints": 75,
+        "teleopBouldersHigh": 15,
+        "teleopBouldersLow": 0,
+        "teleopChallengePoints": 5,
+        "teleopCrossingPoints": 40,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 30,
+        "teleopTowerCaptured": true,
+        "totalPoints": 235
+      }
+    },
+    "set_number": 1,
+    "time": 1476050842,
+    "videos": [
+      {
+        "key": "EV4vVKkZjv8",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 126,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc294",
+          "frc5810",
+          "frc4501"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 210,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc330",
+          "frc3309",
+          "frc5835"
+        ]
+      }
+    },
+    "comp_level": "sf",
+    "event_key": "2016cabl",
+    "key": "2016cabl_sf1m2",
+    "match_number": 2,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 30,
+        "autoPoints": 30,
+        "autoReachPoints": 0,
+        "breachPoints": 20,
+        "capturePoints": 0,
+        "foulPoints": 5,
+        "position1crossings": 2,
+        "position2": "B_Moat",
+        "position2crossings": 2,
+        "position3": "D_RockWall",
+        "position3crossings": 2,
+        "position4": "A_ChevalDeFrise",
+        "position4crossings": 2,
+        "position5": "B_Ramparts",
+        "position5crossings": 2,
+        "tba_rpEarned": null,
+        "teleopBoulderPoints": 26,
+        "teleopBouldersHigh": 4,
+        "teleopBouldersLow": 3,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 35,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 126
+      },
+      "red": {
+        "autoBoulderPoints": 10,
+        "autoCrossingPoints": 20,
+        "autoPoints": 30,
+        "autoReachPoints": 0,
+        "breachPoints": 20,
+        "capturePoints": 25,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "A_ChevalDeFrise",
+        "position2crossings": 2,
+        "position3": "B_Ramparts",
+        "position3crossings": 2,
+        "position4": "B_Moat",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": null,
+        "teleopBoulderPoints": 60,
+        "teleopBouldersHigh": 12,
+        "teleopBouldersLow": 0,
+        "teleopChallengePoints": 5,
+        "teleopCrossingPoints": 40,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 30,
+        "teleopTowerCaptured": true,
+        "totalPoints": 210
+      }
+    },
+    "set_number": 1,
+    "time": 1476052581,
+    "videos": [
+      {
+        "key": "E3t5F9h4JmE",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "red"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 177,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5802",
+          "frc330B",
+          "frc2493"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 114,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3476",
+          "frc5124",
+          "frc4322"
+        ]
+      }
+    },
+    "comp_level": "sf",
+    "event_key": "2016cabl",
+    "key": "2016cabl_sf2m1",
+    "match_number": 1,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 30,
+        "autoPoints": 30,
+        "autoReachPoints": 0,
+        "breachPoints": 20,
+        "capturePoints": 25,
+        "foulPoints": 5,
+        "position1crossings": 2,
+        "position2": "D_RockWall",
+        "position2crossings": 1,
+        "position3": "B_Ramparts",
+        "position3crossings": 2,
+        "position4": "B_Moat",
+        "position4crossings": 2,
+        "position5": "A_ChevalDeFrise",
+        "position5crossings": 2,
+        "tba_rpEarned": null,
+        "teleopBoulderPoints": 52,
+        "teleopBouldersHigh": 10,
+        "teleopBouldersLow": 1,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 30,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": true,
+        "totalPoints": 177
+      },
+      "red": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 10,
+        "autoPoints": 14,
+        "autoReachPoints": 4,
+        "breachPoints": 20,
+        "capturePoints": 0,
+        "foulPoints": 5,
+        "position1crossings": 2,
+        "position2": "B_Moat",
+        "position2crossings": 2,
+        "position3": "B_Ramparts",
+        "position3crossings": 0,
+        "position4": "A_ChevalDeFrise",
+        "position4crossings": 2,
+        "position5": "D_RockWall",
+        "position5crossings": 2,
+        "tba_rpEarned": null,
+        "teleopBoulderPoints": 30,
+        "teleopBouldersHigh": 6,
+        "teleopBouldersLow": 0,
+        "teleopChallengePoints": 10,
+        "teleopCrossingPoints": 35,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 114
+      }
+    },
+    "set_number": 2,
+    "time": 1476051972,
+    "videos": [
+      {
+        "key": "-AXtMjZQQqQ",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "blue"
+  },
+  {
+    "actual_time": null,
+    "alliances": {
+      "blue": {
+        "dq_team_keys": [],
+        "score": 137,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc5802",
+          "frc330B",
+          "frc2493"
+        ]
+      },
+      "red": {
+        "dq_team_keys": [],
+        "score": 127,
+        "surrogate_team_keys": [],
+        "team_keys": [
+          "frc3476",
+          "frc5124",
+          "frc4322"
+        ]
+      }
+    },
+    "comp_level": "sf",
+    "event_key": "2016cabl",
+    "key": "2016cabl_sf2m2",
+    "match_number": 2,
+    "post_result_time": null,
+    "predicted_time": null,
+    "score_breakdown": {
+      "blue": {
+        "autoBoulderPoints": 0,
+        "autoCrossingPoints": 30,
+        "autoPoints": 30,
+        "autoReachPoints": 0,
+        "breachPoints": 20,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "D_RockWall",
+        "position2crossings": 2,
+        "position3": "B_Ramparts",
+        "position3crossings": 2,
+        "position4": "B_Moat",
+        "position4crossings": 1,
+        "position5": "A_ChevalDeFrise",
+        "position5crossings": 2,
+        "tba_rpEarned": null,
+        "teleopBoulderPoints": 42,
+        "teleopBouldersHigh": 8,
+        "teleopBouldersLow": 1,
+        "teleopChallengePoints": 15,
+        "teleopCrossingPoints": 30,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 137
+      },
+      "red": {
+        "autoBoulderPoints": 10,
+        "autoCrossingPoints": 30,
+        "autoPoints": 40,
+        "autoReachPoints": 0,
+        "breachPoints": 20,
+        "capturePoints": 0,
+        "foulPoints": 0,
+        "position1crossings": 2,
+        "position2": "D_RockWall",
+        "position2crossings": 0,
+        "position3": "B_Ramparts",
+        "position3crossings": 2,
+        "position4": "A_ChevalDeFrise",
+        "position4crossings": 2,
+        "position5": "B_Moat",
+        "position5crossings": 2,
+        "tba_rpEarned": null,
+        "teleopBoulderPoints": 37,
+        "teleopBouldersHigh": 7,
+        "teleopBouldersLow": 1,
+        "teleopChallengePoints": 5,
+        "teleopCrossingPoints": 25,
+        "teleopDefensesBreached": true,
+        "teleopScalePoints": 0,
+        "teleopTowerCaptured": false,
+        "totalPoints": 127
+      }
+    },
+    "set_number": 2,
+    "time": 1476053266,
+    "videos": [
+      {
+        "key": "C4BDBS5AplI",
+        "type": "youtube"
+      }
+    ],
+    "winning_alliance": "blue"
+  }
+]
