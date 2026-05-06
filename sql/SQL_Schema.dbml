@@ -1,21 +1,15 @@
-// SQL Schema
 // Use DBML to define your database structure
 // Docs: https://dbml.dbdiagram.io/docs
 
-Table Seasons {
-  year integer  [not null]
-  gameName varchar
-  gameID integer [not null, pk]
-
-}
-
 Table Districts{
-  districtCode varchar [not null, pk]
+  districtkey varchar [not null, pk]
+  districtCode varchar
   districtName varchar
 }
 
 Table TeamInfo {
-  teamNumber integer  [not null]
+  teamKey integer  [not null, pk]
+  teamNumber integer
   nameFull varchar
   nameShort varchar
   districtCode varchar [ref: > Districts.districtCode]
@@ -27,43 +21,33 @@ Table TeamInfo {
 
 
 Table Events {
-  gameID integer [not null, ref: > Seasons.gameID]
-  eventCode varchar [not null]
+  eventKey varchar [not null, pk]
+  year integer [not null]
   event varchar
   eventType varchar 
   date date
   location varchar
   Webcast varchar
   weekNumber integer
-  districtCode varchar
-
-  indexes {
-    (gameID, eventCode) [pk, unique] // composite pk
-  }
+  districtKey varchar [ref: > Districts.districtkey]
 }
 
 
 table MatchTable {
-  gameID integer  [not null]
-  eventCode varchar  [not null]
-  matchType varchar [not null]
-  matchID integer [not null]
-  matchKey integer [not null, pk, unique]
-
-  indexes {
-    (gameID,eventCode,matchType,matchID) [unique]
-  }
+  matchKey varchar [not null, pk, unique]
+  eventKey varchar [not null, ref: > Events.eventKey]
+  year integer
+  matchLevel varchar
 }
-Ref: MatchTable.(gameID,eventCode) > Events.(gameID,eventCode) 
 
 
 Table MatchTeams {
   matchKey integer [not null, ref: > MatchTable.matchKey]
-  teamNumber integer [not null, ref: > TeamInfo.teamNumber ]
+  teamKey integer [not null, ref: > TeamInfo.teamKey ]
   alliance varchar [not null]
   
   indexes {
-    (matchKey, teamNumber) [pk, unique] // composite PK
+    (matchKey, teamKey) [pk, unique] // composite PK
   }
 }
 
