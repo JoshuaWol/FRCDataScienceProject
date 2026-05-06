@@ -8,7 +8,7 @@ Table Districts{
 }
 
 Table TeamInfo {
-  teamKey integer  [not null, pk , unique]
+  teamKey varchar  [not null, pk , unique]
   teamNumber integer
   nameFull varchar
   nameShort varchar
@@ -42,8 +42,8 @@ Table MatchTable {
 
 
 Table MatchTeams {
-  matchKey integer [not null, ref: > MatchTable.matchKey]
-  teamKey integer [not null, ref: > TeamInfo.teamKey ]
+  matchKey varchar [not null, ref: > MatchTable.matchKey]
+  teamKey varchar [not null, ref: > TeamInfo.teamKey ]
   alliance varchar [not null]
   
   indexes {
@@ -53,7 +53,7 @@ Table MatchTeams {
 
 
 Table MatchData2026 {
-  matchKey integer [ not null, ref: > MatchTable.matchKey]
+  matchKey varchar [ not null, ref: > MatchTable.matchKey]
   alliance integer  [not null]
   totalScore  integer
   teleopCount integer
