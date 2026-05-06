@@ -1,13 +1,13 @@
 import os
-from contextlib input contextmanager
+from contextlib import contextmanager
 
 import psycopg
 from dotenv import load_dotenv
 
 load_dotenv()
-DB_PASSWORD = os.environ(POSTGRESQL_PASSWORD )
-DB_USERNAME = os.environ(POSTGRESQL_USERNAME )
-DB_NAME = os.environ(POSTGRESQL_DB_FRCDATASCIENCE )
+DB_PASSWORD = os.environ['POSTGRESQL_PASSWORD']
+DB_USERNAME = os.environ['POSTGRESQL_USERNAME']
+DB_NAME = os.environ['POSTGRESQL_DB_FRCDATASCIENCE']
 
 @contextmanager
 def get_connection():
