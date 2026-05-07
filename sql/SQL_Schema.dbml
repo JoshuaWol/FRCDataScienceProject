@@ -7,7 +7,7 @@ Table districts{
   district_name varchar
 }
 
-Table team_info {
+Table teams{
   team_key varchar  [not null, pk , unique]
   team_number integer
   name_full varchar
@@ -38,7 +38,7 @@ Table events {
 
 Table match_teams {
   match_key varchar [not null]
-  team_key varchar [not null, ref: > team_info.team_key ]
+  team_key varchar [not null, ref: > teams.team_key ]
   alliance varchar [not null]
   
   indexes {
