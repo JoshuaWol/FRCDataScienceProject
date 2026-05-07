@@ -30,7 +30,7 @@ def get_psycopg_connection():
 
 
 @contextmanager
-def get_sqlachemy_connection():
+def get_sqlalchemy_connection():
     with ENGINE.begin() as conn:
         yield conn
 

@@ -1,6 +1,6 @@
 -- SQL dump generated using DBML (dbml.dbdiagram.io)
 -- Database: PostgreSQL
--- Generated at: 2026-05-07T00:30:50.585Z
+-- Generated at: 2026-05-07T15:17:19.983Z
 
 CREATE TABLE "districts" (
   "district_key" varchar UNIQUE PRIMARY KEY NOT NULL,
@@ -8,7 +8,7 @@ CREATE TABLE "districts" (
   "district_name" varchar
 );
 
-CREATE TABLE "team_info" (
+CREATE TABLE "teams" (
   "team_key" varchar UNIQUE PRIMARY KEY NOT NULL,
   "team_number" integer,
   "name_full" varchar,
@@ -70,11 +70,11 @@ CREATE TABLE "match_data_2026" (
   PRIMARY KEY ("match_key", "alliance")
 );
 
-ALTER TABLE "team_info" ADD FOREIGN KEY ("district_key") REFERENCES "districts" ("district_key") DEFERRABLE INITIALLY IMMEDIATE;
+ALTER TABLE "teams" ADD FOREIGN KEY ("district_key") REFERENCES "districts" ("district_key") DEFERRABLE INITIALLY IMMEDIATE;
 
 ALTER TABLE "events" ADD FOREIGN KEY ("district_key") REFERENCES "districts" ("district_key") DEFERRABLE INITIALLY IMMEDIATE;
 
-ALTER TABLE "match_teams" ADD FOREIGN KEY ("team_key") REFERENCES "team_info" ("team_key") DEFERRABLE INITIALLY IMMEDIATE;
+ALTER TABLE "match_teams" ADD FOREIGN KEY ("team_key") REFERENCES "teams" ("team_key") DEFERRABLE INITIALLY IMMEDIATE;
 
 ALTER TABLE "match_data_2026" ADD FOREIGN KEY ("event_key") REFERENCES "events" ("event_key") DEFERRABLE INITIALLY IMMEDIATE;
 

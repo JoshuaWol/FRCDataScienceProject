@@ -1,0 +1,48 @@
+import pandas as pd
+import json
+from pathlib import Path
+import subprocess
+
+
+from api.frc_and_tba_api_url_builders import *
+from api.pull_and_save_api_url_data import *
+from sql.write_df_to_sql import write_df_to_postgres
+
+
+REPO_ROOT = Path(subprocess.check_output(["git", "rev-parse", "--show-toplevel"], text=True).strip())
+TEAMS_FOLDER = REPO_ROOT / 'api' / 'json' / 'teams_data'
+SAVE_PATH = REPO_ROOT / 'sql' / 'jsons_of_sql_tables'/ 'teams_in_frc.json'
+
+
+
+team_numbers = set()
+team_list_for_conv_df = []
+team_files = [p.name for p in Path(TEAMS_FOLDER).iterdir() if p.is_file()]
+for file_name in team_files:
+        loop_path = TEAMS_FOLDER / file_name
+        district_code = file_name.split('|')[2][4:]
+        print(district_code)
+        with open(loop_path) as loop_file:
+              loop_data = json.load(loop_file)
+        for teams_entry in loop_data:
+                loop_team_number = teams_entry['team_number']
+                if loop_team_number not in team_numbers:
+                    team_list_for_conv_df.append({
+                            'team_key':teams_entry['key'],
+                            'team_number':loop_team_number,
+                            'name_full':teams_entry.get('name'),
+                            'district_key': district_code,
+                            'rookie_year':teams_entry.get('rookie_year'),
+                            'city': teams_entry.get('city'),
+                            'state_prov': teams_entry.get('state_prov'),
+                            'country': teams_entry.get('country'),
+                            'postal_code':teams_entry.get('postal_code'),
+                            })
+                else:
+                    print('skip')
+                team_numbers.add(loop_team_number)
+                
+team_df = pd.DataFrame(team_list_for_conv_df)
+team_json = team_df.to_json(SAVE_PATH, orient = 'records', indent = 2)
+
+write_df_to_postgres(team_df, 'teams_info', if_exists = "append")

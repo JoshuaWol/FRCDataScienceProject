@@ -34,5 +34,5 @@ for file_name in district_files:
 district_df = pd.DataFrame(district_list_for_conv_df)
 district_json = district_df.to_json(SAVE_PATH, orient = 'records', indent = 2)
 
-write_df_to_postgres(district_df, 'districts')
+write_df_to_postgres(district_df, 'districts', if_exists = "append")
 

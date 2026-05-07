@@ -4,9 +4,6 @@ from pathlib import Path
 import subprocess
 
 
-from api.frc_and_tba_api_url_builders import *
-from api.pull_and_save_api_url_data import *
-from sql.data_science_db import get_sqlachemy_connection
 from sql.write_df_to_sql import write_df_to_postgres
 
 
@@ -46,4 +43,4 @@ for file_name in team_files:
 team_df = pd.DataFrame(team_list_for_conv_df)
 team_json = team_df.to_json(SAVE_PATH, orient = 'records', indent = 2)
 
-write_df_to_postgres(team_df, 'teams_info')
+write_df_to_postgres(team_df, 'teams', if_exists = "append")

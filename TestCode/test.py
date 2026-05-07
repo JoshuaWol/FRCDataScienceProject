@@ -1,10 +1,6 @@
-import json
-import requests
-
-
 from api.get_credentials import get_frc_credentials
-from api.frc_and_tba_api_url_builders import *
-from api.pull_and_save_api_url_data import *
+from api.frc_and_tba_api_url_builders import * #no qa
+from api.pull_and_save_api_url_data import  pull_and_save_tba_api_data
 
 headers = {"Authorization": f"Basic {get_frc_credentials()}"}
 

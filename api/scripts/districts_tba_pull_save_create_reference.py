@@ -3,8 +3,8 @@ from pathlib import Path
 import subprocess
 
 
-from api.frc_and_tba_api_url_builders import *
-from api.pull_and_save_api_url_data import *
+from api.frc_and_tba_api_url_builders import build_tba_districts_url
+from api.pull_and_save_api_url_data import pull_and_save_tba_api_data
 
 
 REPO_ROOT = Path(subprocess.check_output(["git", "rev-parse", "--show-toplevel"], text=True).strip())
