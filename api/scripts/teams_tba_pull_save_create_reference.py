@@ -10,7 +10,6 @@ from api.pull_and_save_api_url_data import *
 
 
 REPO_ROOT = Path(subprocess.check_output(["git", "rev-parse", "--show-toplevel"], text=True).strip())
-EVENTS_FOLDER = REPO_ROOT / 'api' / 'json' / 'events_data'
 TEAMS_FOLDER = REPO_ROOT / 'api' / 'json' / 'teams_data'
 DISTRICT_REFERENCE_FILE = REPO_ROOT / 'api' / 'json' / 'reference_data' / "district_keys_by_year.json"
 SAVE_PATH = REPO_ROOT / 'api' / 'json' / 'reference_data'/ 'teams_numbers_by_year.json'
