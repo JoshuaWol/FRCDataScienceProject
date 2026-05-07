@@ -1,82 +1,83 @@
 // Use DBML to define your database structure
 // Docs: https://dbml.dbdiagram.io/docs
 
-Table Districts{
-  districtKey varchar [not null, pk, unique]
-  districtCode varchar
-  districtName varchar
+Table districts{
+  district_key varchar [not null, pk, unique]
+  district_code varchar
+  district_name varchar
 }
 
-Table TeamInfo {
-  teamKey varchar  [not null, pk , unique]
-  teamNumber integer
-  nameFull varchar
-  nameShort varchar
-  districtKey varchar [ref: > Districts.districtKey]
-  rookieYear integer
+Table team_info {
+  team_key varchar  [not null, pk , unique]
+  team_number integer
+  name_full varchar
+  name_short varchar
+  district_key varchar [ref: > districts.district_key]
+  rookie_year int
   city varchar
-  stateProv varchar
+  state_prov varchar
   country varchar
+  postal_code varchar
 }
 
 
-Table Events {
-  eventKey varchar [not null, pk , unique]
+Table events {
+  event_key varchar [not null, pk , unique]
   year integer [not null]
   event varchar
-  eventType varchar 
+  event_type varchar
+  event_code varchar 
   date date
   location varchar
-  Webcast varchar
-  weekNumber integer
-  districtKey varchar [ref: > Districts.districtKey]
+  webcast varchar
+  week integer
+  district_key varchar [ref: > districts.district_key]
 }
 
 
-Table MatchTable {
-  matchKey varchar [not null, pk, unique ]
-  eventKey varchar [not null, ref: > Events.eventKey]
-  year integer
-  matchLevel varchar
-}
 
-
-Table MatchTeams {
-  matchKey varchar [not null, ref: > MatchTable.matchKey]
-  teamKey varchar [not null, ref: > TeamInfo.teamKey ]
+Table match_teams {
+  match_key varchar [not null]
+  team_key varchar [not null, ref: > team_info.team_key ]
   alliance varchar [not null]
   
   indexes {
-    (matchKey, teamKey) [pk, unique] // composite PK
+    (match_key, team_key) [pk, unique] // composite PK
   }
 }
 
-
-Table MatchData2026 {
-  matchKey varchar [ not null, ref: > MatchTable.matchKey]
+Table match_data_2026 {
+  match_key varchar [ not null, ref: <> match_teams.match_key]
   alliance integer  [not null]
-  totalScore  integer
-  teleopCount integer
-  autoScore integer
-  shift1Points integer
-  shift2Points integer
-  shift3Points integer
-  shift4Points integer
-  endgamePoints integer
-  autoTowerPoints integer
-  totalAutoPoints integer
-  endgameTowerPoints integer
-  totalTowerPoints integer
-  minorFoulCount integer
-  majorFoulCount integer
-  foulPoints integer
-  adjustPoins integer
-  RP integer
+  total_score  integer
+  teleop_count integer
+  auto_points integer
+  transition_points integer
+  uncounted_points integer
+  teleop_points integer
+  shift1_points integer
+  shift2_points integer
+  shift3_points integer
+  shift4_points integer
+  endgame_points integer
+  total_auto_points integer
+  auto_tower_points integer
+  end_game_tower_points integer
+  total_tower_points integer
+  minor_foul_count integer
+  major_foul_count integer
+  foul_points integer
+  adjust_points integer
+  ranking_points integer
+  video_key varchar
+  video_type varchar
 
   indexes {
-    (matchKey, alliance) [pk, unique] //composite pk
+    (match_key, alliance) [pk, unique] //composite pk
   }
 }
+
+
 
 
 
