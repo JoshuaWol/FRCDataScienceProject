@@ -1,19 +1,19 @@
 -- SQL dump generated using DBML (dbml.dbdiagram.io)
 -- Database: PostgreSQL
--- Generated at: 2026-05-06T22:10:23.477Z
+-- Generated at: 2026-05-06T22:29:54.019Z
 
 CREATE TABLE "Districts" (
-  "districtkey" varchar PRIMARY KEY NOT NULL,
+  "districtKey" varchar UNIQUE PRIMARY KEY NOT NULL,
   "districtCode" varchar,
   "districtName" varchar
 );
 
 CREATE TABLE "TeamInfo" (
-  "teamKey" integer PRIMARY KEY NOT NULL,
+  "teamKey" varchar UNIQUE PRIMARY KEY NOT NULL,
   "teamNumber" integer,
   "nameFull" varchar,
   "nameShort" varchar,
-  "districtCode" varchar,
+  "districtKey" varchar,
   "rookieYear" integer,
   "city" varchar,
   "stateProv" varchar,
@@ -21,7 +21,7 @@ CREATE TABLE "TeamInfo" (
 );
 
 CREATE TABLE "Events" (
-  "eventKey" varchar PRIMARY KEY NOT NULL,
+  "eventKey" varchar UNIQUE PRIMARY KEY NOT NULL,
   "year" integer NOT NULL,
   "event" varchar,
   "eventType" varchar,
@@ -40,14 +40,14 @@ CREATE TABLE "MatchTable" (
 );
 
 CREATE TABLE "MatchTeams" (
-  "matchKey" integer NOT NULL,
-  "teamKey" integer NOT NULL,
+  "matchKey" varchar NOT NULL,
+  "teamKey" varchar NOT NULL,
   "alliance" varchar NOT NULL,
   PRIMARY KEY ("matchKey", "teamKey")
 );
 
 CREATE TABLE "MatchData2026" (
-  "matchKey" integer NOT NULL,
+  "matchKey" varchar NOT NULL,
   "alliance" integer NOT NULL,
   "totalScore" integer,
   "teleopCount" integer,
@@ -69,9 +69,9 @@ CREATE TABLE "MatchData2026" (
   PRIMARY KEY ("matchKey", "alliance")
 );
 
-ALTER TABLE "TeamInfo" ADD FOREIGN KEY ("districtCode") REFERENCES "Districts" ("districtCode") DEFERRABLE INITIALLY IMMEDIATE;
+ALTER TABLE "TeamInfo" ADD FOREIGN KEY ("districtKey") REFERENCES "Districts" ("districtKey") DEFERRABLE INITIALLY IMMEDIATE;
 
-ALTER TABLE "Events" ADD FOREIGN KEY ("districtKey") REFERENCES "Districts" ("districtkey") DEFERRABLE INITIALLY IMMEDIATE;
+ALTER TABLE "Events" ADD FOREIGN KEY ("districtKey") REFERENCES "Districts" ("districtKey") DEFERRABLE INITIALLY IMMEDIATE;
 
 ALTER TABLE "MatchTable" ADD FOREIGN KEY ("eventKey") REFERENCES "Events" ("eventKey") DEFERRABLE INITIALLY IMMEDIATE;
 
