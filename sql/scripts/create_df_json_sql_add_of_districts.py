@@ -6,6 +6,7 @@ import subprocess
 
 from api.frc_and_tba_api_url_builders import *
 from api.pull_and_save_api_url_data import *
+from sql.data_science_db import get_sqlachemy_connection
 
 
 REPO_ROOT = Path(subprocess.check_output(["git", "rev-parse", "--show-toplevel"], text=True).strip())
@@ -32,4 +33,9 @@ for file_name in district_files:
                 
 district_df = pd.DataFrame(district_list_for_conv_df)
 district_json = district_df.to_json(SAVE_PATH, orient = 'records', indent = 2)
+
+with get_sqlachemy_connection as conn:
+        df.to_sql(
+                
+        )
 

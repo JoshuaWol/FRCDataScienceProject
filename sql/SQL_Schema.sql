@@ -1,82 +1,87 @@
 -- SQL dump generated using DBML (dbml.dbdiagram.io)
 -- Database: PostgreSQL
--- Generated at: 2026-05-06T22:29:54.019Z
+-- Generated at: 2026-05-07T00:15:37.505Z
 
-CREATE TABLE "Districts" (
-  "districtKey" varchar UNIQUE PRIMARY KEY NOT NULL,
-  "districtCode" varchar,
-  "districtName" varchar
+CREATE TABLE "districts" (
+  "district_key" varchar UNIQUE PRIMARY KEY NOT NULL,
+  "district_code" varchar,
+  "district_name" varchar
 );
 
-CREATE TABLE "TeamInfo" (
-  "teamKey" varchar UNIQUE PRIMARY KEY NOT NULL,
-  "teamNumber" integer,
-  "nameFull" varchar,
-  "nameShort" varchar,
-  "districtKey" varchar,
-  "rookieYear" integer,
+CREATE TABLE "team_info" (
+  "team_key" varchar UNIQUE PRIMARY KEY NOT NULL,
+  "team_number" integer,
+  "name_full" varchar,
+  "name_short" varchar,
+  "district_key" varchar,
+  "rookie_year" int,
   "city" varchar,
-  "stateProv" varchar,
-  "country" varchar
+  "state_prov" varchar,
+  "country" varchar,
+  "postal_code" varchar
 );
 
-CREATE TABLE "Events" (
-  "eventKey" varchar UNIQUE PRIMARY KEY NOT NULL,
+CREATE TABLE "events" (
+  "event_key" varchar UNIQUE PRIMARY KEY NOT NULL,
   "year" integer NOT NULL,
   "event" varchar,
-  "eventType" varchar,
+  "event_type" varchar,
+  "event_code" varchar,
   "date" date,
   "location" varchar,
-  "Webcast" varchar,
-  "weekNumber" integer,
-  "districtKey" varchar
+  "webcast" varchar,
+  "week" integer,
+  "district_key" varchar
 );
 
-CREATE TABLE "MatchTable" (
-  "matchKey" varchar UNIQUE PRIMARY KEY NOT NULL,
-  "eventKey" varchar NOT NULL,
-  "year" integer,
-  "matchLevel" varchar
-);
-
-CREATE TABLE "MatchTeams" (
-  "matchKey" varchar NOT NULL,
-  "teamKey" varchar NOT NULL,
+CREATE TABLE "match_teams" (
+  "match_key" varchar NOT NULL,
+  "team_key" varchar NOT NULL,
   "alliance" varchar NOT NULL,
-  PRIMARY KEY ("matchKey", "teamKey")
+  PRIMARY KEY ("match_key", "team_key")
 );
 
-CREATE TABLE "MatchData2026" (
-  "matchKey" varchar NOT NULL,
+CREATE TABLE "match_data_2026" (
+  "match_key" varchar NOT NULL,
   "alliance" integer NOT NULL,
-  "totalScore" integer,
-  "teleopCount" integer,
-  "autoScore" integer,
-  "shift1Points" integer,
-  "shift2Points" integer,
-  "shift3Points" integer,
-  "shift4Points" integer,
-  "endgamePoints" integer,
-  "autoTowerPoints" integer,
-  "totalAutoPoints" integer,
-  "endgameTowerPoints" integer,
-  "totalTowerPoints" integer,
-  "minorFoulCount" integer,
-  "majorFoulCount" integer,
-  "foulPoints" integer,
-  "adjustPoins" integer,
-  "RP" integer,
-  PRIMARY KEY ("matchKey", "alliance")
+  "total_score" integer,
+  "teleop_count" integer,
+  "auto_points" integer,
+  "transition_points" integer,
+  "uncounted_points" integer,
+  "teleop_points" integer,
+  "shift1_points" integer,
+  "shift2_points" integer,
+  "shift3_points" integer,
+  "shift4_points" integer,
+  "endgame_points" integer,
+  "total_auto_points" integer,
+  "auto_tower_points" integer,
+  "end_game_tower_points" integer,
+  "total_tower_points" integer,
+  "minor_foul_count" integer,
+  "major_foul_count" integer,
+  "foul_points" integer,
+  "adjust_points" integer,
+  "ranking_points" integer,
+  "video_key" varchar,
+  "video_type" varchar,
+  PRIMARY KEY ("match_key", "alliance")
 );
 
-ALTER TABLE "TeamInfo" ADD FOREIGN KEY ("districtKey") REFERENCES "Districts" ("districtKey") DEFERRABLE INITIALLY IMMEDIATE;
+ALTER TABLE "team_info" ADD FOREIGN KEY ("district_key") REFERENCES "districts" ("district_key") DEFERRABLE INITIALLY IMMEDIATE;
 
-ALTER TABLE "Events" ADD FOREIGN KEY ("districtKey") REFERENCES "Districts" ("districtKey") DEFERRABLE INITIALLY IMMEDIATE;
+ALTER TABLE "events" ADD FOREIGN KEY ("district_key") REFERENCES "districts" ("district_key") DEFERRABLE INITIALLY IMMEDIATE;
 
-ALTER TABLE "MatchTable" ADD FOREIGN KEY ("eventKey") REFERENCES "Events" ("eventKey") DEFERRABLE INITIALLY IMMEDIATE;
+ALTER TABLE "match_teams" ADD FOREIGN KEY ("team_key") REFERENCES "team_info" ("team_key") DEFERRABLE INITIALLY IMMEDIATE;
 
-ALTER TABLE "MatchTeams" ADD FOREIGN KEY ("matchKey") REFERENCES "MatchTable" ("matchKey") DEFERRABLE INITIALLY IMMEDIATE;
+CREATE TABLE "match_teams_match_data_2026" (
+  "match_teams_match_key" varchar,
+  "match_data_2026_match_key" varchar,
+  PRIMARY KEY ("match_teams_match_key", "match_data_2026_match_key")
+);
 
-ALTER TABLE "MatchTeams" ADD FOREIGN KEY ("teamKey") REFERENCES "TeamInfo" ("teamKey") DEFERRABLE INITIALLY IMMEDIATE;
+ALTER TABLE "match_teams_match_data_2026" ADD FOREIGN KEY ("match_teams_match_key") REFERENCES "match_teams" ("match_key") DEFERRABLE INITIALLY IMMEDIATE;
 
-ALTER TABLE "MatchData2026" ADD FOREIGN KEY ("matchKey") REFERENCES "MatchTable" ("matchKey") DEFERRABLE INITIALLY IMMEDIATE;
+ALTER TABLE "match_teams_match_data_2026" ADD FOREIGN KEY ("match_data_2026_match_key") REFERENCES "match_data_2026" ("match_key") DEFERRABLE INITIALLY IMMEDIATE;
+
