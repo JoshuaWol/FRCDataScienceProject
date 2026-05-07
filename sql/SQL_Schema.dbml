@@ -47,8 +47,9 @@ Table match_teams {
 }
 
 Table match_data_2026 {
-  match_key varchar [ not null, ref: <> match_teams.match_key]
+  match_key varchar [ not null]
   alliance integer  [not null]
+  event_key varchar [ref: > events.event_key]
   total_score  integer
   teleop_count integer
   auto_points integer
@@ -76,6 +77,8 @@ Table match_data_2026 {
     (match_key, alliance) [pk, unique] //composite pk
   }
 }
+
+Ref: match_data_2026.(match_key, alliance) < match_teams.(match_key, alliance)
 
 
 
