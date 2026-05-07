@@ -31,7 +31,7 @@ Table events {
   location varchar
   webcast varchar
   week integer
-  district_key varchar [ref: > districts.district_key]
+  district_key varchar [ref: > districts.district_code]
 }
 
 
