@@ -12,7 +12,7 @@ Table teams_info {
   team_number integer
   name_full varchar
   name_short varchar
-  district_code varchar [ref: > districts.district_code]
+  district_code varchar [ref: <> districts.district_code]
   rookie_year int
   city varchar
   state_prov varchar
