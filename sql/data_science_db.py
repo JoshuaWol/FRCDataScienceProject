@@ -1,15 +1,12 @@
-import os
 from contextlib import contextmanager
+
 
 from sqlalchemy import create_engine
 import psycopg
-from dotenv import load_dotenv
 
-load_dotenv()
-DB_PASSWORD = os.environ['POSTGRESQL_PASSWORD']
-DB_USERNAME = os.environ['POSTGRESQL_USERNAME']
-DB_NAME = os.environ['POSTGRESQL_DB_FRCDATASCIENCE']
-print(DB_USERNAME)
+
+from config import DB_USERNAME, DB_PASSWORD, DB_NAME
+
 
 ENGINE = create_engine(
     f"postgresql+psycopg://{DB_USERNAME}:{DB_PASSWORD}"

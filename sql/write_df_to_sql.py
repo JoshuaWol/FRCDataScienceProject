@@ -15,7 +15,7 @@ def write_df_to_postgres ( data_frame: pd.DataFrame, table: str, *, if_exists:st
             if_exists = if_exists,
             schema = schema,
             index = False,
-            method = 'multi',
-            chunksize = 300
+            method = None, #'multi',
+            # chunksize = 300
 
         )

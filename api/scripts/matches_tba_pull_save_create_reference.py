@@ -2,20 +2,16 @@ from collections import defaultdict
 
 import json
 from pathlib import Path
-import subprocess
 
 
-from api.frc_and_tba_api_url_builders import *
-from api.pull_and_save_api_url_data import *
+from api.frc_and_tba_api_url_builders import build_tba_matches_from_event_key_url
+from api.pull_and_save_api_url_data import pull_and_save_tba_api_data
+from config import REPO_ROOT, START_YEAR, END_YEAR
 
-
-REPO_ROOT = Path(subprocess.check_output(["git", "rev-parse", "--show-toplevel"], text=True).strip())
 EVENTS_FOLDER = REPO_ROOT / 'api' / 'json' / 'events_data'
 MATCHES_FOLDER = REPO_ROOT / 'api' / 'json' / 'matches_data'
 EVENT_REFERENCE_FILE = REPO_ROOT / 'api' / 'json' / 'reference_data' / "event_keys_by_year.json"
 SAVE_PATH = REPO_ROOT / 'api' / 'json' / 'reference_data'/ 'matches_numbers_by_year.json'
-START_YEAR = 2026
-END_YEAR = 2010
 
 
 with open(EVENT_REFERENCE_FILE) as event_reference_file:

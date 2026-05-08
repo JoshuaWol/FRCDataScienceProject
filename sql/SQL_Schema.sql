@@ -1,6 +1,6 @@
 -- SQL dump generated using DBML (dbml.dbdiagram.io)
 -- Database: PostgreSQL
--- Generated at: 2026-05-07T16:01:56.334Z
+-- Generated at: 2026-05-07T16:32:06.132Z
 
 CREATE TABLE "districts" (
   "district_key" varchar UNIQUE PRIMARY KEY NOT NULL,
@@ -8,7 +8,7 @@ CREATE TABLE "districts" (
   "district_name" varchar
 );
 
-CREATE TABLE "teams_info" (
+CREATE TABLE "teams" (
   "team_key" varchar UNIQUE PRIMARY KEY NOT NULL,
   "team_number" integer,
   "name_full" varchar,
@@ -70,20 +70,9 @@ CREATE TABLE "match_data_2026" (
   PRIMARY KEY ("match_key", "alliance")
 );
 
-CREATE TABLE "districts_teams_info" (
-  "districts_district_code" varchar,
-  "teams_info_district_code" varchar,
-  PRIMARY KEY ("districts_district_code", "teams_info_district_code")
-);
-
-ALTER TABLE "districts_teams_info" ADD FOREIGN KEY ("districts_district_code") REFERENCES "districts" ("district_code") DEFERRABLE INITIALLY IMMEDIATE;
-
-ALTER TABLE "districts_teams_info" ADD FOREIGN KEY ("teams_info_district_code") REFERENCES "teams_info" ("district_code") DEFERRABLE INITIALLY IMMEDIATE;
-
-
 ALTER TABLE "events" ADD FOREIGN KEY ("district_key") REFERENCES "districts" ("district_key") DEFERRABLE INITIALLY IMMEDIATE;
 
-ALTER TABLE "match_teams" ADD FOREIGN KEY ("team_key") REFERENCES "teams_info" ("team_key") DEFERRABLE INITIALLY IMMEDIATE;
+ALTER TABLE "match_teams" ADD FOREIGN KEY ("team_key") REFERENCES "teams" ("team_key") DEFERRABLE INITIALLY IMMEDIATE;
 
 ALTER TABLE "match_data_2026" ADD FOREIGN KEY ("event_key") REFERENCES "events" ("event_key") DEFERRABLE INITIALLY IMMEDIATE;
 

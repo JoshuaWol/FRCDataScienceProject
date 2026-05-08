@@ -16,6 +16,10 @@ def build_tba_teams_from_district_key_url(district_key:str) -> str:
     return BASE_THE_BLUE_ALLIANCE_URL + "/district/" + district_key + "/teams"
 
 
+def build_tba_teams_from_page_number_url(page_number:str|int) -> str:
+    return BASE_THE_BLUE_ALLIANCE_URL + "/teams/" + str(page_number)
+
+
 def build_tba_matches_from_event_key_url(event_key:str) -> str:
     return BASE_THE_BLUE_ALLIANCE_URL + '/event/' + event_key + "/matches"
 

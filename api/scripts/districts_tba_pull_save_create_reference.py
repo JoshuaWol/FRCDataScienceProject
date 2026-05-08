@@ -1,19 +1,15 @@
 import json
-from pathlib import Path
-import subprocess
 
 
 from api.frc_and_tba_api_url_builders import build_tba_districts_url
 from api.pull_and_save_api_url_data import pull_and_save_tba_api_data
+from config import REPO_ROOT, START_YEAR, END_YEAR
 
-
-REPO_ROOT = Path(subprocess.check_output(["git", "rev-parse", "--show-toplevel"], text=True).strip())
 DISTRICTS_FOLDER = REPO_ROOT / 'api' / 'json' / 'districts_data'
 SAVE_FOLDER = REPO_ROOT / 'api' / 'json' / 'reference_data'
 SAVE_FILE = "district_keys_by_year.json"
 SAVE_PATH = SAVE_FOLDER / SAVE_FILE
-START_YEAR = 2026
-END_YEAR = 2010
+
 
 
 for loop_year in range(START_YEAR,END_YEAR-1,-1):

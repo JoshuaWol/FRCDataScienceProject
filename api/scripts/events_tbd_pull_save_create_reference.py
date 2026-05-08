@@ -1,17 +1,12 @@
 import json
-from pathlib import Path
-import subprocess
 
 
-from api.frc_and_tba_api_url_builders import *
-from api.pull_and_save_api_url_data import *
+from api.frc_and_tba_api_url_builders import build_tba_events_url
+from api.pull_and_save_api_url_data import pull_and_save_tba_api_data
+from config import REPO_ROOT, START_YEAR, END_YEAR
 
-
-REPO_ROOT = Path(subprocess.check_output(["git", "rev-parse", "--show-toplevel"], text=True).strip())
 EVENTS_FOLDER = REPO_ROOT / 'api' / 'json' / 'events_data'
 SAVE_PATH = REPO_ROOT / 'api' / 'json' / 'reference_data'/ 'event_keys_by_year.json'
-START_YEAR = 2026
-END_YEAR = 2010
 
 
 for loop_year in range(START_YEAR,END_YEAR-1,-1):

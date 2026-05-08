@@ -86,3 +86,33 @@ def pull_and_save_tba_api_data(tba_api_url:str, debug:bool = False) -> None:
         else:
             with open(FolderAndFileName, "w") as f:
                 json.dump(response_json, f, indent=2)
+
+
+def pull_and_save_tba_api_data_if_exists(tba_api_url:str, debug:bool = False) -> bool:
+    from pathlib import Path
+    import json
+    import requests
+
+    from api.get_folder_file_both_from_api_url import get_folder_and_json_file_name_from_tba_api_url
+    from api.get_credentials import get_tba_credentials
+    
+    headers_auth = {"X-TBA-Auth-Key": get_tba_credentials()}
+
+
+    FolderAndFileName = get_folder_and_json_file_name_from_tba_api_url(tba_api_url)
+
+    if Path(FolderAndFileName).is_file():
+        print(f'skipped {FolderAndFileName} because the file already exists')
+        return True
+    else:
+        response = requests.get(tba_api_url, headers=headers_auth)
+        response_json = response.json()
+        if debug:
+            print(response)
+        if not response.ok:
+            print("Error: " + str(response.status_code) + " - " + response.reason)
+        elif len(response_json)>0:
+            with open(FolderAndFileName, "w") as f:
+                json.dump(response_json, f, indent=2)
+            return True
+        return False
