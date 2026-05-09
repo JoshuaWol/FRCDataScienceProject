@@ -27,4 +27,4 @@ TEAMS_JSON_DIR = JSON_DIR / 'teams_data'
 
 
 SCHEMA = "public"
-if_exists = 'append'
+IF_EXISTS = 'append'
