@@ -6,3 +6,4 @@ __pycache__/
 *.db
 /api/json/
 /sql/jsons_of_sql_tables/.env
+data/
