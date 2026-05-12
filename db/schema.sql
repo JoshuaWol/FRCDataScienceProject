@@ -15,6 +15,20 @@ SET xmloption = content;
 SET client_min_messages = warning;
 SET row_security = off;
 
+--
+-- Name: features; Type: SCHEMA; Schema: -; Owner: -
+--
+
+CREATE SCHEMA features;
+
+
+--
+-- Name: predictions; Type: SCHEMA; Schema: -; Owner: -
+--
+
+CREATE SCHEMA predictions;
+
+
 SET default_tablespace = '';
 
 SET default_table_access_method = heap;
@@ -279,4 +293,5 @@ ALTER TABLE ONLY public.matches
 INSERT INTO public.schema_migrations (version) VALUES
     ('20260512004914'),
     ('20260512023403'),
-    ('20260512023933');
+    ('20260512023933'),
+    ('20260512174020');
