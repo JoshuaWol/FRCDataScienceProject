@@ -34,6 +34,48 @@ SET default_tablespace = '';
 SET default_table_access_method = heap;
 
 --
+-- Name: matches_eda; Type: TABLE; Schema: features; Owner: -
+--
+
+CREATE TABLE features.matches_eda (
+    match_key character varying NOT NULL,
+    alliance character varying NOT NULL,
+    event_key character varying,
+    district_key character varying,
+    total_score integer,
+    teleop_count integer,
+    auto_points integer,
+    transition_points integer,
+    uncounted_points integer,
+    teleop_points integer,
+    shift1_points integer,
+    shift2_points integer,
+    shift3_points integer,
+    shift4_points integer,
+    endgame_points integer,
+    total_auto_points integer,
+    auto_tower_points integer,
+    end_game_tower_points integer,
+    total_tower_points integer,
+    minor_foul_count integer,
+    major_foul_count integer,
+    foul_points integer,
+    adjust_points integer,
+    ranking_points integer,
+    video_key character varying,
+    comp_level character varying NOT NULL,
+    match_number integer NOT NULL,
+    set_number integer,
+    winning_alliance character varying,
+    actual_time timestamp with time zone,
+    predicted_time timestamp with time zone,
+    team_key1 character varying NOT NULL,
+    team_key2 character varying NOT NULL,
+    team_key3 character varying NOT NULL
+);
+
+
+--
 -- Name: districts; Type: TABLE; Schema: public; Owner: -
 --
 
@@ -146,6 +188,14 @@ CREATE TABLE public.teams (
     country character varying,
     postal_code character varying
 );
+
+
+--
+-- Name: matches_eda matches_eda_pkey; Type: CONSTRAINT; Schema: features; Owner: -
+--
+
+ALTER TABLE ONLY features.matches_eda
+    ADD CONSTRAINT matches_eda_pkey PRIMARY KEY (match_key, alliance);
 
 
 --
@@ -294,4 +344,5 @@ INSERT INTO public.schema_migrations (version) VALUES
     ('20260512004914'),
     ('20260512023403'),
     ('20260512023933'),
-    ('20260512174020');
+    ('20260512174020'),
+    ('20260512175109');

@@ -2,14 +2,14 @@
 
 -- migrate:up
 CREATE TABLE matches (
-  match_key VARCHAR PRIMARY KEY,
-  event_key VARCHAR NOT NULL REFERENCES events(event_key),
-  comp_level VARCHAR NOT NULL,       
-  match_number INTEGER NOT NULL,
-  set_number INTEGER,
-  winning_alliance VARCHAR,         
-  actual_time TIMESTAMPTZ,
-  predicted_time TIMESTAMPTZ
+  "match_key" VARCHAR PRIMARY KEY,
+  "event_key" VARCHAR NOT NULL REFERENCES events(event_key),
+  "comp_level" VARCHAR NOT NULL,       
+  "match_number" INTEGER NOT NULL,
+  "set_number" INTEGER,
+  "winning_alliance" VARCHAR,         
+  "actual_time" TIMESTAMPTZ,
+  "predicted_time" TIMESTAMPTZ
 );
 
 ALTER TABLE match_data_2026 DROP COLUMN event_key;
