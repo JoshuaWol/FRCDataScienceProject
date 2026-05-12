@@ -15,138 +15,9 @@ SET xmloption = content;
 SET client_min_messages = warning;
 SET row_security = off;
 
---
--- Name: production; Type: SCHEMA; Schema: -; Owner: -
---
-
-CREATE SCHEMA production;
-
-
---
--- Name: public; Type: SCHEMA; Schema: -; Owner: -
---
-
--- *not* creating schema, since initdb creates it
-
-
---
--- Name: SCHEMA public; Type: COMMENT; Schema: -; Owner: -
---
-
-COMMENT ON SCHEMA public IS '';
-
-
 SET default_tablespace = '';
 
 SET default_table_access_method = heap;
-
---
--- Name: districts; Type: TABLE; Schema: production; Owner: -
---
-
-CREATE TABLE production.districts (
-    district_key character varying NOT NULL,
-    district_code character varying,
-    district_name character varying
-);
-
-
---
--- Name: events; Type: TABLE; Schema: production; Owner: -
---
-
-CREATE TABLE production.events (
-    event_key character varying NOT NULL,
-    year integer NOT NULL,
-    event character varying,
-    event_type character varying,
-    event_code character varying,
-    date date,
-    location character varying,
-    webcast character varying,
-    week integer,
-    district_key character varying
-);
-
-
---
--- Name: match_data_2026; Type: TABLE; Schema: production; Owner: -
---
-
-CREATE TABLE production.match_data_2026 (
-    match_key character varying NOT NULL,
-    alliance character varying NOT NULL,
-    event_key character varying,
-    total_score integer,
-    teleop_count integer,
-    auto_points integer,
-    transition_points integer,
-    uncounted_points integer,
-    teleop_points integer,
-    shift1_points integer,
-    shift2_points integer,
-    shift3_points integer,
-    shift4_points integer,
-    endgame_points integer,
-    total_auto_points integer,
-    auto_tower_points integer,
-    end_game_tower_points integer,
-    total_tower_points integer,
-    minor_foul_count integer,
-    major_foul_count integer,
-    foul_points integer,
-    adjust_points integer,
-    ranking_points integer,
-    video_key character varying,
-    video_type character varying
-);
-
-
---
--- Name: match_teams; Type: TABLE; Schema: production; Owner: -
---
-
-CREATE TABLE production.match_teams (
-    match_key character varying NOT NULL,
-    team_key character varying NOT NULL,
-    alliance character varying NOT NULL
-);
-
-
---
--- Name: teams; Type: TABLE; Schema: production; Owner: -
---
-
-CREATE TABLE production.teams (
-    team_key character varying NOT NULL,
-    team_number integer,
-    name_full character varying,
-    name_short character varying,
-    district_code character varying,
-    rookie_year integer,
-    city character varying,
-    state_prov character varying,
-    country character varying,
-    postal_code character varying
-);
-
-
---
--- Name: teams_info; Type: TABLE; Schema: production; Owner: -
---
-
-CREATE TABLE production.teams_info (
-    team_key text,
-    team_number bigint,
-    name_full text,
-    district_key text,
-    rookie_year bigint,
-    city text,
-    state_prov text,
-    country text,
-    postal_code text
-);
-
 
 --
 -- Name: districts; Type: TABLE; Schema: public; Owner: -
@@ -222,6 +93,23 @@ CREATE TABLE public.match_teams (
 
 
 --
+-- Name: matches; Type: TABLE; Schema: public; Owner: -
+--
+
+CREATE TABLE public.matches (
+    match_key character varying NOT NULL,
+    event_key character varying NOT NULL,
+    comp_level character varying NOT NULL,
+    match_number integer NOT NULL,
+    set_number integer,
+    winning_alliance character varying,
+    match_date date,
+    actual_time timestamp with time zone,
+    predicted_time timestamp with time zone
+);
+
+
+--
 -- Name: schema_migrations; Type: TABLE; Schema: public; Owner: -
 --
 
@@ -246,63 +134,6 @@ CREATE TABLE public.teams (
     country character varying,
     postal_code character varying
 );
-
-
---
--- Name: teams_info; Type: TABLE; Schema: public; Owner: -
---
-
-CREATE TABLE public.teams_info (
-    team_key text,
-    team_number bigint,
-    name_full text,
-    district_key text,
-    rookie_year bigint,
-    city text,
-    state_prov text,
-    country text,
-    postal_code text
-);
-
-
---
--- Name: districts districts_pkey; Type: CONSTRAINT; Schema: production; Owner: -
---
-
-ALTER TABLE ONLY production.districts
-    ADD CONSTRAINT districts_pkey PRIMARY KEY (district_key);
-
-
---
--- Name: events events_pkey; Type: CONSTRAINT; Schema: production; Owner: -
---
-
-ALTER TABLE ONLY production.events
-    ADD CONSTRAINT events_pkey PRIMARY KEY (event_key);
-
-
---
--- Name: match_data_2026 match_data_2026_pkey; Type: CONSTRAINT; Schema: production; Owner: -
---
-
-ALTER TABLE ONLY production.match_data_2026
-    ADD CONSTRAINT match_data_2026_pkey PRIMARY KEY (match_key, alliance);
-
-
---
--- Name: match_teams match_teams_pkey; Type: CONSTRAINT; Schema: production; Owner: -
---
-
-ALTER TABLE ONLY production.match_teams
-    ADD CONSTRAINT match_teams_pkey PRIMARY KEY (match_key, team_key);
-
-
---
--- Name: teams teams_pkey; Type: CONSTRAINT; Schema: production; Owner: -
---
-
-ALTER TABLE ONLY production.teams
-    ADD CONSTRAINT teams_pkey PRIMARY KEY (team_key);
 
 
 --
@@ -338,6 +169,14 @@ ALTER TABLE ONLY public.match_teams
 
 
 --
+-- Name: matches matches_pkey; Type: CONSTRAINT; Schema: public; Owner: -
+--
+
+ALTER TABLE ONLY public.matches
+    ADD CONSTRAINT matches_pkey PRIMARY KEY (match_key);
+
+
+--
 -- Name: schema_migrations schema_migrations_pkey; Type: CONSTRAINT; Schema: public; Owner: -
 --
 
@@ -351,38 +190,6 @@ ALTER TABLE ONLY public.schema_migrations
 
 ALTER TABLE ONLY public.teams
     ADD CONSTRAINT teams_pkey PRIMARY KEY (team_key);
-
-
---
--- Name: events events_district_key_fkey; Type: FK CONSTRAINT; Schema: production; Owner: -
---
-
-ALTER TABLE ONLY production.events
-    ADD CONSTRAINT events_district_key_fkey FOREIGN KEY (district_key) REFERENCES production.districts(district_key) DEFERRABLE;
-
-
---
--- Name: match_data_2026 match_data_2026_event_key_fkey; Type: FK CONSTRAINT; Schema: production; Owner: -
---
-
-ALTER TABLE ONLY production.match_data_2026
-    ADD CONSTRAINT match_data_2026_event_key_fkey FOREIGN KEY (event_key) REFERENCES production.events(event_key) DEFERRABLE;
-
-
---
--- Name: match_teams match_teams_match_key_alliance_fkey; Type: FK CONSTRAINT; Schema: production; Owner: -
---
-
-ALTER TABLE ONLY production.match_teams
-    ADD CONSTRAINT match_teams_match_key_alliance_fkey FOREIGN KEY (match_key, alliance) REFERENCES production.match_data_2026(match_key, alliance) DEFERRABLE;
-
-
---
--- Name: match_teams match_teams_team_key_fkey; Type: FK CONSTRAINT; Schema: production; Owner: -
---
-
-ALTER TABLE ONLY production.match_teams
-    ADD CONSTRAINT match_teams_team_key_fkey FOREIGN KEY (team_key) REFERENCES production.teams(team_key) DEFERRABLE;
 
 
 --
@@ -418,6 +225,14 @@ ALTER TABLE ONLY public.match_teams
 
 
 --
+-- Name: matches matches_event_key_fkey; Type: FK CONSTRAINT; Schema: public; Owner: -
+--
+
+ALTER TABLE ONLY public.matches
+    ADD CONSTRAINT matches_event_key_fkey FOREIGN KEY (event_key) REFERENCES public.events(event_key);
+
+
+--
 -- PostgreSQL database dump complete
 --
 
@@ -429,4 +244,5 @@ ALTER TABLE ONLY public.match_teams
 --
 
 INSERT INTO public.schema_migrations (version) VALUES
-    ('20260512004914');
+    ('20260512004914'),
+    ('20260512023403');
