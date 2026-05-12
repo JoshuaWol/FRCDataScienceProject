@@ -193,6 +193,41 @@ ALTER TABLE ONLY public.teams
 
 
 --
+-- Name: idx_events_year_week; Type: INDEX; Schema: public; Owner: -
+--
+
+CREATE INDEX idx_events_year_week ON public.events USING btree (year, week);
+
+
+--
+-- Name: idx_match_data_match_key; Type: INDEX; Schema: public; Owner: -
+--
+
+CREATE INDEX idx_match_data_match_key ON public.match_data_2026 USING btree (match_key);
+
+
+--
+-- Name: idx_match_teams_team_key; Type: INDEX; Schema: public; Owner: -
+--
+
+CREATE INDEX idx_match_teams_team_key ON public.match_teams USING btree (team_key);
+
+
+--
+-- Name: idx_matches_date; Type: INDEX; Schema: public; Owner: -
+--
+
+CREATE INDEX idx_matches_date ON public.matches USING btree (match_date);
+
+
+--
+-- Name: idx_matches_event_key; Type: INDEX; Schema: public; Owner: -
+--
+
+CREATE INDEX idx_matches_event_key ON public.matches USING btree (event_key);
+
+
+--
 -- Name: events events_district_key_fkey; Type: FK CONSTRAINT; Schema: public; Owner: -
 --
 
@@ -245,4 +280,5 @@ ALTER TABLE ONLY public.matches
 
 INSERT INTO public.schema_migrations (version) VALUES
     ('20260512004914'),
-    ('20260512023403');
+    ('20260512023403'),
+    ('20260512023933');
