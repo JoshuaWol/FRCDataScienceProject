@@ -55,7 +55,6 @@ CREATE TABLE public.events (
 CREATE TABLE public.match_data_2026 (
     match_key character varying NOT NULL,
     alliance character varying NOT NULL,
-    event_key character varying,
     total_score integer,
     teleop_count integer,
     auto_points integer,
@@ -103,7 +102,6 @@ CREATE TABLE public.matches (
     match_number integer NOT NULL,
     set_number integer,
     winning_alliance character varying,
-    match_date date,
     actual_time timestamp with time zone,
     predicted_time timestamp with time zone
 );
@@ -217,7 +215,7 @@ CREATE INDEX idx_match_teams_team_key ON public.match_teams USING btree (team_ke
 -- Name: idx_matches_date; Type: INDEX; Schema: public; Owner: -
 --
 
-CREATE INDEX idx_matches_date ON public.matches USING btree (match_date);
+CREATE INDEX idx_matches_date ON public.matches USING btree (actual_time);
 
 
 --
@@ -236,11 +234,11 @@ ALTER TABLE ONLY public.events
 
 
 --
--- Name: match_data_2026 match_data_2026_event_key_fkey; Type: FK CONSTRAINT; Schema: public; Owner: -
+-- Name: match_data_2026 fk_match_data_match; Type: FK CONSTRAINT; Schema: public; Owner: -
 --
 
 ALTER TABLE ONLY public.match_data_2026
-    ADD CONSTRAINT match_data_2026_event_key_fkey FOREIGN KEY (event_key) REFERENCES public.events(event_key) DEFERRABLE;
+    ADD CONSTRAINT fk_match_data_match FOREIGN KEY (match_key) REFERENCES public.matches(match_key);
 
 
 --

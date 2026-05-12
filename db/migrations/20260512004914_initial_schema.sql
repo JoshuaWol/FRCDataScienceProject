@@ -80,8 +80,8 @@ ALTER TABLE "match_data_2026" ADD FOREIGN KEY ("event_key") REFERENCES "events" 
 ALTER TABLE "match_teams" ADD FOREIGN KEY ("match_key", "alliance") REFERENCES "match_data_2026" ("match_key", "alliance") DEFERRABLE INITIALLY IMMEDIATE;
 
 -- migrate:down
-DROP TABLE IF EXISTS match_data_2026;
 DROP TABLE IF EXISTS match_teams;
+DROP TABLE IF EXISTS match_data_2026;
 DROP TABLE IF EXISTS events;
 DROP TABLE IF EXISTS teams;
 DROP TABLE IF EXISTS districts;
