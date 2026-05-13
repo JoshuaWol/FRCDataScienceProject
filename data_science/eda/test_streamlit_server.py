@@ -69,4 +69,7 @@ for schema in schema_table_dict:
         else:
             st.text(f"**No missing values in {schema}.{table}**")
 
-print(matches_eda_df.loc[matches_eda_df['event_type'] == '99'][['event_key','event_type','actual_time', 'district_key']])
+# print(matches_eda_df.loc[matches_eda_df['predicted_time'].isnull()][['event_key','event_type','actual_time', 'district_key']])
+
+st.dataframe(matches_eda_df.loc[matches_eda_df['predicted_time'].isnull()][['predicted_time','event_key','event_type','actual_time', 'district_key','match_key']])
+
