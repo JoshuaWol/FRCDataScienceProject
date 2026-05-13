@@ -6,10 +6,10 @@ def matches_teams_from_json(full_match_data:dict) -> list:
 
     for team_key in red_teams:
         matches_teams_list.append({
-            
+
             'match_key' : match_key,
             'team_key' : team_key,
-            'alliance' : 'blue',
+            'alliance' : 'red',
         })
     for team_key in blue_teams:
         matches_teams_list.append({
