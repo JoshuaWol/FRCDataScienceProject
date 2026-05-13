@@ -24,7 +24,6 @@ CREATE TABLE features.matches_eda(
     "foul_points" integer,
     "adjust_points" integer,
     "ranking_points" integer,
-    "video_key" varchar,
     "comp_level" VARCHAR NOT NULL,       
     "match_number" INTEGER NOT NULL,
     "set_number" INTEGER,

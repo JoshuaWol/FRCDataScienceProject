@@ -62,7 +62,6 @@ CREATE TABLE features.matches_eda (
     foul_points integer,
     adjust_points integer,
     ranking_points integer,
-    video_key character varying,
     comp_level character varying NOT NULL,
     match_number integer NOT NULL,
     set_number integer,
@@ -71,7 +70,9 @@ CREATE TABLE features.matches_eda (
     predicted_time timestamp with time zone,
     team_key1 character varying NOT NULL,
     team_key2 character varying NOT NULL,
-    team_key3 character varying NOT NULL
+    team_key3 character varying NOT NULL,
+    opponent_total_score integer,
+    event_type character varying
 );
 
 
@@ -345,4 +346,5 @@ INSERT INTO public.schema_migrations (version) VALUES
     ('20260512023403'),
     ('20260512023933'),
     ('20260512174020'),
-    ('20260512175109');
+    ('20260512175109'),
+    ('20260512204852');

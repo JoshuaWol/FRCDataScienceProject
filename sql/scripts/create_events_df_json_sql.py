@@ -40,7 +40,7 @@ for file_name in event_files:
                 existing_event_keys_set.add(loop_event_key)
                 
 event_df = pd.DataFrame(event_list_for_conv_df)
-event_json = event_df.to_json(SAVE_PATH, orient = 'records', indent = 2)
+event_json = event_df.to_json(SAVE_PATH, orient = 'records', indent = 2, date_format='iso')
 
 write_df_to_postgres(event_df, 'events', if_exists = "append", schema = SCHEMA)
 
