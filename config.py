@@ -28,6 +28,8 @@ MATCHES_JSON_DIR = JSON_DIR / 'matches_data'
 REFERENCE_JSON_DIR = JSON_DIR / 'reference_data'
 SEASONS_JSON_DIR = JSON_DIR / 'seasons_data'
 TEAMS_JSON_DIR = JSON_DIR / 'teams_data'
+PY_LOAD_DIR = REPO_ROOT / 'sql' / 'scripts' / 'load_files'
+SQL_LOAD_DIR = REPO_ROOT / 'sql' / 'features' / 'load_files'
 
 
 SCHEMA = "public"

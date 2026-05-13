@@ -1,3 +1,5 @@
+TRUNCATE TABLE features.matches_eda;
+
 WITH alliance_lineups AS (
   SELECT
     match_key, alliance,
@@ -43,7 +45,7 @@ SELECT
 FROM public.match_data_2026 as md
 JOIN alliance_lineups as al USING (match_key, alliance)
 JOIN public.matches as m USING (match_key)
-JOIN public.events as e USING (event_key)
+JOIN features.filtered_events as e USING (event_key)
 JOIN public.match_data_2026 as opp
     ON opp.match_key = md.match_key
     AND opp.alliance <> md.alliance

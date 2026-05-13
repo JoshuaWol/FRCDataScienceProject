@@ -34,6 +34,26 @@ SET default_tablespace = '';
 SET default_table_access_method = heap;
 
 --
+-- Name: filtered_events; Type: TABLE; Schema: features; Owner: -
+--
+
+CREATE TABLE features.filtered_events (
+    event_key character varying NOT NULL,
+    year integer NOT NULL,
+    event character varying,
+    event_type character varying,
+    event_code character varying,
+    date date,
+    location character varying,
+    webcast character varying,
+    week integer,
+    district_key character varying,
+    state_prov character varying,
+    country character varying
+);
+
+
+--
 -- Name: matches_eda; Type: TABLE; Schema: features; Owner: -
 --
 
@@ -194,6 +214,14 @@ CREATE TABLE public.teams (
 
 
 --
+-- Name: filtered_events filtered_events_pkey; Type: CONSTRAINT; Schema: features; Owner: -
+--
+
+ALTER TABLE ONLY features.filtered_events
+    ADD CONSTRAINT filtered_events_pkey PRIMARY KEY (event_key);
+
+
+--
 -- Name: matches_eda matches_eda_pkey; Type: CONSTRAINT; Schema: features; Owner: -
 --
 
@@ -255,6 +283,13 @@ ALTER TABLE ONLY public.schema_migrations
 
 ALTER TABLE ONLY public.teams
     ADD CONSTRAINT teams_pkey PRIMARY KEY (team_key);
+
+
+--
+-- Name: filtered_events_year_week_idx; Type: INDEX; Schema: features; Owner: -
+--
+
+CREATE INDEX filtered_events_year_week_idx ON features.filtered_events USING btree (year, week);
 
 
 --
@@ -350,4 +385,5 @@ INSERT INTO public.schema_migrations (version) VALUES
     ('20260512174020'),
     ('20260512175109'),
     ('20260512204852'),
-    ('20260513151709');
+    ('20260513151709'),
+    ('20260513155951');
