@@ -101,7 +101,9 @@ CREATE TABLE public.events (
     location character varying,
     webcast character varying,
     week integer,
-    district_key character varying
+    district_key character varying,
+    state_prov character varying,
+    country character varying
 );
 
 
@@ -347,4 +349,5 @@ INSERT INTO public.schema_migrations (version) VALUES
     ('20260512023933'),
     ('20260512174020'),
     ('20260512175109'),
-    ('20260512204852');
+    ('20260512204852'),
+    ('20260513151709');

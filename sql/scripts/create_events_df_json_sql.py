@@ -39,7 +39,8 @@ for file_name in event_files:
                         'webcast':f"youtube.com/watch?v={events_entry.get('webcasts')[0].get('channel')}" if len(events_entry.get('webcasts')) else None,
                         'week':events_entry.get('week'),
                         'district_key':events_entry.get('district').get('key') if events_entry.get('district') else get_district_key_from_state_country(state_prov,country,year),
-
+                        'state_prov':state_prov,
+                        'country':country,
                             })
                 existing_event_keys_set.add(loop_event_key)
                 
