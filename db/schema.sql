@@ -61,7 +61,6 @@ CREATE TABLE features.matches_eda (
     match_key character varying NOT NULL,
     alliance character varying NOT NULL,
     event_key character varying,
-    district_key character varying,
     total_score integer,
     teleop_count integer,
     auto_points integer,
@@ -87,12 +86,13 @@ CREATE TABLE features.matches_eda (
     set_number integer,
     winning_alliance character varying,
     actual_time timestamp with time zone,
-    predicted_time timestamp with time zone,
     team_key1 character varying NOT NULL,
     team_key2 character varying NOT NULL,
     team_key3 character varying NOT NULL,
     opponent_total_score integer,
-    event_type character varying
+    event_type character varying,
+    opponent_auto_points integer,
+    auto_won integer
 );
 
 
@@ -386,4 +386,5 @@ INSERT INTO public.schema_migrations (version) VALUES
     ('20260512175109'),
     ('20260512204852'),
     ('20260513151709'),
-    ('20260513155951');
+    ('20260513155951'),
+    ('20260514210821');
