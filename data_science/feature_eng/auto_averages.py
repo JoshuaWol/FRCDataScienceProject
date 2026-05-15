@@ -7,6 +7,7 @@ from sql.load_db_to_df import load_df_from_db
 from data_science.data_science_functions import transform_shift_to_phase
 from config import IMPORTANT_FEATURES
 from function_for_feature_eng import get_math_list, get_math_calced_list
+from sql.data_science_db import get_sqlalchemy_connection
 
 start_time = time.time()
 match_data_df = load_df_from_db('features', 'matches_eda')
@@ -21,24 +22,36 @@ calc_df.drop(columns = 'droppable', inplace = True)
 calc_df.sort_values(ascending = True, by = ['team_key','actual_time'], inplace=True)
 calc_df.reset_index(inplace = True)
 
+
 prev_team = ""
 team_auto_dict = defaultdict(list)
 col_list=get_math_list()
 calced_auto_data = []
-
+team_seen = defaultdict(list)
 for row in range(0,len(calc_df)):
+    
     current_row = calc_df.iloc[[row]]
     current_team = current_row['team_key'].item()
     current_match = current_row['match_key'].item()
+    current_time = current_row['actual_time'].item()
+    calced_list = [current_team, current_match, current_time]
+    team_seen[current_match].append(current_team)
     team_auto_dict[current_team].append(current_row['auto_points'].item())
-    calced_list = get_math_calced_list(current_team, current_match, team_auto_dict[current_team])
-    calced_auto_data.append(calced_list)
+    dict_list = team_auto_dict[current_team]
+    if len(dict_list) > 1 :
+        calced_list.extend(get_math_calced_list(dict_list))
+        calced_auto_data.append(calced_list)
     prev_team = current_team
 
+print(team_seen)
 calced_auto_df = pd.DataFrame(calced_auto_data, columns = col_list)
 
-print(calced_auto_df.head())
-print(calced_auto_df[calced_auto_df['team_key'] == 'frc488'].head(10))
+print(calced_auto_df.head(5))
+print(calced_auto_df.columns.tolist())
+
+with get_sqlalchemy_connection() as conn:
+    calced_auto_df.to_sql(name = 'match_auto_data_calc',  con = conn, schema = 'features', if_exists='append', index=False)
+
 
 end_time = time.time()
 print(start_time - end_time)

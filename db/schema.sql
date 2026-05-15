@@ -54,6 +54,39 @@ CREATE TABLE features.filtered_events (
 
 
 --
+-- Name: match_auto_data_calc; Type: TABLE; Schema: features; Owner: -
+--
+
+CREATE TABLE features.match_auto_data_calc (
+    team_key character varying NOT NULL,
+    match_key character varying NOT NULL,
+    actual_time timestamp with time zone,
+    last_auto_points integer,
+    mean_3_last_auto_points integer,
+    max_3_last_auto_points integer,
+    min_3_last_auto_points integer,
+    std_3_last_auto_points integer,
+    trend_3_last_auto_points integer,
+    mean_5_last_auto_points integer,
+    max_5_last_auto_points integer,
+    min_5_last_auto_points integer,
+    std_5_last_auto_points integer,
+    trend_5_last_auto_points integer,
+    mean_10_last_auto_points integer,
+    max_10_last_auto_points integer,
+    min_10_last_auto_points integer,
+    std_10_last_auto_points integer,
+    trend_10_last_auto_points integer,
+    mean_season_last_auto_points integer,
+    max_season_last_auto_points integer,
+    min_season_last_auto_points integer,
+    std_season_last_auto_points integer,
+    trend_season_last_auto_points integer,
+    prev_match_count integer
+);
+
+
+--
 -- Name: matches_eda; Type: TABLE; Schema: features; Owner: -
 --
 
@@ -222,6 +255,14 @@ ALTER TABLE ONLY features.filtered_events
 
 
 --
+-- Name: match_auto_data_calc match_auto_data_calc_pkey; Type: CONSTRAINT; Schema: features; Owner: -
+--
+
+ALTER TABLE ONLY features.match_auto_data_calc
+    ADD CONSTRAINT match_auto_data_calc_pkey PRIMARY KEY (team_key, match_key);
+
+
+--
 -- Name: matches_eda matches_eda_pkey; Type: CONSTRAINT; Schema: features; Owner: -
 --
 
@@ -387,4 +428,5 @@ INSERT INTO public.schema_migrations (version) VALUES
     ('20260512204852'),
     ('20260513151709'),
     ('20260513155951'),
-    ('20260514210821');
+    ('20260514210821'),
+    ('20260515211035');
