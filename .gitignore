@@ -5,5 +5,6 @@ __pycache__/
 .DS_Store
 *.db
 /api/json/
-/sql/jsons_of_sql_tables/.env
+/sql/jsons_of_sql_tables/
+.env
 data/
