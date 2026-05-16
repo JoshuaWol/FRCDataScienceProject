@@ -43,11 +43,10 @@ for row in range(0,len(calc_df)):
         calced_auto_data.append(calced_list)
     prev_team = current_team
 
-print(team_seen)
+
 calced_auto_df = pd.DataFrame(calced_auto_data, columns = col_list)
 
-print(calced_auto_df.head(5))
-print(calced_auto_df.columns.tolist())
+
 
 with get_sqlalchemy_connection() as conn:
     calced_auto_df.to_sql(name = 'match_auto_data_calc',  con = conn, schema = 'features', if_exists='append', index=False)
