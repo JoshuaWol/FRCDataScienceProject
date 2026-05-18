@@ -14,8 +14,10 @@ match_data_df = load_df_from_db('features', 'matches_eda')
 match_data_df.sort_values(ascending = True, by = 'actual_time', inplace= True)
 match_data_df = transform_shift_to_phase(match_data_df[IMPORTANT_FEATURES])
 match_data_df_non_num = match_data_df.drop( labels  = match_data_df.select_dtypes(include = 'number').columns.tolist(), axis = 1)
-calc_df = match_data_df[['actual_time','team_key1','team_key2','team_key3','auto_points','match_key']]
+calc_df = match_data_df[['actual_time','team_key1','team_key2','team_key3','auto_points','match_key','alliance']]
+calc_df['opp_auto_points'] = calc_df.groupby('match_key')['auto_points'].transform('sum') - calc_df['auto_points']
 team_col_name = ['team_key1','team_key2','team_key3']
+calc_df.head(25)
 
 calc_df = calc_df.melt(id_vars = calc_df.columns.difference(team_col_name).tolist(), value_vars = team_col_name, var_name = "droppable", value_name = "team_key")
 calc_df.drop(columns = 'droppable', inplace = True)
@@ -34,12 +36,14 @@ for row in range(0,len(calc_df)):
     current_team = current_row['team_key'].item()
     current_match = current_row['match_key'].item()
     current_time = current_row['actual_time'].item()
+    current_alliance = current_row['alliance'].item()
+    current_opp_score = current_row['opp_auto_points'].item()
     calced_list = [current_team, current_match, current_time]
     team_seen[current_match].append(current_team)
     team_auto_dict[current_team].append(current_row['auto_points'].item())
     dict_list = team_auto_dict[current_team]
     if len(dict_list) > 1 :
-        calced_list.extend(get_math_calced_list(dict_list))
+        calced_list.extend(get_math_calced_list(dict_list, current_alliance, current_opp_score))
         calced_auto_data.append(calced_list)
     prev_team = current_team
 

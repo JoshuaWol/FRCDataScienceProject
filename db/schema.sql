@@ -82,7 +82,10 @@ CREATE TABLE features.match_auto_data_calc (
     min_season_last_auto_points integer,
     std_season_last_auto_points integer,
     trend_season_last_auto_points integer,
-    prev_match_count integer
+    prev_match_count integer,
+    auto_points integer,
+    alliance character varying,
+    opp_auto_points integer
 );
 
 
@@ -429,4 +432,5 @@ INSERT INTO public.schema_migrations (version) VALUES
     ('20260513151709'),
     ('20260513155951'),
     ('20260514210821'),
-    ('20260515211035');
+    ('20260515211035'),
+    ('20260518194607');

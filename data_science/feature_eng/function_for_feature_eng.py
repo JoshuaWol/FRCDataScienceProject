@@ -5,15 +5,16 @@ LOOKBACK_RANGE = [3,5,10, 'season']
 MATCH_FUNCTIONS = ['mean', 'max', 'min', 'std', 'trend']
 
 def get_math_list() -> list:
-    col_math_list = ['team_key','match_key', 'actual_time','last_auto_points']
+    col_math_list = ['team_key','match_key', 'actual_time', 'last_auto_points']
     for i in LOOKBACK_RANGE:
         for each in MATCH_FUNCTIONS:
             col_math_list.append(f"{each}_{i}_last_auto_points")
     col_math_list.append("prev_match_count")
+    col_math_list.extend(['auto_points', 'alliance', 'opp_auto_points'])
     return col_math_list
 
 
-def get_math_calced_list(scores:list[int]) -> list[int]:
+def get_math_calced_list(scores:list[int],alliance:str, opp_score) -> list[int]:
     count = len(scores)-1
     result_list = []
     if count == 0:
@@ -36,4 +37,5 @@ def get_math_calced_list(scores:list[int]) -> list[int]:
             slope,intercept = np.polyfit(range(i),scores[:i], deg = 1)
         result_list.append(slope)
     result_list.append(count)
+    result_list.extend([scores[-1],alliance, opp_score])
     return result_list
