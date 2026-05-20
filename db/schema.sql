@@ -23,6 +23,13 @@ CREATE SCHEMA features;
 
 
 --
+-- Name: ml_studies; Type: SCHEMA; Schema: -; Owner: -
+--
+
+CREATE SCHEMA ml_studies;
+
+
+--
 -- Name: predictions; Type: SCHEMA; Schema: -; Owner: -
 --
 
@@ -433,4 +440,5 @@ INSERT INTO public.schema_migrations (version) VALUES
     ('20260513155951'),
     ('20260514210821'),
     ('20260515211035'),
-    ('20260518194607');
+    ('20260518194607'),
+    ('20260520183834');
