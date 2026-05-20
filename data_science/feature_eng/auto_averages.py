@@ -1,12 +1,13 @@
 from collections import defaultdict
 import pandas as pd
 import time
+import numpy as np
 
 
 from sql.load_db_to_df import load_df_from_db
 from data_science.data_science_functions import transform_shift_to_phase
 from config import IMPORTANT_FEATURES
-from function_for_feature_eng import get_math_list, get_math_calced_list
+from function_for_feature_eng import get_match_auto_data_list, get_match_auto_data_value_list, get_math_list_first_match_missing
 from sql.data_science_db import get_sqlalchemy_connection
 
 start_time = time.time()
@@ -27,7 +28,7 @@ calc_df.reset_index(inplace = True)
 
 prev_team = ""
 team_auto_dict = defaultdict(list)
-col_list=get_math_list()
+col_list=get_match_auto_data_list()
 calced_auto_data = []
 team_seen = defaultdict(list)
 for row in range(0,len(calc_df)):
@@ -42,15 +43,38 @@ for row in range(0,len(calc_df)):
     team_seen[current_match].append(current_team)
     team_auto_dict[current_team].append(current_row['auto_points'].item())
     dict_list = team_auto_dict[current_team]
-    if len(dict_list) > 1 :
-        calced_list.extend(get_math_calced_list(dict_list, current_alliance, current_opp_score))
-        calced_auto_data.append(calced_list)
+    calced_list.extend(get_match_auto_data_value_list(dict_list, current_alliance, current_opp_score))
+    calced_auto_data.append(calced_list)
     prev_team = current_team
 
 
 calced_auto_df = pd.DataFrame(calced_auto_data, columns = col_list)
+calced_auto_df.sort_values(by = 'actual_time', ascending= True, inplace=True)
+calced_auto_df.reset_index(drop=True, inplace = True)
+
+print(calced_auto_df.head())
+end_time = time.time()
+print(start_time - end_time)
 
 
+for row in range(len(calced_auto_df)):
+    last_row = row-1
+    if pd.isna(calced_auto_df.at[row,'last_auto_points']) :
+        if row == 0 or row == 1:
+            print('check')
+            for each in get_math_list_first_match_missing():
+                calced_auto_df.at[row,each] = 0
+            continue
+        if calced_auto_df.at[row,'match_key'] == calced_auto_df.at[row-1,'match_key']:
+            last_row -= 1
+        for each in get_math_list_first_match_missing():
+            med = calced_auto_df.loc[:last_row, each].median()
+            calced_auto_df.at[row, each] = 0 if pd.isna(med) else med
+
+
+print(calced_auto_df.head())
+end_time = time.time()
+print(start_time - end_time)
 
 with get_sqlalchemy_connection() as conn:
     calced_auto_df.to_sql(name = 'match_auto_data_calc',  con = conn, schema = 'features', if_exists='append', index=False)
