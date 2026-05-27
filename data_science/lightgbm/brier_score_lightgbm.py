@@ -7,10 +7,12 @@ import lightgbm as lgb
 from scipy.stats import norm
 import streamlit as st
 import plotly.express as px
+import plotly.graph_objects as go
 
 
 from sql.load_db_to_df import load_df_from_db
 from config import  auto_point_reg_gbm
+from data_science.pipeline.split_train_test_data import split_train_test_data_from_target_column_feature_columns_and_date
 
 
 
@@ -62,6 +64,8 @@ Y_train = Y[train_mask]
 X_test = X[test_mask]
 Y_test = Y[test_mask]
 
+# X_train, X_test, Y_train, Y_test = split_train_test_data_from_target_column_feature_columns_and_date(slots_df,target_col='auto_points', date = split_date, feature_cols= feature_cols)
+
 brier_score_df = slots_df[test_mask]
 brier_score_df = brier_score_df[['match_key','alliance','team_key1','team_key2','team_key3','auto_won']]
 brier_score_df['pred_auto_points'] = model.predict(X_test)
@@ -82,14 +86,10 @@ m = lgb.LGBMRegressor(**params)
 m.fit(X_std_train, Y_std_train)
 Y_std_pred = m.predict(X_std_test)
 rmse = root_mean_squared_error(Y_std_test,Y_std_pred)
-print(rmse)
 
 #calculate the change of each team winning
 rmse_real = 6.3
 brier_score_df['win_pct'] =1- norm.cdf(0, loc = brier_score_df['pred_auto_points'] - brier_score_df['opp_pred_auto_points'], scale = rmse_real * np.sqrt(2))
-
-
-st.text(str(brier_score_loss( brier_score_df['auto_won'], brier_score_df['win_pct'])))
 
 brier_score_df['pct_bin'] = pd.cut(brier_score_df['win_pct'], bins=10)
 
@@ -101,11 +101,19 @@ cal = brier_score_df.groupby('pct_bin', observed=True).agg(
     count=('auto_won', 'count')
 ).reset_index()
 
-fig = px.scatter(cal, x='mean_pred', y='actual_win_rate', title='Calibration Plot')
+fig = px.scatter(cal, x='mean_pred', y='actual_win_rate', title='Auto Win Prediction Calibration (2026)',
+                 color_discrete_sequence=['lightblue'],
+                 labels={'mean_pred': 'predicted_win_rate', 'actual_win_rate': 'actual_win_rate'})
+fig.update_traces(name='actual_win_rate', showlegend=True,
+                  hovertemplate='mean_pred: %{x:.3f}<br>actual_win_rate: %{y:.3f}<extra></extra>')
 fig.add_bar(x=cal['mean_pred'], y=cal['count'], opacity=0.3, name='sample count', yaxis='y2')
-fig.add_shape(type='line', x0=0, y0=0, x1=1, y1=1, line=dict(dash='dash', color='red'))
+fig.add_trace(go.Scatter(x=[0, 1], y=[0, 1], mode='lines', name='ideal correlation',
+                         line=dict(dash='dash', color='red')))
 
 fig.update_layout(
-    yaxis2=dict(title='sample count', overlaying='y', side='right')
+    yaxis2=dict(title='sample count', overlaying='y', side='right', showgrid=False, range=[0, 4000], tickvals=[0, 800, 1600, 2400, 3200, 4000]),
+    legend=dict(x=1.15, y=1)
 )
 st.plotly_chart(fig)
+
+st.text(f"The brier_score is {brier_score_loss( brier_score_df['auto_won'], brier_score_df['win_pct']):.4f} and statbotics total match brier_score is ~0.180 (closer to 0 is better)")
