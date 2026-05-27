@@ -15,20 +15,21 @@ import optuna.visualization as vis
 import optuna
 from optuna.study import MaxTrialsCallback
 from optuna.trial import TrialState
+import joblib
 
 
 from sql.load_db_to_df import load_df_from_db
-from config import POSTGRESQL_OPTUNA_DB_URL
+from config import POSTGRESQL_OPTUNA_DB_URL, MODEL_DIR
 
 
 def objective(trial):
     params = {
-    'num_leaves':         trial.suggest_int('num_leaves', 90, 130),
-    'learning_rate':      trial.suggest_float('learning_rate', 0.01, 0.06, log=True),
-    'min_child_samples':  trial.suggest_int('min_child_samples', 10, 20),
-    'feature_fraction':   trial.suggest_float('feature_fraction', 0.6, 0.9),
-    'bagging_fraction':   trial.suggest_float('bagging_fraction', 0.8, 0.99),
-    'max_depth':          trial.suggest_int ('max_depth', 12, 10000, log=True),
+    'num_leaves':         trial.suggest_int('num_leaves', 50, 130),
+    'learning_rate':      trial.suggest_float('learning_rate', 0.01, 0.16, log=True),
+    'min_child_samples':  trial.suggest_int('min_child_samples', 5, 60),
+    'feature_fraction':   trial.suggest_float('feature_fraction', 0.5, 0.9),
+    'bagging_fraction':   trial.suggest_float('bagging_fraction', 0.5, 0.9),
+    # 'max_depth':          trial.suggest_int ('max_depth', 12, 10000, log=True),
     # 'bagging_freq':       trial.suggest_int('bagging_freq', 0, 7),   Features < 0.01
     # 'reg_alpha':          trial.suggest_float('reg_alpha', 1e-8, 10, log=True),  Features <0.01
     # 'reg_lambda':         trial.suggest_float('reg_lambda', 1e-8, 10, log=True), Features <0.01
@@ -55,11 +56,10 @@ def objective(trial):
         scores.append(mean_absolute_error(Y_val_idx,val_preds))
 
         train_preds = model.predict(X_train_idx)
-        train_scores.append(mean_absolute_error(Y_train_idx, train_preds))
-
+        train_scores.append(mean_absolute_error(Y_train_idx,train_preds))
         hold_test_preds = model.predict(X_test)
         hold_test_scores.append(mean_absolute_error(Y_test, hold_test_preds))
-
+    print(len(scores),len(train_scores),len(hold_test_scores))
     val_mae = sum(scores) / len(scores)
     train_mae = sum(train_scores) / len(train_scores)
     hold_test_mae = sum(hold_test_scores) / len(hold_test_scores)
@@ -81,9 +81,13 @@ def callback(study, trial):
     status.text(f"Trial {done}/{TARGET_MAX_TRIALS} — best so far: {study.best_value:.4f}")
 
 
-STUDY_NAME = 'Auto_RegressionGBM_Quad_Plot'
+# STUDY_NAME = 'Auto_RegressionGBM_Quad_Plot'
+STUDY_NAME = 'Auto_RegressionGBM_LARGE_RANGE'
 STORAGE_NAME = POSTGRESQL_OPTUNA_DB_URL
-TARGET_MAX_TRIALS = 90
+TARGET_MAX_TRIALS = 1
+TIME_STR =  time.strftime('%Y%m%d_%H%M',time.localtime())
+FILE_MODEL_NAME = f"{TIME_STR}_{STUDY_NAME}.pk1"
+MODEL_PATH = MODEL_DIR / FILE_MODEL_NAME
 
 
 progress = st.progress(0)
@@ -136,8 +140,15 @@ X_test = X[test_mask]
 Y_test = Y[test_mask]
 
 
-study = optuna.create_study(direction = 'minimize', study_name = STUDY_NAME, storage = STORAGE_NAME, load_if_exists = True)
-study.optimize(objective, n_trials = 30, n_jobs = 4, show_progress_bar= True, callbacks = [callback, MaxTrialsCallback(TARGET_MAX_TRIALS, states = (TrialState.COMPLETE,))])
+storage = optuna.storages.RDBStorage(
+    url=STORAGE_NAME,
+    engine_kwargs={
+        "pool_pre_ping": True,
+        "pool_recycle": 300,
+    },
+)
+study = optuna.create_study(direction='minimize', study_name=STUDY_NAME, storage=storage, load_if_exists=True)
+study.optimize(objective, n_trials = 2000, n_jobs = 4, show_progress_bar= True, callbacks = [callback, MaxTrialsCallback(TARGET_MAX_TRIALS, states = (TrialState.COMPLETE,))])
 
 
 final_model = lgb.LGBMRegressor(**study.best_params).fit(X_train, Y_train)
@@ -148,6 +159,8 @@ print(f"RMSE on held-out test: {root_mean_squared_error(Y_test, test_preds):.4f}
 end_time = time.time()
 print(start_time - end_time)
 
+joblib.dump(final_model, MODEL_PATH)
+
 st.plotly_chart(vis.plot_optimization_history(study))
 st.plotly_chart(vis.plot_param_importances(study))
 st.plotly_chart(vis.plot_parallel_coordinate(study))
@@ -155,7 +168,7 @@ st.plotly_chart(vis.plot_slice(study))
 st.text(f"MAE on held-out test: {mean_absolute_error(Y_test, test_preds):.4f}")
 st.text(f"RMSE on held-out test: {root_mean_squared_error(Y_test, test_preds):.4f}")
 
-scatter_test_pred_fig = px.scatter(x = Y_test, y = test_preds)
+scatter_test_pred_fig = px.scatter(x = Y_test, y = test_preds) 
 st.plotly_chart(scatter_test_pred_fig)
 
 user_attr_df = study.trials_dataframe()
