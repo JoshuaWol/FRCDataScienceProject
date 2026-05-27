@@ -11,44 +11,11 @@ from data_science.pipeline.combine_and_sort_teams_in_alliance_based_on_target_co
 
 match_data_df = load_df_from_db('features', 'match_auto_data_calc')
 
-slots_df = load_df_from_db('features', 'matches_eda')[
-        ['match_key', 'team_key1', 'team_key2', 'team_key3', 'auto_points', 'actual_time', 'alliance']
-]
-
-slots_df = slots_df.drop_duplicates(subset=['match_key', 'alliance'])
-
-stat_cols = [col for col in match_data_df.columns
-             if col not in ['team_key', 'match_key', 'actual_time', 'auto_points', 'alliance', 'opp_auto_points']]
-
-wide_df = slots_df.copy()
-for i, team in enumerate(['team_key1', 'team_key2', 'team_key3'], 1):
-    team_stats = (
-        match_data_df[['team_key', 'match_key', 'alliance'] + stat_cols]
-        .rename(columns={'team_key': team})
-        .rename(columns={c: f't{i}_{c}' for c in stat_cols})
-    )
-    wide_df = wide_df.merge(team_stats, on=['match_key', team, 'alliance'], how='left')
-
-
-season_avgs = wide_df[[
-    't1_mean_season_last_auto_points',
-    't2_mean_season_last_auto_points',
-    't3_mean_season_last_auto_points'
-]].fillna(0).values
-sort_order = np.argsort(season_avgs, axis=1)[:, ::-1]
-
-for c in stat_cols:
-    vals = wide_df[[f't1_{c}', f't2_{c}', f't3_{c}']].values
-    wide_df[[f't1_{c}', f't2_{c}', f't3_{c}']] = vals[np.arange(len(vals))[:, None], sort_order]
-
-wide_df_func = combine_and_sort_teams_in_alliance_based_on_target_col_and_match_key(match_data_df, 'mean_season_last_auto_points', index =  ['match_key','alliance', 'actual_time','auto_points'],
+wide_df = combine_and_sort_teams_in_alliance_based_on_target_col_and_match_key(match_data_df, 'mean_season_last_auto_points', index =  ['match_key','alliance', 'actual_time','auto_points'],
                                                                                 non_stats_cols=['team_key', 'match_key', 'actual_time', 'auto_points', 'alliance', 'opp_auto_points','rank', 'auto_won'] )
-
 
 feature_cols = [c for c in wide_df.columns if c.startswith(('t1_', 't2_', 't3_'))]
 split_date = '2026-04-10'
-
-
 X_train, X_test, Y_train, Y_test = split_train_test_data_from_target_column_feature_columns_and_date(wide_df, target_col = 'auto_points', feature_cols=feature_cols, date=split_date )
 
 model = lgb.LGBMRegressor(
@@ -62,8 +29,6 @@ model = lgb.LGBMRegressor(
 model.fit(X_train, Y_train, eval_set=[(X_test, Y_test)])
 
 Y_pred = model.predict(X_test)
-
 print_rmse_and_mae(Y_pred, Y_test)
 st_print_rmse_and_mae(Y_pred, Y_test)
-
 st_plot_scatter_pred_vs_test(Y_pred, Y_test)
