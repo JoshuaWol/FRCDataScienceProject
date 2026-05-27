@@ -9,95 +9,32 @@ import json
 
 from sql.load_db_to_df import load_df_from_db
 from config import auto_point_reg_gbm, SHAP_DIR, auto_point_reg_gbm_file
+from data_science.pipeline.combine_and_sort_teams_in_alliance_based_on_target_col import combine_and_sort_teams_in_alliance_based_on_target_col_and_match_key
+from data_science.pipeline.split_train_test_data import split_train_test_data_from_target_column_feature_columns_and_date
+from data_science.pipeline.shap_plots_functions import plot_shap, plot_shap_summary
+
 
 
 
 #import best parameters from optuna study and sql data
 match_auto_data_df = load_df_from_db(schema = 'features', table = 'match_auto_data_calc')
 match_auto_data_df['auto_won'] = (match_auto_data_df['auto_points'] > match_auto_data_df['opp_auto_points']).astype(int)
-match_auto_data_df = match_auto_data_df.sort_values('mean_season_last_auto_points', ascending= False)
-match_auto_data_df['rank'] = match_auto_data_df.groupby(['match_key','alliance']).cumcount() + 1
-match_auto_data_df['rank'] = "team_key" + match_auto_data_df['rank'].astype(str)
 
-slots_df = match_auto_data_df.pivot(index = ['match_key','alliance','auto_won', 'actual_time','auto_points'], columns = 'rank', values = 'team_key')
-
-match_auto_data_df.drop(columns='rank')
-
-
-
-stat_cols = [col for col in match_auto_data_df.columns
-             if col not in ['team_key', 'match_key', 'actual_time', 'auto_points', 'alliance', 'opp_auto_points','rank', 'auto_won']]
-
-
-for i, col in enumerate(['team_key1', 'team_key2', 'team_key3'],1):
-    rename_dict = {col: f't{i}_{col}' for col in stat_cols}
-    slots_df = slots_df.merge(
-        match_auto_data_df.set_index(['team_key', 'match_key', 'alliance','auto_won','actual_time','auto_points'])[stat_cols],
-        left_on = [col, 'match_key', 'alliance','auto_won','actual_time','auto_points'],
-        right_index = True,
-        how = 'left'
-    ).rename(columns = rename_dict)
-slots_df = slots_df.reset_index()
+slots_df = combine_and_sort_teams_in_alliance_based_on_target_col_and_match_key(match_auto_data_df, 'mean_season_last_auto_points')
 
 # # calculate mean and std for each future match
-# model = joblib.load(MODEL_DIR / "20260521_1430_Auto_RegressionGBM_LARGE_RANGE.pk1")
 model = joblib.load(auto_point_reg_gbm)
 params = model.get_params()
 
 feature_cols = [c for c in slots_df.columns if c.startswith(('t1_', 't2_', 't3_'))]
-
-
-X = slots_df[feature_cols]
-Y = slots_df['auto_points']
-
 split_date = '2026-04-10'
-
-train_mask = slots_df['actual_time'] < split_date
-test_mask = slots_df['actual_time'] >= split_date
-
-X_train = X[train_mask]
-Y_train = Y[train_mask]
-X_test = X[test_mask]
-Y_test = Y[test_mask]
-
-
-def dark_plots(func):
-    def wrapper(*args, **kwargs):
-        with plt.style.context(['dark_background', {'text.color': "#f3ecec", 'axes.labelcolor': '#e0e0e0', 'xtick.color': '#e0e0e0', 'ytick.color': '#e0e0e0'}]):
-            return func(*args, **kwargs)
-    return wrapper
-
-@dark_plots
-def plot_shap(shap_values:shap, plot_type:str,  **kwargs):
-    fig, ax = plt.subplots()
-    plot_func = getattr(shap.plots, plot_type)
-    if plot_type == 'waterfall':
-        plot_func(shap_values[kwargs.get('index', 0)], show=False)
-    elif plot_type == 'scatter':
-        plot_func(shap_values[:, kwargs['feature']], show=False)
-    else:
-        plot_func(shap_values, show=False, **{k: v for k, v in kwargs.items() if k != 'index'})
-        if len(plt.gca().get_yticklabels()) > 0 :
-            for label in plt.gca().get_yticklabels():
-                label.set_color('#e0e0e0')
-    st.pyplot(fig); plt.close(fig)
-
-@dark_plots
-def plot_shap_summary(shap_values, X_test, **kwargs):
-    fig, ax = plt.subplots()
-    shap.summary_plot(shap_values, X_test, show=False, **{k: v for k, v in kwargs.items() if k != 'index'})
-    for label in plt.gca().get_yticklabels():
-        label.set_color('#e0e0e0')
-    st.pyplot(fig); plt.close(fig)
-
+X_train, X_test, Y_train, Y_test = split_train_test_data_from_target_column_feature_columns_and_date(slots_df, target_col='auto_points', feature_cols=feature_cols, date= split_date)
 
 explainer = shap.TreeExplainer(model)
 shap_values = explainer(X_test)
 
 
 plot_shap_summary(shap_values, X_test, max_display=len(X_test.columns))        
-
-
 plot_shap(shap_values, 'waterfall')
 plot_shap(shap_values, 'bar', max_display=len(X_test.columns))
 plot_shap(shap_values, 'beeswarm')
