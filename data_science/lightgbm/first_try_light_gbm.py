@@ -5,6 +5,9 @@ import streamlit as st
 import plotly.express as px
 
 from sql.load_db_to_df import load_df_from_db
+from data_science.pipeline.split_train_test_data import split_train_test_data_from_target_column_feature_columns_and_date
+from data_science.pipeline.show_model_results import print_rmse_and_mae, st_print_rmse_and_mae, st_plot_scatter_pred_vs_test
+from data_science.pipeline.combine_and_sort_teams_in_alliance_based_on_target_col import combine_and_sort_teams_in_alliance_based_on_target_col_and_match_key
 
 match_data_df = load_df_from_db('features', 'match_auto_data_calc')
 
@@ -26,7 +29,7 @@ for i, team in enumerate(['team_key1', 'team_key2', 'team_key3'], 1):
     )
     wide_df = wide_df.merge(team_stats, on=['match_key', team, 'alliance'], how='left')
 
-print(wide_df.columns.tolist())
+
 season_avgs = wide_df[[
     't1_mean_season_last_auto_points',
     't2_mean_season_last_auto_points',
@@ -38,19 +41,15 @@ for c in stat_cols:
     vals = wide_df[[f't1_{c}', f't2_{c}', f't3_{c}']].values
     wide_df[[f't1_{c}', f't2_{c}', f't3_{c}']] = vals[np.arange(len(vals))[:, None], sort_order]
 
-feature_cols = [c for c in wide_df.columns if c.startswith(('t1_', 't2_', 't3_'))]
-X = wide_df[feature_cols]
-Y = wide_df['auto_points']
+wide_df_func = combine_and_sort_teams_in_alliance_based_on_target_col_and_match_key(match_data_df, 'mean_season_last_auto_points', index =  ['match_key','alliance', 'actual_time','auto_points'],
+                                                                                non_stats_cols=['team_key', 'match_key', 'actual_time', 'auto_points', 'alliance', 'opp_auto_points','rank', 'auto_won'] )
 
+
+feature_cols = [c for c in wide_df.columns if c.startswith(('t1_', 't2_', 't3_'))]
 split_date = '2026-04-10'
 
-train_mask = wide_df['actual_time'] < split_date
-test_mask = wide_df['actual_time'] >= split_date
 
-X_train = X[train_mask]
-y_train = Y[train_mask]
-X_test = X[test_mask]
-y_test = Y[test_mask]
+X_train, X_test, Y_train, Y_test = split_train_test_data_from_target_column_feature_columns_and_date(wide_df, target_col = 'auto_points', feature_cols=feature_cols, date=split_date )
 
 model = lgb.LGBMRegressor(
     objective='regression',
@@ -60,10 +59,11 @@ model = lgb.LGBMRegressor(
     n_jobs=1,
 )
 
-model.fit(X_train, y_train, eval_set=[(X_test, y_test)])
+model.fit(X_train, Y_train, eval_set=[(X_test, Y_test)])
 
-preds = model.predict(X_test)
-print(f"MAE: {mean_absolute_error(y_test, preds):.2f}")
-print(f"RMSE: {root_mean_squared_error(y_test, preds):.2f}")
+Y_pred = model.predict(X_test)
 
-st.plotly_chart(px.scatter(x=y_test, y=preds))
+print_rmse_and_mae(Y_pred, Y_test)
+st_print_rmse_and_mae(Y_pred, Y_test)
+
+st_plot_scatter_pred_vs_test(Y_pred, Y_test)
