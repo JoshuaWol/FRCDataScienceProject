@@ -5,7 +5,7 @@ import numpy as np
 
 
 from sql.load_db_to_df import load_df_from_db
-from data_science.data_science_functions import transform_shift_to_phase
+from data_science.pipeline.transform_shift_to_phase import transform_shift_to_phase
 from config import IMPORTANT_FEATURES
 from function_for_feature_eng import get_match_auto_data_list, get_match_auto_data_value_list, get_math_list_first_match_missing
 from sql.data_science_db import get_sqlalchemy_connection
