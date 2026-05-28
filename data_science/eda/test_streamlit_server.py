@@ -6,36 +6,36 @@ import numpy as np
 
 from dython.nominal import associations
 from config import IMPORTANT_FEATURES_PHASE, IMPORTANT_FEATURES
-from data_science.data_science_functions import transform_shift_to_phase
+from data_science.pipeline.data_science_functions import transform_shift_to_phase
 
 
 from sql.data_science_db import get_sqlalchemy_connection
 
-@st.cache_data
+# @st.cache_data
 def load_features__matches_eda() -> pd.DataFrame:
     with get_sqlalchemy_connection() as conn:
         return pd.read_sql_table('matches_eda',con = conn,schema="features")
 
-@st.cache_data
+# @st.cache_data
 def load_schema_table(schema:str, table:str) -> pd.DataFrame:
     with get_sqlalchemy_connection() as conn:
         return pd.read_sql_table(table,con = conn,schema=schema)
 
 
-@st.cache_data
+# @st.cache_data
 def make_scatter(df:pd.DataFrame,x:str,y:str) -> px.scatter:
     return px.scatter( data_frame=df, x=x, y=y, render_mode="webgl")
 
 
-@st.cache_data
+# @st.cache_data
 def make_bar_list_y(df:pd.DataFrame,x:str,y:list[str],*,title:str = "Missing Values") -> px.bar:
     return px.bar( data_frame=df, x=x, y=y, orientation = 'v', barmode = 'group', title=title)
 
-@st.cache_data
+# @st.cache_data
 def make_bar_plot(df:pd.DataFrame,x:str,y:str,*,title:str = "Missing Values") -> px.bar:
     return px.bar( data_frame=df, x=x, y=y, orientation = 'v', barmode = 'group', title=title)
 
-@st.cache_data
+# @st.cache_data
 def make_box_plot(df:pd.DataFrame,y:list[str],*,title:str = "Missing Values"):
     return px.box( data_frame=df, y=y, title=title)
 
@@ -51,7 +51,7 @@ matches_eda_df = transform_shift_to_phase(matches_eda_df)
 matches_eda_df_cols_num = matches_eda_df.select_dtypes(include="number").columns.tolist()
 x_axis_selection = st.selectbox("X axis", matches_eda_df_cols_num)
 y_axis_selection = st.selectbox("Y axis",matches_eda_df_cols_num)
-# st.scatter_chart(data=matches_eda_df,x=x_axis_selection, y=y_axis_selection )
+st.scatter_chart(data=matches_eda_df,x=x_axis_selection, y=y_axis_selection )
 # st.plotly_chart(make_scatter(matches_eda_df,x_axis_selection,y_axis_selection),width='stretch')
 
 
@@ -98,18 +98,18 @@ for schema in schema_table_dict:
 
 
 
-# ###Correlation Matrices
-# exclude = ['match_key','team_key1','team_key2','team_key3','event_key']
-# df_for_corr = matches_eda_df.drop(columns = exclude)
-# df_encoded = pd.get_dummies(df_for_corr, drop_first = False)
-# corr = df_encoded.corr(method = 'pearson')
-# st.text('Pearson Correlation')
-# # fig1 = px.imshow(corr,
-# #                 color_continuous_scale='RdBu_r',
-# #                 zmin=-1, zmax=1,
-# #                 aspect='auto',
-# #                 text_auto='.2f',)
-# # st.plotly_chart(fig1, width = 'stretch')
+###Correlation Matrices
+exclude = ['match_key','team_key1','team_key2','team_key3','event_key']
+df_for_corr = matches_eda_df.drop(columns = exclude)
+df_encoded = pd.get_dummies(df_for_corr, drop_first = False)
+corr = df_encoded.corr(method = 'pearson')
+st.text('Pearson Correlation')
+fig1 = px.imshow(corr,
+                color_continuous_scale='RdBu_r',
+                zmin=-1, zmax=1,
+                aspect='auto',
+                text_auto='.2f',)
+st.plotly_chart(fig1, width = 'stretch')
 
 # corr_spearman = df_encoded.corr(method = 'spearman')
 # # fig2 = px.imshow(corr_spearman,

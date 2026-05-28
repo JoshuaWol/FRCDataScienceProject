@@ -10,7 +10,7 @@ def dark_plots(func):
             return func(*args, **kwargs)
     return wrapper
 
-@dark_plots
+@dark_plots 
 def plot_shap(shap_values:shap, plot_type:str,  **kwargs):
     fig, ax = plt.subplots()
     plot_func = getattr(shap.plots, plot_type)

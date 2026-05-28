@@ -16,7 +16,6 @@ state_district_dict = {
     "IN": 'fin',
     'DE': 'fma',
     'NJ': 'fma',
-    'PA': 'fma',
     'NC': 'fnc',
     'SC': 'fsc',
     'MA': 'ne',

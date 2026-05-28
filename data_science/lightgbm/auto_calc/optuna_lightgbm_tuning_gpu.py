@@ -107,7 +107,7 @@ Y_test = Y[test_mask]
 
 
 study = optuna.create_study(direction = 'minimize')
-study.optimize(objective, n_trials = 100, n_jobs = 4, show_progress_bar= True, callbacks = [callback])
+study.optimize(objective, n_trials = 100, n_jobs = 1, show_progress_bar= True, callbacks = [callback])
 
 
 final_model = lgb.LGBMRegressor(**study.best_params).fit(X_train, Y_train)

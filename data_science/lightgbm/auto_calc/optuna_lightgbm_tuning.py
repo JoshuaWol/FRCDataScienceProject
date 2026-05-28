@@ -1,25 +1,33 @@
 import time
-# from sklearnex import patch_sklearn
-# patch_sklearn()
 
 
-import lightgbm as lgb
-import numpy as np
-from sklearn.metrics import mean_absolute_error, root_mean_squared_error
-from sklearn.model_selection import TimeSeriesSplit
-import threading
-import streamlit as st
-from streamlit.runtime.scriptrunner import add_script_run_ctx, get_script_run_ctx
-import plotly.express as px
-import optuna.visualization as vis
-import optuna
 from optuna.study import MaxTrialsCallback
 from optuna.trial import TrialState
+from sklearn.metrics import mean_absolute_error, root_mean_squared_error
+from sklearn.model_selection import TimeSeriesSplit
+from streamlit.runtime.scriptrunner import add_script_run_ctx, get_script_run_ctx
 import joblib
+import lightgbm as lgb
+import numpy as np
+import optuna
+import optuna.visualization as vis
+import plotly.express as px
+import streamlit as st
+import threading
 
 
-from sql.load_db_to_df import load_df_from_db
 from config import POSTGRESQL_OPTUNA_DB_URL, MODEL_DIR
+from sql.load_db_to_df import load_df_from_db
+
+
+
+# STUDY_NAME = 'Auto_RegressionGBM_Quad_Plot'
+STUDY_NAME = 'Auto_RegressionGBM_LARGE_RANGE'
+STORAGE_NAME = POSTGRESQL_OPTUNA_DB_URL
+TARGET_MAX_TRIALS = 2435
+TIME_STR =  time.strftime('%Y%m%d_%H%M',time.localtime())
+FILE_MODEL_NAME = f"{TIME_STR}_{STUDY_NAME}.pk1"
+MODEL_PATH = MODEL_DIR / FILE_MODEL_NAME
 
 
 def objective(trial):
@@ -29,13 +37,8 @@ def objective(trial):
     'min_child_samples':  trial.suggest_int('min_child_samples', 5, 60),
     'feature_fraction':   trial.suggest_float('feature_fraction', 0.5, 0.9),
     'bagging_fraction':   trial.suggest_float('bagging_fraction', 0.5, 0.9),
-    # 'max_depth':          trial.suggest_int ('max_depth', 12, 10000, log=True),
-    # 'bagging_freq':       trial.suggest_int('bagging_freq', 0, 7),   Features < 0.01
-    # 'reg_alpha':          trial.suggest_float('reg_alpha', 1e-8, 10, log=True),  Features <0.01
-    # 'reg_lambda':         trial.suggest_float('reg_lambda', 1e-8, 10, log=True), Features <0.01
     'n_estimators':       500,
     'objective':          'regression',
-    # 'random_state':       42,
     'verbose': -1,
 }
     
@@ -79,15 +82,6 @@ def callback(study, trial):
     done = len(study.trials)
     progress.progress(min(done / TARGET_MAX_TRIALS, 1.0))
     status.text(f"Trial {done}/{TARGET_MAX_TRIALS} — best so far: {study.best_value:.4f}")
-
-
-# STUDY_NAME = 'Auto_RegressionGBM_Quad_Plot'
-STUDY_NAME = 'Auto_RegressionGBM_LARGE_RANGE'
-STORAGE_NAME = POSTGRESQL_OPTUNA_DB_URL
-TARGET_MAX_TRIALS = 1
-TIME_STR =  time.strftime('%Y%m%d_%H%M',time.localtime())
-FILE_MODEL_NAME = f"{TIME_STR}_{STUDY_NAME}.pk1"
-MODEL_PATH = MODEL_DIR / FILE_MODEL_NAME
 
 
 progress = st.progress(0)
@@ -163,7 +157,6 @@ joblib.dump(final_model, MODEL_PATH)
 
 st.plotly_chart(vis.plot_optimization_history(study))
 st.plotly_chart(vis.plot_param_importances(study))
-st.plotly_chart(vis.plot_parallel_coordinate(study))
 st.plotly_chart(vis.plot_slice(study))
 st.text(f"MAE on held-out test: {mean_absolute_error(Y_test, test_preds):.4f}")
 st.text(f"RMSE on held-out test: {root_mean_squared_error(Y_test, test_preds):.4f}")
@@ -172,8 +165,9 @@ scatter_test_pred_fig = px.scatter(x = Y_test, y = test_preds)
 st.plotly_chart(scatter_test_pred_fig)
 
 user_attr_df = study.trials_dataframe()
-st.text(user_attr_df.head(10))
 user_attr_fig = px.line(data_frame = user_attr_df, x='number', y=['user_attrs_train_mae', 'user_attrs_val_mae', 'user_attrs_hold_test_mae', 'user_attrs_overfit_gap'], markers = True)
 st.plotly_chart(user_attr_fig)
+
+st.plotly_chart(vis.plot_parallel_coordinate(study))
 
 # study = optuna.load_study(study_name='frc_lgbm', storage='sqlite:///study.db')

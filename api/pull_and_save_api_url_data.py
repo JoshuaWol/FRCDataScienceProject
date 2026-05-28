@@ -1,13 +1,15 @@
-def pull_and_save_frc_api_data(frc_api_url:str, debug:bool = False) -> None:
-    from pathlib import Path
-    import json
-    import requests
+from pathlib import Path
+import json
+import requests
 
-    from api.get_folder_file_both_from_api_url import get_folder_and_json_file_name_from_frc_api_url
-    from api.get_credentials import get_frc_credentials
-    
+from api.get_folder_file_both_from_api_url import get_folder_and_json_file_name_from_frc_api_url
+from api.get_credentials import get_frc_credentials
+from api.get_folder_file_both_from_api_url import get_folder_and_json_file_name_from_tba_api_url
+from api.get_credentials import get_tba_credentials
+
+
+def pull_and_save_frc_api_data(frc_api_url:str, debug:bool = False) -> None:    
     headers_auth = {"Authorization": f"Basic {get_frc_credentials()}"}
-
 
     FolderAndFileName = get_folder_and_json_file_name_from_frc_api_url(frc_api_url)
 
@@ -26,14 +28,7 @@ def pull_and_save_frc_api_data(frc_api_url:str, debug:bool = False) -> None:
                 json.dump(response_json, f, indent=2)
 
 
-def pull_and_save_teams_frc_api_data(frc_api_url:str, debug:bool = False) -> None:
-    from pathlib import Path
-    import json
-    import requests
-
-    from api.get_folder_file_both_from_api_url import get_folder_and_json_file_name_from_frc_api_url
-    from api.get_credentials import get_frc_credentials
-    
+def pull_and_save_teams_frc_api_data(frc_api_url:str, debug:bool = False) -> None: 
     headers_auth = {"Authorization": f"Basic {get_frc_credentials()}"}
 
     FolderAndFileName = get_folder_and_json_file_name_from_frc_api_url(frc_api_url)
@@ -88,14 +83,7 @@ def pull_and_save_tba_api_data(tba_api_url:str, debug:bool = False) -> None:
                 json.dump(response_json, f, indent=2)
 
 
-def pull_and_save_tba_api_data_if_exists(tba_api_url:str, debug:bool = False) -> bool:
-    from pathlib import Path
-    import json
-    import requests
-
-    from api.get_folder_file_both_from_api_url import get_folder_and_json_file_name_from_tba_api_url
-    from api.get_credentials import get_tba_credentials
-    
+def pull_and_save_tba_api_data_if_exists(tba_api_url:str, debug:bool = False) -> bool:    
     headers_auth = {"X-TBA-Auth-Key": get_tba_credentials()}
 
 
